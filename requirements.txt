@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+matplotlib
+seaborn
+yfinance
+plotly
+jupyter
+scipy
+scikit-learn
+scrapy
+scrapyd
+scrapy-impersonate
+scrapy-playwright
+rich
