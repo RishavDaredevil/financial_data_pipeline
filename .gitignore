@@ -1,0 +1,12 @@
+# Ignore Python & R virtual environments
+envs/
+
+# Ignore log files
+logs/
+
+# Ignore backup files
+backups/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
