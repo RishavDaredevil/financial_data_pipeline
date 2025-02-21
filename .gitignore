@@ -10,3 +10,4 @@ backups/
 # Ignore compiled files
 __pycache__/
 *.pyc
+.Rproj.user
