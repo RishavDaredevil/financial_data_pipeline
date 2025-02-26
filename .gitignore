@@ -11,3 +11,5 @@ backups/
 __pycache__/
 *.pyc
 .Rproj.user
+
+/scrapers/python/RBI_Scraper/.scrapy/

@@ -1,0 +1,38 @@
+{
+    "Policy_Rates": {
+        "Policy Repo Rate": "6.25",
+        "Standing Deposit Facility Rate": "6.00",
+        "Marginal Standing Facility Rate": "6.50",
+        "Bank Rate": "6.50",
+        "Fixed Reverse Repo Rate": "3.35"
+    },
+    "Reserve_Ratios": {
+        "CRR": "4.00",
+        "SLR": "18.00"
+    },
+    "Exchange_Rates": {
+        "INR / 1 USD": "86.6916",
+        "INR / 1 GBP": "109.8238",
+        "INR / 1 EUR": "91.1117",
+        "INR / 100 JPY": "58.0100"
+    },
+    "Lending_Deposit_Rates": {
+        "Base Rate": "9.10% - 10.40",
+        "MCLR (Overnight)": "8.15% - 8.45",
+        "Savings Deposit Rate": "2.70% - 3.00",
+        "Term Deposit Rate > 1 Year": "6.00% - 7.25"
+    },
+    "Market_Trends": {
+        "Call Rates": "",
+        "7.38% GS 2027": "6.6109",
+        "7.04% GS 2029": "6.6594",
+        "6.79% GS 2034": "6.7076",
+        "6.92% GS 2039": "6.8683",
+        "7.09% GS 2054": "7.0814",
+        "91 day T-bills": "",
+        "182 day T-bills": "",
+        "364 day T-bills": "6.5638",
+        "S&P BSE Sensex": "75311.06",
+        "Nifty 50": "22795.90"
+    }
+}
