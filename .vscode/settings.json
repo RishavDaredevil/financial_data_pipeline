@@ -1,0 +1,6 @@
+{
+    "dataWrangler.debug": true,
+    "dataWrangler.enabledFileTypes": {
+        "jsonl": true
+    }
+}

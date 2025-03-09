@@ -6,6 +6,7 @@
 #     https://docs.scrapy.org/en/latest/topics/settings.html
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
+from scrapy.settings.default_settings import FILES_STORE_GCS_ACL
 
 BOT_NAME = "RBI_Scraper"
 
@@ -63,9 +64,11 @@ DOWNLOADER_MIDDLEWARES = {
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    "RBI_Scraper.pipelines.RbiScraperPipeline": 300,
-#}
+# ITEM_PIPELINES = {
+#     'RBI_Scraper.pipelines.Rbi_inflation_expectations_survey_pipeline' : 1
+# }
+
+FILES_STORE = "D:\\Desktop\\financial_data_pipeline\\scrapers\\python\\RBI_Scraper"
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

@@ -4,7 +4,6 @@ import os
 from datetime import datetime
 from rich import print
 import pandas as pd
-from collections import OrderedDict
 import scrapy
 from scrapy.exceptions import CloseSpider
 
@@ -38,7 +37,7 @@ class RbiConsumerConfidenceSurveySpider(scrapy.Spider):
         df = pd.DataFrame([[extracted_date]], columns=["date"])
         df.to_csv(self.CSV_FILE, index=False)
 
-        latest_url = response.xpath('//a[@class="mtm_list_item_heading"]/@href').get()
+        latest_url = response.xpath('(//a[@class="mtm_list_item_heading"])[1]/@href').get()
 
         yield scrapy.Request(url=latest_url, callback=self.parse_consumer_confidence_survey, cb_kwargs=dict(date=extracted_date))
 

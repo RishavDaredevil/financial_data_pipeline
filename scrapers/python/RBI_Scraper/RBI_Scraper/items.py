@@ -7,6 +7,9 @@ from scrapy.loader import ItemLoader
 from itemloaders.processors import MapCompose
 import re
 
+class RBI_inflation_expectations_survey_excel(scrapy.Item):
+    files = scrapy.Field()
+    file_urls = scrapy.Field()
 
 def clean_text(value):
     return re.sub(r'[\s::%#*-]+$', '', value.strip())
