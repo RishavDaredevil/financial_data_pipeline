@@ -1,24 +1,21 @@
 # AUTOTHROTTLE_ENABLED = True by default see if you want to change it
 # Add more user agents in middleware if you want
-# Need to schedule this on 10th of every even month
 import json
 import os
 import re
 from datetime import datetime
 from rich import print
 import pandas as pd
-import scrapy
 from scrapy.exceptions import CloseSpider
+import scrapy
 
-
-
-class RbiServicesAndInfrastructureSurveySpider(scrapy.Spider):
-    name = "rbi_services_and_infrastructure_survey"
+class RbiManufacturingSurveySpider(scrapy.Spider):
+    name = "rbi_manufacturing_survey"
     allowed_domains = ["website.rbi.org.in"]
-    start_urls = ["https://website.rbi.org.in/web/rbi/publications/articles?category=24927118&delta=100"]
-    CSV_FILE = "rbi_services_and_infrastructure_survey_last_date.csv"
+    start_urls = ["https://website.rbi.org.in/web/rbi/publications/articles?category=24927617"]
+    CSV_FILE = "rbi_manufacturing_survey.csv"
     # Define file path
-    jsonl_file_path = r"D:\Desktop\financial_data_pipeline\data\raw\RBI_data\services_and_infrastructure_survey.jsonl"
+    jsonl_file_path = r"D:\Desktop\financial_data_pipeline\data\raw\RBI_data\manufacturing_survey.jsonl"
 
     def parse(self, response):
         # print(response.text)
@@ -42,51 +39,40 @@ class RbiServicesAndInfrastructureSurveySpider(scrapy.Spider):
         yield scrapy.Request(url=latest_url, callback=self.parse_services_and_infrastructure_survey, cb_kwargs=dict(date=extracted_date))
 
     def parse_services_and_infrastructure_survey(self, response, date):
+        global custom_mapping
         tables = response.xpath('//table[@class="tablebg"]')
-        categories_services = [
+        categories_manufacturing = [
+            "Production",
+            "Order Books",
+            "Pending Orders",
+            "Capacity utilisation ( main product )",
+            "Level of capacity utilisation (compared to the average in preceding 4 quarters)",
+            "Assessment of the production capacity (with regard to expected demand in next 6 months)",
+            "Exports",
+            "Imports",
+            "Inventory of raw materials",
+            "Inventory of finished goods",
+            "Employment",
+            "Overall Financial Situation",
+            "Working Capital Finance Requirement",
+            "Availability of Finance (from Internal Accruals)",
+            "Availability of Finance (from banks and other sources)",
+            "Availability of Finance (from overseas)",
+            "Cost of finance",
+            "Cost of raw materials",
+            "Salary/Other Remuneration",
+            "Selling price",
+            "Profit margin",
             "Overall business situation",
-            "Turnover",
-            "Full-time Employees",
-            "time/Contractual/Outsourced Employees",
-            "Availability of finance",
-            "Cost of Finance (D-I)",
-            "Salary/Wages (D-I)",
-            "Cost of Inputs (D-I)(Raw material, energy, water, etc. Other than wages/salary)",
-            "Selling Price, if applicable",
-            "Profit Margin",
-            "Inventories",
-            "Technical/Service Capacity, if applicable",
-            "Physical Investment, if applicable",
-            "Estimated Spare Capacity for the Services Sector"
-        ]
-
-        categories_infrastructure = [
-            "Overall business situation",
-            "Turnover",
-            "Full-time Employees",
-            "Part-time/Contractual/Outsourced Employees",
-            "Availability of finance",
-            "Cost of Finance (D-I)",
-            "Salary/Wages (D-I)",
-            "Cost of Inputs (D-I)(Raw material, energy, water, etc. Other than wages/salary)",
-            "Selling Price, if applicable",
-            "Profit Margin",
-            "Inventories",
-            "Technical/Service Capacity, if applicable",
-            "Physical Investment, if applicable"
-        ]
-
+            "Business Sentiments"
+]
         results = {}
 
         for table_no, table in enumerate(tables):
-            if table_no == 0 or table_no == 2:
-                Category = "Services"
-                categories = categories_services
-            else:
-                Category = "Infrastructure"
-                categories = categories_infrastructure
+            Category = "Manufacturing"
+            categories = categories_manufacturing
 
-            if table_no == 0 or table_no == 1:
+            if table_no == 0 :
 
                 # finding date for data
                 rows = table.xpath('.//tbody/tr[td]')
@@ -133,11 +119,23 @@ class RbiServicesAndInfrastructureSurveySpider(scrapy.Spider):
 
                     # handling edge cases
 
-                    if re.search(r'^Salary', element, re.IGNORECASE):
-                        table_name = "Salary/Wages (D-I)"
 
-                    if table_name is None:
-                        table_name = "Part-time/Contractual/Outsourced Employees"
+                    # Custom mapping dictionary for one-to-one mapping
+                    custom_mapping = {
+                        "Financial Situation (Overall)": "Overall Financial Situation",
+                        "Availability of Finance (from internal accruals)": "Availability of Finance (from Internal Accruals)",
+                        "Availability of Finance (from banks & other sources)": "Availability of Finance (from banks and other sources)",
+                        "Availability of Finance (from overseas, if applicable)": "Availability of Finance (from overseas)",
+                        "Cost of Raw Material": "Cost of raw materials",
+                        "Cost of Raw Materials": "Cost of raw materials",
+                        "Salary/ Other Remuneration": "Salary/Other Remuneration",
+                        "Selling Prices":"Selling price",
+                        "Overall Business Situation": "Overall business situation",
+                    }
+
+                    # Check if the scraped_category matches a custom mapping
+                    if element in custom_mapping:
+                        table_name = custom_mapping[element]
 
                     if table_name not in results[Category]:
                         results[Category][table_name] = {}
@@ -151,7 +149,7 @@ class RbiServicesAndInfrastructureSurveySpider(scrapy.Spider):
                             "Expectation for 1 qtr ahead - Net Res": float(data[4])
                         }
 
-            elif table_no == 2 or table_no == 3:
+            elif table_no == 1:
 
                 # Extracting data
 
@@ -172,11 +170,10 @@ class RbiServicesAndInfrastructureSurveySpider(scrapy.Spider):
                             break
 
                     # handling edge cases
-                    if re.search(r'^Salary', element, re.IGNORECASE):
-                        table_name = "Salary/Wages (D-I)"
 
-                    if table_name is None:
-                        table_name = "Part-time/Contractual/Outsourced Employees"
+                    # Check if the scraped_category matches a custom mapping
+                    if element in custom_mapping:
+                        table_name = custom_mapping[element]
 
                     td_count = len(data)
 
@@ -194,7 +191,6 @@ class RbiServicesAndInfrastructureSurveySpider(scrapy.Spider):
             "date": extracted_date,
             "data": results
         }
-
         json_line = json.dumps(json_data)
         print(json_line)
 
@@ -220,7 +216,7 @@ class RbiServicesAndInfrastructureSurveySpider(scrapy.Spider):
                     "4": "03-01"
                 }
                 md = mapping.get(quarter_num, "01-01")
-                return f"20{year_part}-{md}"
+                return f"{year_part}-{md}"
         except:
             pass
         # Return original if something doesn't match
