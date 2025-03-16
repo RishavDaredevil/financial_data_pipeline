@@ -1,0 +1,1761 @@
+{
+  "2006-04-30": [
+    {}
+  ],
+  "2006-05-31": [
+    {}
+  ],
+  "2006-06-30": [
+    {}
+  ],
+  "2006-07-31": [
+    {}
+  ],
+  "2006-08-31": [
+    {}
+  ],
+  "2006-09-30": [
+    {}
+  ],
+  "2006-10-31": [
+    {}
+  ],
+  "2006-11-30": [
+    {}
+  ],
+  "2006-12-31": [
+    {}
+  ],
+  "2007-01-31": [
+    {}
+  ],
+  "2007-02-28": [
+    {}
+  ],
+  "2007-03-31": [
+    {}
+  ],
+  "2007-04-30": [
+    {}
+  ],
+  "2007-05-31": [
+    {}
+  ],
+  "2007-06-30": [
+    {}
+  ],
+  "2007-07-31": [
+    {}
+  ],
+  "2007-08-31": [
+    {}
+  ],
+  "2007-09-30": [
+    {}
+  ],
+  "2007-10-31": [
+    {}
+  ],
+  "2007-11-30": [
+    {}
+  ],
+  "2007-12-31": [
+    {}
+  ],
+  "2008-01-31": [
+    {}
+  ],
+  "2008-02-29": [
+    {}
+  ],
+  "2008-03-31": [
+    {}
+  ],
+  "2008-04-30": [
+    {}
+  ],
+  "2008-05-31": [
+    {}
+  ],
+  "2008-06-30": [
+    {}
+  ],
+  "2008-07-31": [
+    {}
+  ],
+  "2008-08-31": [
+    {}
+  ],
+  "2008-09-30": [
+    {}
+  ],
+  "2008-10-31": [
+    {}
+  ],
+  "2008-11-30": [
+    {}
+  ],
+  "2008-12-31": [
+    {}
+  ],
+  "2009-01-31": [
+    {}
+  ],
+  "2009-02-28": [
+    {}
+  ],
+  "2009-03-31": [
+    {}
+  ],
+  "2009-04-30": [
+    {}
+  ],
+  "2009-05-31": [
+    {}
+  ],
+  "2009-06-30": [
+    {}
+  ],
+  "2009-07-31": [
+    {}
+  ],
+  "2009-08-31": [
+    {}
+  ],
+  "2009-09-30": [
+    {}
+  ],
+  "2009-10-31": [
+    {}
+  ],
+  "2009-11-30": [
+    {}
+  ],
+  "2009-12-31": [
+    {}
+  ],
+  "2010-01-31": [
+    {}
+  ],
+  "2010-02-28": [
+    {}
+  ],
+  "2010-03-31": [
+    {}
+  ],
+  "2010-04-30": [
+    {}
+  ],
+  "2010-05-31": [
+    {}
+  ],
+  "2010-06-30": [
+    {}
+  ],
+  "2010-07-31": [
+    {}
+  ],
+  "2010-08-31": [
+    {}
+  ],
+  "2010-09-30": [
+    {}
+  ],
+  "2010-10-31": [
+    {}
+  ],
+  "2010-11-30": [
+    {}
+  ],
+  "2010-12-31": [
+    {}
+  ],
+  "2011-01-31": [
+    {}
+  ],
+  "2011-02-28": [
+    {}
+  ],
+  "2011-03-31": [
+    {}
+  ],
+  "2011-04-30": [
+    {}
+  ],
+  "2011-05-31": [
+    {}
+  ],
+  "2011-06-30": [
+    {}
+  ],
+  "2011-07-31": [
+    {}
+  ],
+  "2011-08-31": [
+    {}
+  ],
+  "2011-09-30": [
+    {}
+  ],
+  "2011-10-31": [
+    {}
+  ],
+  "2011-11-30": [
+    {}
+  ],
+  "2011-12-31": [
+    {}
+  ],
+  "2012-01-31": [
+    {}
+  ],
+  "2012-02-29": [
+    {}
+  ],
+  "2012-03-31": [
+    {}
+  ],
+  "2012-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 104.7,
+      "Primary Articles": 107.1,
+      "Fuel and Power": 106.3,
+      "Manufactured Products": 103.5,
+      "Primary Food": 106.2,
+      "Primary Non-food": 107.6
+    }
+  ],
+  "2012-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 105.3,
+      "Primary Articles": 107.5,
+      "Fuel and Power": 106.7,
+      "Manufactured Products": 104.2,
+      "Primary Food": 106.7,
+      "Primary Non-food": 107.8
+    }
+  ],
+  "2012-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 105.3,
+      "Primary Articles": 107.9,
+      "Fuel and Power": 105.5,
+      "Manufactured Products": 104.4,
+      "Primary Food": 109.3,
+      "Primary Non-food": 106.9
+    }
+  ],
+  "2012-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 106.2,
+      "Primary Articles": 111.4,
+      "Fuel and Power": 103.5,
+      "Manufactured Products": 104.9,
+      "Primary Food": 111.3,
+      "Primary Non-food": 113.9
+    }
+  ],
+  "2012-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 106.9,
+      "Primary Articles": 112.7,
+      "Fuel and Power": 104.8,
+      "Manufactured Products": 105.3,
+      "Primary Food": 111.2,
+      "Primary Non-food": 115.7
+    }
+  ],
+  "2012-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 107.6,
+      "Primary Articles": 112,
+      "Fuel and Power": 108.1,
+      "Manufactured Products": 105.9,
+      "Primary Food": 111.3,
+      "Primary Non-food": 113.3
+    }
+  ],
+  "2012-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 107.4,
+      "Primary Articles": 111,
+      "Fuel and Power": 107.5,
+      "Manufactured Products": 106.1,
+      "Primary Food": 111,
+      "Primary Non-food": 111.7
+    }
+  ],
+  "2012-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 107.3,
+      "Primary Articles": 112.2,
+      "Fuel and Power": 106.7,
+      "Manufactured Products": 105.6,
+      "Primary Food": 112,
+      "Primary Non-food": 113.4
+    }
+  ],
+  "2012-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 107.1,
+      "Primary Articles": 111.9,
+      "Fuel and Power": 107.1,
+      "Manufactured Products": 105.3,
+      "Primary Food": 110.8,
+      "Primary Non-food": 115
+    }
+  ],
+  "2013-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 108,
+      "Primary Articles": 113.8,
+      "Fuel and Power": 108.9,
+      "Manufactured Products": 105.8,
+      "Primary Food": 113.2,
+      "Primary Non-food": 115.5
+    }
+  ],
+  "2013-02-28": [
+    {
+      "Wholesale Price Index (2011-12=100)": 108.4,
+      "Primary Articles": 115.2,
+      "Fuel and Power": 109.8,
+      "Manufactured Products": 105.8,
+      "Primary Food": 113.9,
+      "Primary Non-food": 119.5
+    }
+  ],
+  "2013-03-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 108.6,
+      "Primary Articles": 114.6,
+      "Fuel and Power": 109.8,
+      "Manufactured Products": 106.2,
+      "Primary Food": 113.5,
+      "Primary Non-food": 119.7
+    }
+  ],
+  "2013-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 108.6,
+      "Primary Articles": 114.6,
+      "Fuel and Power": 108,
+      "Manufactured Products": 106.5,
+      "Primary Food": 114.7,
+      "Primary Non-food": 120.5
+    }
+  ],
+  "2013-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 108.6,
+      "Primary Articles": 116.8,
+      "Fuel and Power": 105.2,
+      "Manufactured Products": 106.4,
+      "Primary Food": 117.8,
+      "Primary Non-food": 120.7
+    }
+  ],
+  "2013-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 110.1,
+      "Primary Articles": 120.5,
+      "Fuel and Power": 107.9,
+      "Manufactured Products": 106.8,
+      "Primary Food": 122.2,
+      "Primary Non-food": 121.2
+    }
+  ],
+  "2013-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 111.2,
+      "Primary Articles": 121.7,
+      "Fuel and Power": 112,
+      "Manufactured Products": 107.4,
+      "Primary Food": 123.6,
+      "Primary Non-food": 120.3
+    }
+  ],
+  "2013-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 112.9,
+      "Primary Articles": 125.6,
+      "Fuel and Power": 114.2,
+      "Manufactured Products": 108.1,
+      "Primary Food": 128.2,
+      "Primary Non-food": 117.4
+    }
+  ],
+  "2013-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 114.3,
+      "Primary Articles": 126,
+      "Fuel and Power": 119.2,
+      "Manufactured Products": 109.1,
+      "Primary Food": 128.5,
+      "Primary Non-food": 119.2
+    }
+  ],
+  "2013-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 114.6,
+      "Primary Articles": 128.4,
+      "Fuel and Power": 117,
+      "Manufactured Products": 109.2,
+      "Primary Food": 132.6,
+      "Primary Non-food": 117.8
+    }
+  ],
+  "2013-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 114.3,
+      "Primary Articles": 128.4,
+      "Fuel and Power": 116.2,
+      "Manufactured Products": 108.9,
+      "Primary Food": 133.2,
+      "Primary Non-food": 115.1
+    }
+  ],
+  "2013-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 113.4,
+      "Primary Articles": 123.3,
+      "Fuel and Power": 118.3,
+      "Manufactured Products": 109,
+      "Primary Food": 125.6,
+      "Primary Non-food": 115.4
+    }
+  ],
+  "2014-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 113.6,
+      "Primary Articles": 121.2,
+      "Fuel and Power": 119.9,
+      "Manufactured Products": 109.5,
+      "Primary Food": 122.7,
+      "Primary Non-food": 116.7
+    }
+  ],
+  "2014-02-28": [
+    {
+      "Wholesale Price Index (2011-12=100)": 113.6,
+      "Primary Articles": 121.1,
+      "Fuel and Power": 118.9,
+      "Manufactured Products": 109.9,
+      "Primary Food": 122.2,
+      "Primary Non-food": 118.1
+    }
+  ],
+  "2014-03-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 114.3,
+      "Primary Articles": 121.4,
+      "Fuel and Power": 119.3,
+      "Manufactured Products": 110.7,
+      "Primary Food": 122.9,
+      "Primary Non-food": 118.2
+    }
+  ],
+  "2014-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 114.1,
+      "Primary Articles": 121.5,
+      "Fuel and Power": 116.5,
+      "Manufactured Products": 111,
+      "Primary Food": 123.1,
+      "Primary Non-food": 117.3
+    }
+  ],
+  "2014-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 114.8,
+      "Primary Articles": 124,
+      "Fuel and Power": 116.2,
+      "Manufactured Products": 111.3,
+      "Primary Food": 126.3,
+      "Primary Non-food": 117.6
+    }
+  ],
+  "2014-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 115.2,
+      "Primary Articles": 125.7,
+      "Fuel and Power": 115.1,
+      "Manufactured Products": 111.5,
+      "Primary Food": 129.7,
+      "Primary Non-food": 116.9
+    }
+  ],
+  "2014-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 116.7,
+      "Primary Articles": 130.1,
+      "Fuel and Power": 117.1,
+      "Manufactured Products": 111.8,
+      "Primary Food": 136.3,
+      "Primary Non-food": 117.3
+    }
+  ],
+  "2014-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 117.2,
+      "Primary Articles": 131.5,
+      "Fuel and Power": 116.6,
+      "Manufactured Products": 112.3,
+      "Primary Food": 138.5,
+      "Primary Non-food": 117.1
+    }
+  ],
+  "2014-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 116.4,
+      "Primary Articles": 129.4,
+      "Fuel and Power": 114.9,
+      "Manufactured Products": 112.2,
+      "Primary Food": 136,
+      "Primary Non-food": 114.8
+    }
+  ],
+  "2014-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 115.6,
+      "Primary Articles": 127.3,
+      "Fuel and Power": 112.6,
+      "Manufactured Products": 112.1,
+      "Primary Food": 134.8,
+      "Primary Non-food": 113.7
+    }
+  ],
+  "2014-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 114.1,
+      "Primary Articles": 126.5,
+      "Fuel and Power": 106.6,
+      "Manufactured Products": 111.3,
+      "Primary Food": 134.5,
+      "Primary Non-food": 113.1
+    }
+  ],
+  "2014-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 112.1,
+      "Primary Articles": 123.1,
+      "Fuel and Power": 101.3,
+      "Manufactured Products": 110.5,
+      "Primary Food": 131,
+      "Primary Non-food": 114.1
+    }
+  ],
+  "2015-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 110.8,
+      "Primary Articles": 120.8,
+      "Fuel and Power": 94.5,
+      "Manufactured Products": 110.6,
+      "Primary Food": 130.1,
+      "Primary Non-food": 113.9
+    }
+  ],
+  "2015-02-28": [
+    {
+      "Wholesale Price Index (2011-12=100)": 109.6,
+      "Primary Articles": 120.7,
+      "Fuel and Power": 88.5,
+      "Manufactured Products": 110.1,
+      "Primary Food": 129.1,
+      "Primary Non-food": 113.1
+    }
+  ],
+  "2015-03-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 109.9,
+      "Primary Articles": 120.1,
+      "Fuel and Power": 92,
+      "Manufactured Products": 110,
+      "Primary Food": 128.7,
+      "Primary Non-food": 111.7
+    }
+  ],
+  "2015-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 110.2,
+      "Primary Articles": 121.5,
+      "Fuel and Power": 91.3,
+      "Manufactured Products": 110.1,
+      "Primary Food": 130.7,
+      "Primary Non-food": 112.2
+    }
+  ],
+  "2015-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 111.4,
+      "Primary Articles": 123.4,
+      "Fuel and Power": 95.5,
+      "Manufactured Products": 110.5,
+      "Primary Food": 131.9,
+      "Primary Non-food": 116.2
+    }
+  ],
+  "2015-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 111.8,
+      "Primary Articles": 124.9,
+      "Fuel and Power": 96.4,
+      "Manufactured Products": 110.3,
+      "Primary Food": 133.6,
+      "Primary Non-food": 117
+    }
+  ],
+  "2015-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 111.1,
+      "Primary Articles": 124.3,
+      "Fuel and Power": 93.8,
+      "Manufactured Products": 109.9,
+      "Primary Food": 133.8,
+      "Primary Non-food": 116.1
+    }
+  ],
+  "2015-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 110,
+      "Primary Articles": 125.4,
+      "Fuel and Power": 87.6,
+      "Manufactured Products": 109.2,
+      "Primary Food": 135.9,
+      "Primary Non-food": 118.2
+    }
+  ],
+  "2015-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 109.9,
+      "Primary Articles": 125.9,
+      "Fuel and Power": 85.7,
+      "Manufactured Products": 109.2,
+      "Primary Food": 136.2,
+      "Primary Non-food": 118.6
+    }
+  ],
+  "2015-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 110.1,
+      "Primary Articles": 126.4,
+      "Fuel and Power": 85.6,
+      "Manufactured Products": 109.4,
+      "Primary Food": 137.8,
+      "Primary Non-food": 120.2
+    }
+  ],
+  "2015-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 109.9,
+      "Primary Articles": 127.1,
+      "Fuel and Power": 85.5,
+      "Manufactured Products": 108.8,
+      "Primary Food": 138.6,
+      "Primary Non-food": 121.1
+    }
+  ],
+  "2015-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 109.4,
+      "Primary Articles": 126.7,
+      "Fuel and Power": 84.8,
+      "Manufactured Products": 108.4,
+      "Primary Food": 137.5,
+      "Primary Non-food": 122.2
+    }
+  ],
+  "2016-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 108,
+      "Primary Articles": 124.3,
+      "Fuel and Power": 79.8,
+      "Manufactured Products": 108,
+      "Primary Food": 136.1,
+      "Primary Non-food": 121.3
+    }
+  ],
+  "2016-02-29": [
+    {
+      "Wholesale Price Index (2011-12=100)": 107.1,
+      "Primary Articles": 122.1,
+      "Fuel and Power": 75.5,
+      "Manufactured Products": 108.3,
+      "Primary Food": 133.2,
+      "Primary Non-food": 118.4
+    }
+  ],
+  "2016-03-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 107.7,
+      "Primary Articles": 123,
+      "Fuel and Power": 76.5,
+      "Manufactured Products": 108.8,
+      "Primary Food": 133.4,
+      "Primary Non-food": 117.4
+    }
+  ],
+  "2016-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 109,
+      "Primary Articles": 126.1,
+      "Fuel and Power": 78.3,
+      "Manufactured Products": 109.2,
+      "Primary Food": 137.8,
+      "Primary Non-food": 121.4
+    }
+  ],
+  "2016-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 110.4,
+      "Primary Articles": 128.8,
+      "Fuel and Power": 81.3,
+      "Manufactured Products": 109.8,
+      "Primary Food": 140.9,
+      "Primary Non-food": 120.9
+    }
+  ],
+  "2016-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 111.7,
+      "Primary Articles": 132,
+      "Fuel and Power": 85.2,
+      "Manufactured Products": 110,
+      "Primary Food": 144,
+      "Primary Non-food": 124.2
+    }
+  ],
+  "2016-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 111.8,
+      "Primary Articles": 131.8,
+      "Fuel and Power": 84.7,
+      "Manufactured Products": 110.3,
+      "Primary Food": 144.5,
+      "Primary Non-food": 126.5
+    }
+  ],
+  "2016-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 111.2,
+      "Primary Articles": 131.4,
+      "Fuel and Power": 81.1,
+      "Manufactured Products": 110.2,
+      "Primary Food": 142.6,
+      "Primary Non-food": 125.1
+    }
+  ],
+  "2016-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 111.4,
+      "Primary Articles": 130.6,
+      "Fuel and Power": 83.2,
+      "Manufactured Products": 110.4,
+      "Primary Food": 141.9,
+      "Primary Non-food": 123
+    }
+  ],
+  "2016-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 111.5,
+      "Primary Articles": 129.1,
+      "Fuel and Power": 84.6,
+      "Manufactured Products": 110.8,
+      "Primary Food": 141.9,
+      "Primary Non-food": 120
+    }
+  ],
+  "2016-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 111.9,
+      "Primary Articles": 128.8,
+      "Fuel and Power": 87.3,
+      "Manufactured Products": 111,
+      "Primary Food": 142,
+      "Primary Non-food": 117.7
+    }
+  ],
+  "2016-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 111.7,
+      "Primary Articles": 126.8,
+      "Fuel and Power": 88.4,
+      "Manufactured Products": 111.1,
+      "Primary Food": 137.6,
+      "Primary Non-food": 119.4
+    }
+  ],
+  "2017-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 112.6,
+      "Primary Articles": 126.7,
+      "Fuel and Power": 93.1,
+      "Manufactured Products": 111.6,
+      "Primary Food": 136.5,
+      "Primary Non-food": 122.2
+    }
+  ],
+  "2017-02-28": [
+    {
+      "Wholesale Price Index (2011-12=100)": 113,
+      "Primary Articles": 127,
+      "Fuel and Power": 94.5,
+      "Manufactured Products": 111.8,
+      "Primary Food": 136.6,
+      "Primary Non-food": 123.9
+    }
+  ],
+  "2017-03-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 113.2,
+      "Primary Articles": 127.1,
+      "Fuel and Power": 93.6,
+      "Manufactured Products": 112.3,
+      "Primary Food": 137.6,
+      "Primary Non-food": 121.9
+    }
+  ],
+  "2017-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 113.2,
+      "Primary Articles": 127.4,
+      "Fuel and Power": 91.7,
+      "Manufactured Products": 112.6,
+      "Primary Food": 138.6,
+      "Primary Non-food": 121.3
+    }
+  ],
+  "2017-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 112.9,
+      "Primary Articles": 126.6,
+      "Fuel and Power": 90.9,
+      "Manufactured Products": 112.6,
+      "Primary Food": 137.9,
+      "Primary Non-food": 119.8
+    }
+  ],
+  "2017-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 112.7,
+      "Primary Articles": 126.5,
+      "Fuel and Power": 89.6,
+      "Manufactured Products": 112.6,
+      "Primary Food": 139.2,
+      "Primary Non-food": 118
+    }
+  ],
+  "2017-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 113.9,
+      "Primary Articles": 132.6,
+      "Fuel and Power": 88.4,
+      "Manufactured Products": 112.6,
+      "Primary Food": 147.9,
+      "Primary Non-food": 118.8
+    }
+  ],
+  "2017-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 114.8,
+      "Primary Articles": 135.3,
+      "Fuel and Power": 89.1,
+      "Manufactured Products": 112.8,
+      "Primary Food": 150.9,
+      "Primary Non-food": 120.8
+    }
+  ],
+  "2017-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 114.9,
+      "Primary Articles": 131.5,
+      "Fuel and Power": 91.9,
+      "Manufactured Products": 113.7,
+      "Primary Food": 144.8,
+      "Primary Non-food": 119.8
+    }
+  ],
+  "2017-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 115.6,
+      "Primary Articles": 133.9,
+      "Fuel and Power": 93.8,
+      "Manufactured Products": 113.7,
+      "Primary Food": 148,
+      "Primary Non-food": 118.5
+    }
+  ],
+  "2017-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 116.4,
+      "Primary Articles": 136,
+      "Fuel and Power": 94.6,
+      "Manufactured Products": 114,
+      "Primary Food": 151.1,
+      "Primary Non-food": 117.1
+    }
+  ],
+  "2017-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 115.7,
+      "Primary Articles": 131.7,
+      "Fuel and Power": 95.5,
+      "Manufactured Products": 114.2,
+      "Primary Food": 144.1,
+      "Primary Non-food": 119.2
+    }
+  ],
+  "2018-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 116,
+      "Primary Articles": 129.9,
+      "Fuel and Power": 97.5,
+      "Manufactured Products": 114.9,
+      "Primary Food": 140.8,
+      "Primary Non-food": 120.6
+    }
+  ],
+  "2018-02-28": [
+    {
+      "Wholesale Price Index (2011-12=100)": 116.1,
+      "Primary Articles": 128,
+      "Fuel and Power": 98.8,
+      "Manufactured Products": 115.5,
+      "Primary Food": 137.9,
+      "Primary Non-food": 120.7
+    }
+  ],
+  "2018-03-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 116.3,
+      "Primary Articles": 128.2,
+      "Fuel and Power": 98,
+      "Manufactured Products": 115.8,
+      "Primary Food": 137.3,
+      "Primary Non-food": 120.1
+    }
+  ],
+  "2018-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 117.3,
+      "Primary Articles": 130.7,
+      "Fuel and Power": 99,
+      "Manufactured Products": 116.3,
+      "Primary Food": 139.8,
+      "Primary Non-food": 120.4
+    }
+  ],
+  "2018-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 118.3,
+      "Primary Articles": 131.4,
+      "Fuel and Power": 102.4,
+      "Manufactured Products": 116.9,
+      "Primary Food": 140.3,
+      "Primary Non-food": 120.3
+    }
+  ],
+  "2018-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 119.1,
+      "Primary Articles": 132.5,
+      "Fuel and Power": 104.4,
+      "Manufactured Products": 117.3,
+      "Primary Food": 141.8,
+      "Primary Non-food": 122.5
+    }
+  ],
+  "2018-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 119.9,
+      "Primary Articles": 135.3,
+      "Fuel and Power": 104.4,
+      "Manufactured Products": 117.7,
+      "Primary Food": 144.8,
+      "Primary Non-food": 123.5
+    }
+  ],
+  "2018-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 120.1,
+      "Primary Articles": 135.2,
+      "Fuel and Power": 104.9,
+      "Manufactured Products": 117.8,
+      "Primary Food": 144.8,
+      "Primary Non-food": 124
+    }
+  ],
+  "2018-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 120.9,
+      "Primary Articles": 135.5,
+      "Fuel and Power": 107.8,
+      "Manufactured Products": 118.4,
+      "Primary Food": 144.5,
+      "Primary Non-food": 124
+    }
+  ],
+  "2018-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 122,
+      "Primary Articles": 137.2,
+      "Fuel and Power": 111.3,
+      "Manufactured Products": 118.9,
+      "Primary Food": 145.9,
+      "Primary Non-food": 123.4
+    }
+  ],
+  "2018-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 121.6,
+      "Primary Articles": 136.8,
+      "Fuel and Power": 109.3,
+      "Manufactured Products": 118.8,
+      "Primary Food": 146.2,
+      "Primary Non-food": 124.6
+    }
+  ],
+  "2018-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 119.7,
+      "Primary Articles": 133.5,
+      "Fuel and Power": 102.8,
+      "Manufactured Products": 118.3,
+      "Primary Food": 143.5,
+      "Primary Non-food": 124.4
+    }
+  ],
+  "2019-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 119.2,
+      "Primary Articles": 133.8,
+      "Fuel and Power": 99.3,
+      "Manufactured Products": 118.1,
+      "Primary Food": 144.2,
+      "Primary Non-food": 123.4
+    }
+  ],
+  "2019-02-28": [
+    {
+      "Wholesale Price Index (2011-12=100)": 119.5,
+      "Primary Articles": 134.1,
+      "Fuel and Power": 100.5,
+      "Manufactured Products": 118.2,
+      "Primary Food": 143.7,
+      "Primary Non-food": 123.2
+    }
+  ],
+  "2019-03-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 119.9,
+      "Primary Articles": 134.5,
+      "Fuel and Power": 102.5,
+      "Manufactured Products": 118.3,
+      "Primary Food": 144.5,
+      "Primary Non-food": 123.7
+    }
+  ],
+  "2019-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 121.1,
+      "Primary Articles": 139.3,
+      "Fuel and Power": 102.8,
+      "Manufactured Products": 118.5,
+      "Primary Food": 148.8,
+      "Primary Non-food": 127.7
+    }
+  ],
+  "2019-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 121.6,
+      "Primary Articles": 140.3,
+      "Fuel and Power": 104.4,
+      "Manufactured Products": 118.6,
+      "Primary Food": 150.6,
+      "Primary Non-food": 127.5
+    }
+  ],
+  "2019-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 121.5,
+      "Primary Articles": 141,
+      "Fuel and Power": 102.2,
+      "Manufactured Products": 118.5,
+      "Primary Food": 152.2,
+      "Primary Non-food": 128.7
+    }
+  ],
+  "2019-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 121.3,
+      "Primary Articles": 142.8,
+      "Fuel and Power": 100.6,
+      "Manufactured Products": 118,
+      "Primary Food": 154.3,
+      "Primary Non-food": 128.7
+    }
+  ],
+  "2019-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 121.5,
+      "Primary Articles": 144,
+      "Fuel and Power": 101.2,
+      "Manufactured Products": 117.8,
+      "Primary Food": 156.1,
+      "Primary Non-food": 129.8
+    }
+  ],
+  "2019-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 121.3,
+      "Primary Articles": 143,
+      "Fuel and Power": 100.6,
+      "Manufactured Products": 117.9,
+      "Primary Food": 155.4,
+      "Primary Non-food": 126.8
+    }
+  ],
+  "2019-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 122,
+      "Primary Articles": 145.5,
+      "Fuel and Power": 102.3,
+      "Manufactured Products": 117.8,
+      "Primary Food": 160.2,
+      "Primary Non-food": 126.1
+    }
+  ],
+  "2019-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 122.3,
+      "Primary Articles": 147.2,
+      "Fuel and Power": 101.3,
+      "Manufactured Products": 117.8,
+      "Primary Food": 162.6,
+      "Primary Non-food": 127
+    }
+  ],
+  "2019-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 123,
+      "Primary Articles": 148.9,
+      "Fuel and Power": 103.2,
+      "Manufactured Products": 118,
+      "Primary Food": 162.6,
+      "Primary Non-food": 134
+    }
+  ],
+  "2020-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 123.4,
+      "Primary Articles": 147.2,
+      "Fuel and Power": 104.7,
+      "Manufactured Products": 118.8,
+      "Primary Food": 160.5,
+      "Primary Non-food": 132.1
+    }
+  ],
+  "2020-02-29": [
+    {
+      "Wholesale Price Index (2011-12=100)": 122.2,
+      "Primary Articles": 142.8,
+      "Fuel and Power": 103.6,
+      "Manufactured Products": 118.8,
+      "Primary Food": 154.7,
+      "Primary Non-food": 131.7
+    }
+  ],
+  "2020-03-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 120.4,
+      "Primary Articles": 137.4,
+      "Fuel and Power": 99.5,
+      "Manufactured Products": 118.6,
+      "Primary Food": 151.2,
+      "Primary Non-food": 124.8
+    }
+  ],
+  "2020-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 119.2,
+      "Primary Articles": 137.8,
+      "Fuel and Power": 89.8,
+      "Manufactured Products": 118.7,
+      "Primary Food": 154.5,
+      "Primary Non-food": 123.9
+    }
+  ],
+  "2020-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 117.5,
+      "Primary Articles": 137.3,
+      "Fuel and Power": 80.3,
+      "Manufactured Products": 118.2,
+      "Primary Food": 153.1,
+      "Primary Non-food": 122.5
+    }
+  ],
+  "2020-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 119.3,
+      "Primary Articles": 140.9,
+      "Fuel and Power": 85.6,
+      "Manufactured Products": 118.6,
+      "Primary Food": 155.4,
+      "Primary Non-food": 125.1
+    }
+  ],
+  "2020-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 121,
+      "Primary Articles": 145.1,
+      "Fuel and Power": 90.7,
+      "Manufactured Products": 118.7,
+      "Primary Food": 161.3,
+      "Primary Non-food": 123.8
+    }
+  ],
+  "2020-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 122,
+      "Primary Articles": 146.7,
+      "Fuel and Power": 92,
+      "Manufactured Products": 119.4,
+      "Primary Food": 163,
+      "Primary Non-food": 125.5
+    }
+  ],
+  "2020-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 122.9,
+      "Primary Articles": 148.8,
+      "Fuel and Power": 91.9,
+      "Manufactured Products": 120.1,
+      "Primary Food": 168.4,
+      "Primary Non-food": 124.5
+    }
+  ],
+  "2020-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 123.6,
+      "Primary Articles": 151.8,
+      "Fuel and Power": 90.9,
+      "Manufactured Products": 120.4,
+      "Primary Food": 171.5,
+      "Primary Non-food": 129.8
+    }
+  ],
+  "2020-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 125.1,
+      "Primary Articles": 152.8,
+      "Fuel and Power": 94.2,
+      "Manufactured Products": 121.6,
+      "Primary Food": 170.1,
+      "Primary Non-food": 138
+    }
+  ],
+  "2020-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 125.4,
+      "Primary Articles": 148,
+      "Fuel and Power": 96.9,
+      "Manufactured Products": 123.3,
+      "Primary Food": 161.1,
+      "Primary Non-food": 138
+    }
+  ],
+  "2021-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 126.5,
+      "Primary Articles": 144.9,
+      "Fuel and Power": 100.7,
+      "Manufactured Products": 125.3,
+      "Primary Food": 155.8,
+      "Primary Non-food": 137.7
+    }
+  ],
+  "2021-02-28": [
+    {
+      "Wholesale Price Index (2011-12=100)": 128.1,
+      "Primary Articles": 147.1,
+      "Fuel and Power": 105.7,
+      "Manufactured Products": 126,
+      "Primary Food": 157.5,
+      "Primary Non-food": 137
+    }
+  ],
+  "2021-03-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 129.9,
+      "Primary Articles": 147.4,
+      "Fuel and Power": 109.2,
+      "Manufactured Products": 127.9,
+      "Primary Food": 156.4,
+      "Primary Non-food": 139.7
+    }
+  ],
+  "2021-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 132,
+      "Primary Articles": 151.5,
+      "Fuel and Power": 108.9,
+      "Manufactured Products": 129.9,
+      "Primary Food": 161.6,
+      "Primary Non-food": 143.2
+    }
+  ],
+  "2021-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 132.9,
+      "Primary Articles": 150.2,
+      "Fuel and Power": 109.8,
+      "Manufactured Products": 131.5,
+      "Primary Food": 159.6,
+      "Primary Non-food": 145
+    }
+  ],
+  "2021-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 133.7,
+      "Primary Articles": 153,
+      "Fuel and Power": 110.7,
+      "Manufactured Products": 131.6,
+      "Primary Food": 160.5,
+      "Primary Non-food": 148.4
+    }
+  ],
+  "2021-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 135,
+      "Primary Articles": 154.3,
+      "Fuel and Power": 115.2,
+      "Manufactured Products": 132.3,
+      "Primary Food": 161.5,
+      "Primary Non-food": 152.2
+    }
+  ],
+  "2021-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 136.2,
+      "Primary Articles": 155.4,
+      "Fuel and Power": 117.9,
+      "Manufactured Products": 133.2,
+      "Primary Food": 161.7,
+      "Primary Non-food": 161.5
+    }
+  ],
+  "2021-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 137.4,
+      "Primary Articles": 157.7,
+      "Fuel and Power": 119,
+      "Manufactured Products": 134,
+      "Primary Food": 164.1,
+      "Primary Non-food": 161.2
+    }
+  ],
+  "2021-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 140.7,
+      "Primary Articles": 163,
+      "Fuel and Power": 126,
+      "Manufactured Products": 135.9,
+      "Primary Food": 171.6,
+      "Primary Non-food": 153.7
+    }
+  ],
+  "2021-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 143.7,
+      "Primary Articles": 168.4,
+      "Fuel and Power": 136,
+      "Manufactured Products": 136.6,
+      "Primary Food": 178.3,
+      "Primary Non-food": 156.5
+    }
+  ],
+  "2021-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 143.3,
+      "Primary Articles": 168.4,
+      "Fuel and Power": 133.8,
+      "Manufactured Products": 136.5,
+      "Primary Food": 176.7,
+      "Primary Non-food": 164.6
+    }
+  ],
+  "2022-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 143.8,
+      "Primary Articles": 167.5,
+      "Fuel and Power": 135.3,
+      "Manufactured Products": 137.2,
+      "Primary Food": 172,
+      "Primary Non-food": 165.9
+    }
+  ],
+  "2022-02-28": [
+    {
+      "Wholesale Price Index (2011-12=100)": 145.3,
+      "Primary Articles": 167.5,
+      "Fuel and Power": 138.3,
+      "Manufactured Products": 138.9,
+      "Primary Food": 170.4,
+      "Primary Non-food": 170.2
+    }
+  ],
+  "2022-03-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 148.9,
+      "Primary Articles": 170.9,
+      "Fuel and Power": 143.9,
+      "Manufactured Products": 142.3,
+      "Primary Food": 169.6,
+      "Primary Non-food": 175
+    }
+  ],
+  "2022-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 152.3,
+      "Primary Articles": 174.5,
+      "Fuel and Power": 151.2,
+      "Manufactured Products": 144.7,
+      "Primary Food": 175.3,
+      "Primary Non-food": 177.5
+    }
+  ],
+  "2022-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 155,
+      "Primary Articles": 178.5,
+      "Fuel and Power": 163.6,
+      "Manufactured Products": 145,
+      "Primary Food": 178.4,
+      "Primary Non-food": 179.9
+    }
+  ],
+  "2022-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 155.4,
+      "Primary Articles": 181.5,
+      "Fuel and Power": 167.1,
+      "Manufactured Products": 143.9,
+      "Primary Food": 182.5,
+      "Primary Non-food": 175.9
+    }
+  ],
+  "2022-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 154,
+      "Primary Articles": 177.1,
+      "Fuel and Power": 166.6,
+      "Manufactured Products": 143.2,
+      "Primary Food": 178.9,
+      "Primary Non-food": 171.8
+    }
+  ],
+  "2022-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 153.2,
+      "Primary Articles": 178.3,
+      "Fuel and Power": 159.2,
+      "Manufactured Products": 143.2,
+      "Primary Food": 182,
+      "Primary Non-food": 175.1
+    }
+  ],
+  "2022-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 151.9,
+      "Primary Articles": 175.9,
+      "Fuel and Power": 158.4,
+      "Manufactured Products": 142.2,
+      "Primary Food": 182.2,
+      "Primary Non-food": 168.2
+    }
+  ],
+  "2022-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 152.9,
+      "Primary Articles": 181.2,
+      "Fuel and Power": 158,
+      "Manufactured Products": 141.9,
+      "Primary Food": 186.1,
+      "Primary Non-food": 166
+    }
+  ],
+  "2022-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 152.5,
+      "Primary Articles": 178.4,
+      "Fuel and Power": 162.8,
+      "Manufactured Products": 141.3,
+      "Primary Food": 181,
+      "Primary Non-food": 168.8
+    }
+  ],
+  "2022-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 150.5,
+      "Primary Articles": 172.9,
+      "Fuel and Power": 158,
+      "Manufactured Products": 141.1,
+      "Primary Food": 174.9,
+      "Primary Non-food": 171.2
+    }
+  ],
+  "2023-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 150.7,
+      "Primary Articles": 174.3,
+      "Fuel and Power": 155.6,
+      "Manufactured Products": 141.4,
+      "Primary Food": 176.6,
+      "Primary Non-food": 173.7
+    }
+  ],
+  "2023-02-28": [
+    {
+      "Wholesale Price Index (2011-12=100)": 150.9,
+      "Primary Articles": 173.6,
+      "Fuel and Power": 157.6,
+      "Manufactured Products": 141.6,
+      "Primary Food": 176.9,
+      "Primary Non-food": 170.2
+    }
+  ],
+  "2023-03-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 151,
+      "Primary Articles": 175.2,
+      "Fuel and Power": 156.4,
+      "Manufactured Products": 141.3,
+      "Primary Food": 178.8,
+      "Primary Non-food": 167.1
+    }
+  ],
+  "2023-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 151.1,
+      "Primary Articles": 177.8,
+      "Fuel and Power": 152.7,
+      "Manufactured Products": 141.4,
+      "Primary Food": 182.1,
+      "Primary Non-food": 165.6
+    }
+  ],
+  "2023-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 149.4,
+      "Primary Articles": 175.1,
+      "Fuel and Power": 148.6,
+      "Manufactured Products": 140.6,
+      "Primary Food": 181.3,
+      "Primary Non-food": 162.8
+    }
+  ],
+  "2023-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 148.9,
+      "Primary Articles": 176.1,
+      "Fuel and Power": 146.2,
+      "Manufactured Products": 139.9,
+      "Primary Food": 184.9,
+      "Primary Non-food": 158.9
+    }
+  ],
+  "2023-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 152.1,
+      "Primary Articles": 191.7,
+      "Fuel and Power": 145.4,
+      "Manufactured Products": 139.5,
+      "Primary Food": 205.9,
+      "Primary Non-food": 161.9
+    }
+  ],
+  "2023-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 152.5,
+      "Primary Articles": 190.3,
+      "Fuel and Power": 149.1,
+      "Manufactured Products": 139.9,
+      "Primary Food": 202.8,
+      "Primary Non-food": 163.2
+    }
+  ],
+  "2023-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 151.8,
+      "Primary Articles": 183.6,
+      "Fuel and Power": 153.1,
+      "Manufactured Products": 140.4,
+      "Primary Food": 189.1,
+      "Primary Non-food": 164.6
+    }
+  ],
+  "2023-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 152.5,
+      "Primary Articles": 185.3,
+      "Fuel and Power": 155.5,
+      "Manufactured Products": 140.4,
+      "Primary Food": 192,
+      "Primary Non-food": 164.1
+    }
+  ],
+  "2023-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 153.1,
+      "Primary Articles": 187.6,
+      "Fuel and Power": 156.2,
+      "Manufactured Products": 140.2,
+      "Primary Food": 197,
+      "Primary Non-food": 163.8
+    }
+  ],
+  "2023-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 151.8,
+      "Primary Articles": 182.8,
+      "Fuel and Power": 155.8,
+      "Manufactured Products": 140,
+      "Primary Food": 191.2,
+      "Primary Non-food": 162.3
+    }
+  ],
+  "2024-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 151.2,
+      "Primary Articles": 181.4,
+      "Fuel and Power": 154.9,
+      "Manufactured Products": 139.7,
+      "Primary Food": 188.8,
+      "Primary Non-food": 162.6
+    }
+  ],
+  "2024-02-29": [
+    {
+      "Wholesale Price Index (2011-12=100)": 151.2,
+      "Primary Articles": 181.5,
+      "Fuel and Power": 154.9,
+      "Manufactured Products": 139.8,
+      "Primary Food": 189.4,
+      "Primary Non-food": 159.1
+    }
+  ],
+  "2024-03-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 151.4,
+      "Primary Articles": 183.2,
+      "Fuel and Power": 152.1,
+      "Manufactured Products": 140.1,
+      "Primary Food": 191.4,
+      "Primary Non-food": 160
+    }
+  ],
+  "2024-04-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 152.9,
+      "Primary Articles": 187.1,
+      "Fuel and Power": 151.4,
+      "Manufactured Products": 141.2,
+      "Primary Food": 196.8,
+      "Primary Non-food": 157.7
+    }
+  ],
+  "2024-05-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 153.5,
+      "Primary Articles": 188.1,
+      "Fuel and Power": 150.1,
+      "Manufactured Products": 142,
+      "Primary Food": 199.3,
+      "Primary Non-food": 156.5
+    }
+  ],
+  "2024-06-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 154,
+      "Primary Articles": 192.3,
+      "Fuel and Power": 146.9,
+      "Manufactured Products": 142,
+      "Primary Food": 205.5,
+      "Primary Non-food": 157.3
+    }
+  ],
+  "2024-07-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 155.3,
+      "Primary Articles": 197.8,
+      "Fuel and Power": 148.2,
+      "Manufactured Products": 141.7,
+      "Primary Food": 213.1,
+      "Primary Non-food": 158.9
+    }
+  ],
+  "2024-08-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 154.4,
+      "Primary Articles": 195.1,
+      "Fuel and Power": 148.3,
+      "Manufactured Products": 141.3,
+      "Primary Food": 209,
+      "Primary Non-food": 160.2
+    }
+  ],
+  "2024-09-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 154.7,
+      "Primary Articles": 195.5,
+      "Fuel and Power": 147.2,
+      "Manufactured Products": 141.9,
+      "Primary Food": 210.8,
+      "Primary Non-food": 162.2
+    }
+  ],
+  "2024-10-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 156.7,
+      "Primary Articles": 200.6,
+      "Fuel and Power": 148.8,
+      "Manufactured Products": 142.9,
+      "Primary Food": 217.9,
+      "Primary Non-food": 161.9
+    }
+  ],
+  "2024-11-30": [
+    {
+      "Wholesale Price Index (2011-12=100)": 156.4,
+      "Primary Articles": 197.9,
+      "Fuel and Power": 149.9,
+      "Manufactured Products": 143.1,
+      "Primary Food": 213.7,
+      "Primary Non-food": 162.8
+    }
+  ],
+  "2024-12-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 155.4,
+      "Primary Articles": 193.8,
+      "Fuel and Power": 149.9,
+      "Manufactured Products": 143,
+      "Primary Food": 207.4,
+      "Primary Non-food": 166.3
+    }
+  ],
+  "2025-01-31": [
+    {
+      "Wholesale Price Index (2011-12=100)": 154.7,
+      "Primary Articles": 189.9,
+      "Fuel and Power": 150.6,
+      "Manufactured Products": 143.2,
+      "Primary Food": 199.9,
+      "Primary Non-food": 167.4
+    }
+  ],
+  "2025-02-28": [
+    {}
+  ]
+}

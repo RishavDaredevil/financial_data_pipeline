@@ -37,10 +37,10 @@ class RbiBankLendingSurveySpider(scrapy.Spider):
 
         latest_url = response.xpath('(//a[@class="mtm_list_item_heading"])[1]/@href').get()
         self.log(latest_url)
-        yield scrapy.Request(url=latest_url, callback=self.parse_services_and_infrastructure_survey,
+        yield scrapy.Request(url=latest_url, callback=self.parse_banking_survey,
                              cb_kwargs=dict(date=extracted_date))
 
-    def parse_services_and_infrastructure_survey(self, response, date):
+    def parse_banking_survey(self, response, date):
         global custom_mapping
         tables = response.xpath('//table[@class="tablebg"]')
         categories_banking_Loan_Demand = [
@@ -139,7 +139,6 @@ class RbiBankLendingSurveySpider(scrapy.Spider):
 
                 categories = categories_banking_Loan_Terms_and_Conditions
 
-
                 # finding date for data
                 rows = table.xpath('.//tbody/tr[td]')
 
@@ -209,7 +208,6 @@ class RbiBankLendingSurveySpider(scrapy.Spider):
 
             elif table_no == 2:
 
-
                 # Extracting data
 
                 rows = table.xpath('.//tr[number(string(td[last()])) = number(string(td[last()]))]')
@@ -271,7 +269,6 @@ class RbiBankLendingSurveySpider(scrapy.Spider):
                             "Expectation for 2 qtr ahead - Net Res": float(data[3]),
                             "Expectation for 3 qtr ahead - Net Res": float(data[4])
                         })
-
 
         # self.check_duplicate_date(extracted_date)
 

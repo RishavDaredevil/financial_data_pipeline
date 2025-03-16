@@ -1,0 +1,2172 @@
+{
+  "weight(Sectoral Classification && Use-Based Classification are diff groups)": [
+    {
+      "General Index": 100,
+      "Sectoral Classification-Mining": 14.37,
+      "Sectoral Classification-Manufacturing": 77.63,
+      "Sectoral Classification-Electricity": 7.99,
+      "Use-Based Classification-Primary Goods": 34.05,
+      "Use-Based Classification-Capital Goods": 8.22,
+      "Use-Based Classification-Intermediate Goods": 17.22,
+      "Use-Based Classification-Infrastructure/Construction Goods": 12.34,
+      "Use-Based Classification-Consumer Durables": 12.84,
+      "Use-Based Classification-Consumer Non-Durables": 15.33
+    }
+  ],
+  "2012-04-01": [
+    {
+      "General Index": 99.3,
+      "Sectoral Classification-Mining": 99.1,
+      "Sectoral Classification-Manufacturing": 99,
+      "Sectoral Classification-Electricity": 103,
+      "Use-Based Classification-Primary Goods": 98.2,
+      "Use-Based Classification-Capital Goods": 89.5,
+      "Use-Based Classification-Intermediate Goods": 103.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 103.1,
+      "Use-Based Classification-Consumer Durables": 102,
+      "Use-Based Classification-Consumer Non-Durables": 97
+    }
+  ],
+  "2012-05-01": [
+    {
+      "General Index": 105,
+      "Sectoral Classification-Mining": 102.9,
+      "Sectoral Classification-Manufacturing": 105,
+      "Sectoral Classification-Electricity": 108.7,
+      "Use-Based Classification-Primary Goods": 104,
+      "Use-Based Classification-Capital Goods": 98.7,
+      "Use-Based Classification-Intermediate Goods": 105.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 117.4,
+      "Use-Based Classification-Consumer Durables": 105.1,
+      "Use-Based Classification-Consumer Non-Durables": 99.8
+    }
+  ],
+  "2012-06-01": [
+    {
+      "General Index": 102.3,
+      "Sectoral Classification-Mining": 93.3,
+      "Sectoral Classification-Manufacturing": 103.7,
+      "Sectoral Classification-Electricity": 105.1,
+      "Use-Based Classification-Primary Goods": 99.7,
+      "Use-Based Classification-Capital Goods": 101.9,
+      "Use-Based Classification-Intermediate Goods": 103.5,
+      "Use-Based Classification-Infrastructure/Construction Goods": 102.2,
+      "Use-Based Classification-Consumer Durables": 104.9,
+      "Use-Based Classification-Consumer Non-Durables": 104.9
+    }
+  ],
+  "2012-07-01": [
+    {
+      "General Index": 101.5,
+      "Sectoral Classification-Mining": 89.8,
+      "Sectoral Classification-Manufacturing": 103.3,
+      "Sectoral Classification-Electricity": 104.6,
+      "Use-Based Classification-Primary Goods": 98.9,
+      "Use-Based Classification-Capital Goods": 97,
+      "Use-Based Classification-Intermediate Goods": 102.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 106,
+      "Use-Based Classification-Consumer Durables": 102.2,
+      "Use-Based Classification-Consumer Non-Durables": 103.7
+    }
+  ],
+  "2012-08-01": [
+    {
+      "General Index": 99.9,
+      "Sectoral Classification-Mining": 85.6,
+      "Sectoral Classification-Manufacturing": 102.3,
+      "Sectoral Classification-Electricity": 101.9,
+      "Use-Based Classification-Primary Goods": 96.5,
+      "Use-Based Classification-Capital Goods": 101.9,
+      "Use-Based Classification-Intermediate Goods": 103,
+      "Use-Based Classification-Infrastructure/Construction Goods": 97.2,
+      "Use-Based Classification-Consumer Durables": 101.1,
+      "Use-Based Classification-Consumer Non-Durables": 103.8
+    }
+  ],
+  "2012-09-01": [
+    {
+      "General Index": 99,
+      "Sectoral Classification-Mining": 82.5,
+      "Sectoral Classification-Manufacturing": 101.9,
+      "Sectoral Classification-Electricity": 100.3,
+      "Use-Based Classification-Primary Goods": 92.4,
+      "Use-Based Classification-Capital Goods": 102.8,
+      "Use-Based Classification-Intermediate Goods": 104.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 98.8,
+      "Use-Based Classification-Consumer Durables": 107.2,
+      "Use-Based Classification-Consumer Non-Durables": 98.2
+    }
+  ],
+  "2012-10-01": [
+    {
+      "General Index": 103.7,
+      "Sectoral Classification-Mining": 91.5,
+      "Sectoral Classification-Manufacturing": 105.6,
+      "Sectoral Classification-Electricity": 107.5,
+      "Use-Based Classification-Primary Goods": 102.5,
+      "Use-Based Classification-Capital Goods": 95.5,
+      "Use-Based Classification-Intermediate Goods": 104.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 101,
+      "Use-Based Classification-Consumer Durables": 115.1,
+      "Use-Based Classification-Consumer Non-Durables": 102.4
+    }
+  ],
+  "2012-11-01": [
+    {
+      "General Index": 98.3,
+      "Sectoral Classification-Mining": 89.9,
+      "Sectoral Classification-Manufacturing": 99.7,
+      "Sectoral Classification-Electricity": 99.8,
+      "Use-Based Classification-Primary Goods": 98.3,
+      "Use-Based Classification-Capital Goods": 90.9,
+      "Use-Based Classification-Intermediate Goods": 100.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 99.4,
+      "Use-Based Classification-Consumer Durables": 94.2,
+      "Use-Based Classification-Consumer Non-Durables": 102.6
+    }
+  ],
+  "2012-12-01": [
+    {
+      "General Index": 107.1,
+      "Sectoral Classification-Mining": 98.9,
+      "Sectoral Classification-Manufacturing": 108.8,
+      "Sectoral Classification-Electricity": 105.5,
+      "Use-Based Classification-Primary Goods": 104.6,
+      "Use-Based Classification-Capital Goods": 101.5,
+      "Use-Based Classification-Intermediate Goods": 108.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 107.6,
+      "Use-Based Classification-Consumer Durables": 103.6,
+      "Use-Based Classification-Consumer Non-Durables": 117.5
+    }
+  ],
+  "2013-01-01": [
+    {
+      "General Index": 107.2,
+      "Sectoral Classification-Mining": 101.4,
+      "Sectoral Classification-Manufacturing": 108.2,
+      "Sectoral Classification-Electricity": 107.6,
+      "Use-Based Classification-Primary Goods": 105.9,
+      "Use-Based Classification-Capital Goods": 93.8,
+      "Use-Based Classification-Intermediate Goods": 107.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 110,
+      "Use-Based Classification-Consumer Durables": 108.2,
+      "Use-Based Classification-Consumer Non-Durables": 113.2
+    }
+  ],
+  "2013-02-01": [
+    {
+      "General Index": 101.4,
+      "Sectoral Classification-Mining": 92.7,
+      "Sectoral Classification-Manufacturing": 103.7,
+      "Sectoral Classification-Electricity": 94.1,
+      "Use-Based Classification-Primary Goods": 95.4,
+      "Use-Based Classification-Capital Goods": 100.2,
+      "Use-Based Classification-Intermediate Goods": 103.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 104.1,
+      "Use-Based Classification-Consumer Durables": 103.3,
+      "Use-Based Classification-Consumer Non-Durables": 109.7
+    }
+  ],
+  "2013-03-01": [
+    {
+      "General Index": 115.2,
+      "Sectoral Classification-Mining": 109.2,
+      "Sectoral Classification-Manufacturing": 116.8,
+      "Sectoral Classification-Electricity": 109.9,
+      "Use-Based Classification-Primary Goods": 109.7,
+      "Use-Based Classification-Capital Goods": 130.1,
+      "Use-Based Classification-Intermediate Goods": 114.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 117.8,
+      "Use-Based Classification-Consumer Durables": 111.9,
+      "Use-Based Classification-Consumer Non-Durables": 120.3
+    }
+  ],
+  "2013-04-01": [
+    {
+      "General Index": 102.6,
+      "Sectoral Classification-Mining": 91.4,
+      "Sectoral Classification-Manufacturing": 104.2,
+      "Sectoral Classification-Electricity": 106.6,
+      "Use-Based Classification-Primary Goods": 98,
+      "Use-Based Classification-Capital Goods": 89.8,
+      "Use-Based Classification-Intermediate Goods": 104.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 114.3,
+      "Use-Based Classification-Consumer Durables": 106.1,
+      "Use-Based Classification-Consumer Non-Durables": 105.1
+    }
+  ],
+  "2013-05-01": [
+    {
+      "General Index": 106,
+      "Sectoral Classification-Mining": 93.6,
+      "Sectoral Classification-Manufacturing": 107.3,
+      "Sectoral Classification-Electricity": 115.4,
+      "Use-Based Classification-Primary Goods": 103.7,
+      "Use-Based Classification-Capital Goods": 99.6,
+      "Use-Based Classification-Intermediate Goods": 106.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 116,
+      "Use-Based Classification-Consumer Durables": 102.9,
+      "Use-Based Classification-Consumer Non-Durables": 108.8
+    }
+  ],
+  "2013-06-01": [
+    {
+      "General Index": 101.3,
+      "Sectoral Classification-Mining": 87.6,
+      "Sectoral Classification-Manufacturing": 103.4,
+      "Sectoral Classification-Electricity": 105.1,
+      "Use-Based Classification-Primary Goods": 97.2,
+      "Use-Based Classification-Capital Goods": 91.9,
+      "Use-Based Classification-Intermediate Goods": 105.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 104,
+      "Use-Based Classification-Consumer Durables": 104.6,
+      "Use-Based Classification-Consumer Non-Durables": 105.8
+    }
+  ],
+  "2013-07-01": [
+    {
+      "General Index": 104.7,
+      "Sectoral Classification-Mining": 86.8,
+      "Sectoral Classification-Manufacturing": 107.5,
+      "Sectoral Classification-Electricity": 110.1,
+      "Use-Based Classification-Primary Goods": 100.3,
+      "Use-Based Classification-Capital Goods": 93,
+      "Use-Based Classification-Intermediate Goods": 111,
+      "Use-Based Classification-Infrastructure/Construction Goods": 110,
+      "Use-Based Classification-Consumer Durables": 107,
+      "Use-Based Classification-Consumer Non-Durables": 107.9
+    }
+  ],
+  "2013-08-01": [
+    {
+      "General Index": 104.3,
+      "Sectoral Classification-Mining": 84.6,
+      "Sectoral Classification-Manufacturing": 107.5,
+      "Sectoral Classification-Electricity": 109.2,
+      "Use-Based Classification-Primary Goods": 100.2,
+      "Use-Based Classification-Capital Goods": 94.9,
+      "Use-Based Classification-Intermediate Goods": 111.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 108.5,
+      "Use-Based Classification-Consumer Durables": 105.1,
+      "Use-Based Classification-Consumer Non-Durables": 106.9
+    }
+  ],
+  "2013-09-01": [
+    {
+      "General Index": 105.7,
+      "Sectoral Classification-Mining": 86.6,
+      "Sectoral Classification-Manufacturing": 108.5,
+      "Sectoral Classification-Electricity": 113.1,
+      "Use-Based Classification-Primary Goods": 100,
+      "Use-Based Classification-Capital Goods": 96.7,
+      "Use-Based Classification-Intermediate Goods": 110.9,
+      "Use-Based Classification-Infrastructure/Construction Goods": 108.1,
+      "Use-Based Classification-Consumer Durables": 116.5,
+      "Use-Based Classification-Consumer Non-Durables": 106.2
+    }
+  ],
+  "2013-10-01": [
+    {
+      "General Index": 105.7,
+      "Sectoral Classification-Mining": 88.6,
+      "Sectoral Classification-Manufacturing": 108.6,
+      "Sectoral Classification-Electricity": 108.9,
+      "Use-Based Classification-Primary Goods": 100.1,
+      "Use-Based Classification-Capital Goods": 94.1,
+      "Use-Based Classification-Intermediate Goods": 108.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 105.4,
+      "Use-Based Classification-Consumer Durables": 124.5,
+      "Use-Based Classification-Consumer Non-Durables": 106.4
+    }
+  ],
+  "2013-11-01": [
+    {
+      "General Index": 101.9,
+      "Sectoral Classification-Mining": 93.3,
+      "Sectoral Classification-Manufacturing": 103.1,
+      "Sectoral Classification-Electricity": 106.1,
+      "Use-Based Classification-Primary Goods": 99.8,
+      "Use-Based Classification-Capital Goods": 92.6,
+      "Use-Based Classification-Intermediate Goods": 105,
+      "Use-Based Classification-Infrastructure/Construction Goods": 104.8,
+      "Use-Based Classification-Consumer Durables": 105.9,
+      "Use-Based Classification-Consumer Non-Durables": 102.4
+    }
+  ],
+  "2013-12-01": [
+    {
+      "General Index": 110.9,
+      "Sectoral Classification-Mining": 104.2,
+      "Sectoral Classification-Manufacturing": 111.8,
+      "Sectoral Classification-Electricity": 113.6,
+      "Use-Based Classification-Primary Goods": 109.3,
+      "Use-Based Classification-Capital Goods": 97,
+      "Use-Based Classification-Intermediate Goods": 113.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 111.2,
+      "Use-Based Classification-Consumer Durables": 109.8,
+      "Use-Based Classification-Consumer Non-Durables": 119.5
+    }
+  ],
+  "2014-01-01": [
+    {
+      "General Index": 112.3,
+      "Sectoral Classification-Mining": 106.2,
+      "Sectoral Classification-Manufacturing": 113.2,
+      "Sectoral Classification-Electricity": 114.6,
+      "Use-Based Classification-Primary Goods": 109.7,
+      "Use-Based Classification-Capital Goods": 93.2,
+      "Use-Based Classification-Intermediate Goods": 113.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 120.5,
+      "Use-Based Classification-Consumer Durables": 115.9,
+      "Use-Based Classification-Consumer Non-Durables": 118
+    }
+  ],
+  "2014-02-01": [
+    {
+      "General Index": 106.7,
+      "Sectoral Classification-Mining": 97.8,
+      "Sectoral Classification-Manufacturing": 108.5,
+      "Sectoral Classification-Electricity": 104.9,
+      "Use-Based Classification-Primary Goods": 101.3,
+      "Use-Based Classification-Capital Goods": 98.7,
+      "Use-Based Classification-Intermediate Goods": 108.5,
+      "Use-Based Classification-Infrastructure/Construction Goods": 114.2,
+      "Use-Based Classification-Consumer Durables": 110.8,
+      "Use-Based Classification-Consumer Non-Durables": 111.2
+    }
+  ],
+  "2014-03-01": [
+    {
+      "General Index": 118.5,
+      "Sectoral Classification-Mining": 114,
+      "Sectoral Classification-Manufacturing": 119.6,
+      "Sectoral Classification-Electricity": 115.8,
+      "Use-Based Classification-Primary Goods": 114.4,
+      "Use-Based Classification-Capital Goods": 117.8,
+      "Use-Based Classification-Intermediate Goods": 121.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 119.8,
+      "Use-Based Classification-Consumer Durables": 120.7,
+      "Use-Based Classification-Consumer Non-Durables": 121.5
+    }
+  ],
+  "2014-04-01": [
+    {
+      "General Index": 106.6,
+      "Sectoral Classification-Mining": 93.6,
+      "Sectoral Classification-Manufacturing": 107.2,
+      "Sectoral Classification-Electricity": 124.3,
+      "Use-Based Classification-Primary Goods": 103.5,
+      "Use-Based Classification-Capital Goods": 82.4,
+      "Use-Based Classification-Intermediate Goods": 117.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 114,
+      "Use-Based Classification-Consumer Durables": 108.4,
+      "Use-Based Classification-Consumer Non-Durables": 107.2
+    }
+  ],
+  "2014-05-01": [
+    {
+      "General Index": 111,
+      "Sectoral Classification-Mining": 94.4,
+      "Sectoral Classification-Manufacturing": 112.2,
+      "Sectoral Classification-Electricity": 128.6,
+      "Use-Based Classification-Primary Goods": 107.3,
+      "Use-Based Classification-Capital Goods": 92.8,
+      "Use-Based Classification-Intermediate Goods": 116.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 121.8,
+      "Use-Based Classification-Consumer Durables": 114.4,
+      "Use-Based Classification-Consumer Non-Durables": 110.8
+    }
+  ],
+  "2014-06-01": [
+    {
+      "General Index": 109.7,
+      "Sectoral Classification-Mining": 91,
+      "Sectoral Classification-Manufacturing": 111,
+      "Sectoral Classification-Electricity": 130.6,
+      "Use-Based Classification-Primary Goods": 105.6,
+      "Use-Based Classification-Capital Goods": 100.8,
+      "Use-Based Classification-Intermediate Goods": 116.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 117.9,
+      "Use-Based Classification-Consumer Durables": 108.3,
+      "Use-Based Classification-Consumer Non-Durables": 109.9
+    }
+  ],
+  "2014-07-01": [
+    {
+      "General Index": 110.4,
+      "Sectoral Classification-Mining": 84.6,
+      "Sectoral Classification-Manufacturing": 112.8,
+      "Sectoral Classification-Electricity": 134.1,
+      "Use-Based Classification-Primary Goods": 103.1,
+      "Use-Based Classification-Capital Goods": 94.4,
+      "Use-Based Classification-Intermediate Goods": 118.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 119.1,
+      "Use-Based Classification-Consumer Durables": 115.3,
+      "Use-Based Classification-Consumer Non-Durables": 115.3
+    }
+  ],
+  "2014-08-01": [
+    {
+      "General Index": 108,
+      "Sectoral Classification-Mining": 83.5,
+      "Sectoral Classification-Manufacturing": 109.9,
+      "Sectoral Classification-Electricity": 133.1,
+      "Use-Based Classification-Primary Goods": 103.5,
+      "Use-Based Classification-Capital Goods": 91.7,
+      "Use-Based Classification-Intermediate Goods": 117.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 112.2,
+      "Use-Based Classification-Consumer Durables": 112.4,
+      "Use-Based Classification-Consumer Non-Durables": 108.6
+    }
+  ],
+  "2014-09-01": [
+    {
+      "General Index": 110.2,
+      "Sectoral Classification-Mining": 82.8,
+      "Sectoral Classification-Manufacturing": 113.7,
+      "Sectoral Classification-Electricity": 125.4,
+      "Use-Based Classification-Primary Goods": 101.7,
+      "Use-Based Classification-Capital Goods": 104.5,
+      "Use-Based Classification-Intermediate Goods": 117.5,
+      "Use-Based Classification-Infrastructure/Construction Goods": 112.9,
+      "Use-Based Classification-Consumer Durables": 126.4,
+      "Use-Based Classification-Consumer Non-Durables": 108.2
+    }
+  ],
+  "2014-10-01": [
+    {
+      "General Index": 106,
+      "Sectoral Classification-Mining": 89.1,
+      "Sectoral Classification-Manufacturing": 106.6,
+      "Sectoral Classification-Electricity": 130.1,
+      "Use-Based Classification-Primary Goods": 107,
+      "Use-Based Classification-Capital Goods": 82.2,
+      "Use-Based Classification-Intermediate Goods": 111.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 115,
+      "Use-Based Classification-Consumer Durables": 109.4,
+      "Use-Based Classification-Consumer Non-Durables": 100.3
+    }
+  ],
+  "2014-11-01": [
+    {
+      "General Index": 109.4,
+      "Sectoral Classification-Mining": 92.9,
+      "Sectoral Classification-Manufacturing": 111.2,
+      "Sectoral Classification-Electricity": 121.9,
+      "Use-Based Classification-Primary Goods": 106.8,
+      "Use-Based Classification-Capital Goods": 88.1,
+      "Use-Based Classification-Intermediate Goods": 114.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 115.5,
+      "Use-Based Classification-Consumer Durables": 116,
+      "Use-Based Classification-Consumer Non-Durables": 110.8
+    }
+  ],
+  "2014-12-01": [
+    {
+      "General Index": 115.3,
+      "Sectoral Classification-Mining": 98.9,
+      "Sectoral Classification-Manufacturing": 117.3,
+      "Sectoral Classification-Electricity": 125.2,
+      "Use-Based Classification-Primary Goods": 111.8,
+      "Use-Based Classification-Capital Goods": 99,
+      "Use-Based Classification-Intermediate Goods": 117.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 119.3,
+      "Use-Based Classification-Consumer Durables": 116.9,
+      "Use-Based Classification-Consumer Non-Durables": 124.9
+    }
+  ],
+  "2015-01-01": [
+    {
+      "General Index": 114.3,
+      "Sectoral Classification-Mining": 103,
+      "Sectoral Classification-Manufacturing": 115.4,
+      "Sectoral Classification-Electricity": 124.4,
+      "Use-Based Classification-Primary Goods": 112.4,
+      "Use-Based Classification-Capital Goods": 88.3,
+      "Use-Based Classification-Intermediate Goods": 117.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 122.7,
+      "Use-Based Classification-Consumer Durables": 115.5,
+      "Use-Based Classification-Consumer Non-Durables": 122.1
+    }
+  ],
+  "2015-02-01": [
+    {
+      "General Index": 109.9,
+      "Sectoral Classification-Mining": 94.9,
+      "Sectoral Classification-Manufacturing": 111.9,
+      "Sectoral Classification-Electricity": 117.4,
+      "Use-Based Classification-Primary Goods": 103.4,
+      "Use-Based Classification-Capital Goods": 100.1,
+      "Use-Based Classification-Intermediate Goods": 112.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 112.5,
+      "Use-Based Classification-Consumer Durables": 113.4,
+      "Use-Based Classification-Consumer Non-Durables": 121.9
+    }
+  ],
+  "2015-03-01": [
+    {
+      "General Index": 121.3,
+      "Sectoral Classification-Mining": 110.8,
+      "Sectoral Classification-Manufacturing": 122.9,
+      "Sectoral Classification-Electricity": 124.5,
+      "Use-Based Classification-Primary Goods": 114.1,
+      "Use-Based Classification-Capital Goods": 121.9,
+      "Use-Based Classification-Intermediate Goods": 123.5,
+      "Use-Based Classification-Infrastructure/Construction Goods": 120.5,
+      "Use-Based Classification-Consumer Durables": 126.2,
+      "Use-Based Classification-Consumer Non-Durables": 130.7
+    }
+  ],
+  "2015-04-01": [
+    {
+      "General Index": 107.3,
+      "Sectoral Classification-Mining": 89.9,
+      "Sectoral Classification-Manufacturing": 108.7,
+      "Sectoral Classification-Electricity": 124.9,
+      "Use-Based Classification-Primary Goods": 100.4,
+      "Use-Based Classification-Capital Goods": 85.5,
+      "Use-Based Classification-Intermediate Goods": 115.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 118.6,
+      "Use-Based Classification-Consumer Durables": 110.3,
+      "Use-Based Classification-Consumer Non-Durables": 113.3
+    }
+  ],
+  "2015-05-01": [
+    {
+      "General Index": 113,
+      "Sectoral Classification-Mining": 95.9,
+      "Sectoral Classification-Manufacturing": 113.6,
+      "Sectoral Classification-Electricity": 137.6,
+      "Use-Based Classification-Primary Goods": 112.4,
+      "Use-Based Classification-Capital Goods": 88.3,
+      "Use-Based Classification-Intermediate Goods": 117.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 121.9,
+      "Use-Based Classification-Consumer Durables": 113.1,
+      "Use-Based Classification-Consumer Non-Durables": 115.4
+    }
+  ],
+  "2015-06-01": [
+    {
+      "General Index": 110.8,
+      "Sectoral Classification-Mining": 89.3,
+      "Sectoral Classification-Manufacturing": 112.7,
+      "Sectoral Classification-Electricity": 131.4,
+      "Use-Based Classification-Primary Goods": 107.9,
+      "Use-Based Classification-Capital Goods": 92.6,
+      "Use-Based Classification-Intermediate Goods": 114.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 120.9,
+      "Use-Based Classification-Consumer Durables": 116.6,
+      "Use-Based Classification-Consumer Non-Durables": 109.8
+    }
+  ],
+  "2015-07-01": [
+    {
+      "General Index": 111.8,
+      "Sectoral Classification-Mining": 87.6,
+      "Sectoral Classification-Manufacturing": 113.4,
+      "Sectoral Classification-Electricity": 139.6,
+      "Use-Based Classification-Primary Goods": 108.6,
+      "Use-Based Classification-Capital Goods": 89.7,
+      "Use-Based Classification-Intermediate Goods": 120.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 120.6,
+      "Use-Based Classification-Consumer Durables": 119.7,
+      "Use-Based Classification-Consumer Non-Durables": 107.7
+    }
+  ],
+  "2015-08-01": [
+    {
+      "General Index": 112,
+      "Sectoral Classification-Mining": 88.5,
+      "Sectoral Classification-Manufacturing": 113.4,
+      "Sectoral Classification-Electricity": 140.5,
+      "Use-Based Classification-Primary Goods": 111.1,
+      "Use-Based Classification-Capital Goods": 94.3,
+      "Use-Based Classification-Intermediate Goods": 118.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 117.3,
+      "Use-Based Classification-Consumer Durables": 114.4,
+      "Use-Based Classification-Consumer Non-Durables": 110.2
+    }
+  ],
+  "2015-09-01": [
+    {
+      "General Index": 112.6,
+      "Sectoral Classification-Mining": 88.8,
+      "Sectoral Classification-Manufacturing": 114.4,
+      "Sectoral Classification-Electricity": 138.5,
+      "Use-Based Classification-Primary Goods": 107.4,
+      "Use-Based Classification-Capital Goods": 107,
+      "Use-Based Classification-Intermediate Goods": 119,
+      "Use-Based Classification-Infrastructure/Construction Goods": 114.7,
+      "Use-Based Classification-Consumer Durables": 122.8,
+      "Use-Based Classification-Consumer Non-Durables": 109.9
+    }
+  ],
+  "2015-10-01": [
+    {
+      "General Index": 115.5,
+      "Sectoral Classification-Mining": 100,
+      "Sectoral Classification-Manufacturing": 115.7,
+      "Sectoral Classification-Electricity": 140.9,
+      "Use-Based Classification-Primary Goods": 113.3,
+      "Use-Based Classification-Capital Goods": 98.9,
+      "Use-Based Classification-Intermediate Goods": 116.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 116.2,
+      "Use-Based Classification-Consumer Durables": 128.8,
+      "Use-Based Classification-Consumer Non-Durables": 115.6
+    }
+  ],
+  "2015-11-01": [
+    {
+      "General Index": 110.3,
+      "Sectoral Classification-Mining": 98.2,
+      "Sectoral Classification-Manufacturing": 111.2,
+      "Sectoral Classification-Electricity": 123.2,
+      "Use-Based Classification-Primary Goods": 110.9,
+      "Use-Based Classification-Capital Goods": 93.7,
+      "Use-Based Classification-Intermediate Goods": 111.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 109.4,
+      "Use-Based Classification-Consumer Durables": 110.8,
+      "Use-Based Classification-Consumer Non-Durables": 116.7
+    }
+  ],
+  "2015-12-01": [
+    {
+      "General Index": 118.9,
+      "Sectoral Classification-Mining": 103,
+      "Sectoral Classification-Manufacturing": 120.7,
+      "Sectoral Classification-Electricity": 129.5,
+      "Use-Based Classification-Primary Goods": 114.8,
+      "Use-Based Classification-Capital Goods": 103.7,
+      "Use-Based Classification-Intermediate Goods": 119.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 119.2,
+      "Use-Based Classification-Consumer Durables": 123,
+      "Use-Based Classification-Consumer Non-Durables": 131.6
+    }
+  ],
+  "2016-01-01": [
+    {
+      "General Index": 118.9,
+      "Sectoral Classification-Mining": 105.3,
+      "Sectoral Classification-Manufacturing": 120.1,
+      "Sectoral Classification-Electricity": 132.1,
+      "Use-Based Classification-Primary Goods": 117.5,
+      "Use-Based Classification-Capital Goods": 99.4,
+      "Use-Based Classification-Intermediate Goods": 120,
+      "Use-Based Classification-Infrastructure/Construction Goods": 125.4,
+      "Use-Based Classification-Consumer Durables": 119.1,
+      "Use-Based Classification-Consumer Non-Durables": 126.4
+    }
+  ],
+  "2016-02-01": [
+    {
+      "General Index": 117.8,
+      "Sectoral Classification-Mining": 105.6,
+      "Sectoral Classification-Manufacturing": 118.9,
+      "Sectoral Classification-Electricity": 128.6,
+      "Use-Based Classification-Primary Goods": 114.3,
+      "Use-Based Classification-Capital Goods": 104.4,
+      "Use-Based Classification-Intermediate Goods": 118,
+      "Use-Based Classification-Infrastructure/Construction Goods": 125,
+      "Use-Based Classification-Consumer Durables": 121,
+      "Use-Based Classification-Consumer Non-Durables": 123.6
+    }
+  ],
+  "2016-03-01": [
+    {
+      "General Index": 127.6,
+      "Sectoral Classification-Mining": 116,
+      "Sectoral Classification-Manufacturing": 128.5,
+      "Sectoral Classification-Electricity": 139.3,
+      "Use-Based Classification-Primary Goods": 125.2,
+      "Use-Based Classification-Capital Goods": 123.1,
+      "Use-Based Classification-Intermediate Goods": 130.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 134.1,
+      "Use-Based Classification-Consumer Durables": 129,
+      "Use-Based Classification-Consumer Non-Durables": 125.9
+    }
+  ],
+  "2016-04-01": [
+    {
+      "General Index": 113.7,
+      "Sectoral Classification-Mining": 95.9,
+      "Sectoral Classification-Manufacturing": 114,
+      "Sectoral Classification-Electricity": 142.9,
+      "Use-Based Classification-Primary Goods": 113.1,
+      "Use-Based Classification-Capital Goods": 93.4,
+      "Use-Based Classification-Intermediate Goods": 115.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 119.6,
+      "Use-Based Classification-Consumer Durables": 120.6,
+      "Use-Based Classification-Consumer Non-Durables": 113.5
+    }
+  ],
+  "2016-05-01": [
+    {
+      "General Index": 121.3,
+      "Sectoral Classification-Mining": 101.4,
+      "Sectoral Classification-Manufacturing": 122.4,
+      "Sectoral Classification-Electricity": 146,
+      "Use-Based Classification-Primary Goods": 117.6,
+      "Use-Based Classification-Capital Goods": 101.3,
+      "Use-Based Classification-Intermediate Goods": 122.5,
+      "Use-Based Classification-Infrastructure/Construction Goods": 130.9,
+      "Use-Based Classification-Consumer Durables": 124.3,
+      "Use-Based Classification-Consumer Non-Durables": 128.4
+    }
+  ],
+  "2016-06-01": [
+    {
+      "General Index": 119.7,
+      "Sectoral Classification-Mining": 98.4,
+      "Sectoral Classification-Manufacturing": 121.1,
+      "Sectoral Classification-Electricity": 144.3,
+      "Use-Based Classification-Primary Goods": 116.7,
+      "Use-Based Classification-Capital Goods": 106.3,
+      "Use-Based Classification-Intermediate Goods": 121.5,
+      "Use-Based Classification-Infrastructure/Construction Goods": 128.9,
+      "Use-Based Classification-Consumer Durables": 121.9,
+      "Use-Based Classification-Consumer Non-Durables": 122.3
+    }
+  ],
+  "2016-07-01": [
+    {
+      "General Index": 116.8,
+      "Sectoral Classification-Mining": 88.4,
+      "Sectoral Classification-Manufacturing": 119.4,
+      "Sectoral Classification-Electricity": 142.5,
+      "Use-Based Classification-Primary Goods": 113.2,
+      "Use-Based Classification-Capital Goods": 97.6,
+      "Use-Based Classification-Intermediate Goods": 123.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 119.5,
+      "Use-Based Classification-Consumer Durables": 119.9,
+      "Use-Based Classification-Consumer Non-Durables": 123.3
+    }
+  ],
+  "2016-08-01": [
+    {
+      "General Index": 116.5,
+      "Sectoral Classification-Mining": 84.7,
+      "Sectoral Classification-Manufacturing": 119.6,
+      "Sectoral Classification-Electricity": 143.5,
+      "Use-Based Classification-Primary Goods": 110,
+      "Use-Based Classification-Capital Goods": 94.8,
+      "Use-Based Classification-Intermediate Goods": 123.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 124.9,
+      "Use-Based Classification-Consumer Durables": 122.8,
+      "Use-Based Classification-Consumer Non-Durables": 122.6
+    }
+  ],
+  "2016-09-01": [
+    {
+      "General Index": 118.2,
+      "Sectoral Classification-Mining": 87.7,
+      "Sectoral Classification-Manufacturing": 121,
+      "Sectoral Classification-Electricity": 145.6,
+      "Use-Based Classification-Primary Goods": 109.8,
+      "Use-Based Classification-Capital Goods": 99,
+      "Use-Based Classification-Intermediate Goods": 121.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 124.7,
+      "Use-Based Classification-Consumer Durables": 135.4,
+      "Use-Based Classification-Consumer Non-Durables": 123.9
+    }
+  ],
+  "2016-10-01": [
+    {
+      "General Index": 120.3,
+      "Sectoral Classification-Mining": 101,
+      "Sectoral Classification-Manufacturing": 121.3,
+      "Sectoral Classification-Electricity": 145.1,
+      "Use-Based Classification-Primary Goods": 119.2,
+      "Use-Based Classification-Capital Goods": 94.3,
+      "Use-Based Classification-Intermediate Goods": 122.3,
+      "Use-Based Classification-Infrastructure/Construction Goods": 124.8,
+      "Use-Based Classification-Consumer Durables": 130.7,
+      "Use-Based Classification-Consumer Non-Durables": 122.1
+    }
+  ],
+  "2016-11-01": [
+    {
+      "General Index": 115.9,
+      "Sectoral Classification-Mining": 106.2,
+      "Sectoral Classification-Manufacturing": 115.7,
+      "Sectoral Classification-Electricity": 134.9,
+      "Use-Based Classification-Primary Goods": 117,
+      "Use-Based Classification-Capital Goods": 98.7,
+      "Use-Based Classification-Intermediate Goods": 117.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 113.7,
+      "Use-Based Classification-Consumer Durables": 118.3,
+      "Use-Based Classification-Consumer Non-Durables": 120.5
+    }
+  ],
+  "2016-12-01": [
+    {
+      "General Index": 121.7,
+      "Sectoral Classification-Mining": 114.1,
+      "Sectoral Classification-Manufacturing": 121.4,
+      "Sectoral Classification-Electricity": 137.8,
+      "Use-Based Classification-Primary Goods": 123.3,
+      "Use-Based Classification-Capital Goods": 97.3,
+      "Use-Based Classification-Intermediate Goods": 121.9,
+      "Use-Based Classification-Infrastructure/Construction Goods": 125.8,
+      "Use-Based Classification-Consumer Durables": 116.8,
+      "Use-Based Classification-Consumer Non-Durables": 131.3
+    }
+  ],
+  "2017-01-01": [
+    {
+      "General Index": 123.1,
+      "Sectoral Classification-Mining": 114.4,
+      "Sectoral Classification-Manufacturing": 123.1,
+      "Sectoral Classification-Electricity": 138.9,
+      "Use-Based Classification-Primary Goods": 122,
+      "Use-Based Classification-Capital Goods": 98.8,
+      "Use-Based Classification-Intermediate Goods": 123.9,
+      "Use-Based Classification-Infrastructure/Construction Goods": 128.7,
+      "Use-Based Classification-Consumer Durables": 116.7,
+      "Use-Based Classification-Consumer Non-Durables": 138.5
+    }
+  ],
+  "2017-02-01": [
+    {
+      "General Index": 119.2,
+      "Sectoral Classification-Mining": 110.5,
+      "Sectoral Classification-Manufacturing": 119.7,
+      "Sectoral Classification-Electricity": 130.2,
+      "Use-Based Classification-Primary Goods": 115.2,
+      "Use-Based Classification-Capital Goods": 101.9,
+      "Use-Based Classification-Intermediate Goods": 120.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 122.6,
+      "Use-Based Classification-Consumer Durables": 115.4,
+      "Use-Based Classification-Consumer Non-Durables": 136.5
+    }
+  ],
+  "2017-03-01": [
+    {
+      "General Index": 133.2,
+      "Sectoral Classification-Mining": 127.7,
+      "Sectoral Classification-Manufacturing": 132.7,
+      "Sectoral Classification-Electricity": 147.9,
+      "Use-Based Classification-Primary Goods": 132.5,
+      "Use-Based Classification-Capital Goods": 134.7,
+      "Use-Based Classification-Intermediate Goods": 134.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 135.6,
+      "Use-Based Classification-Consumer Durables": 128.2,
+      "Use-Based Classification-Consumer Non-Durables": 135.4
+    }
+  ],
+  "2017-04-01": [
+    {
+      "General Index": 117.3,
+      "Sectoral Classification-Mining": 98.8,
+      "Sectoral Classification-Manufacturing": 117.3,
+      "Sectoral Classification-Electricity": 150.6,
+      "Use-Based Classification-Primary Goods": 116.5,
+      "Use-Based Classification-Capital Goods": 88.9,
+      "Use-Based Classification-Intermediate Goods": 119.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 125.2,
+      "Use-Based Classification-Consumer Durables": 119.7,
+      "Use-Based Classification-Consumer Non-Durables": 123.5
+    }
+  ],
+  "2017-05-01": [
+    {
+      "General Index": 124.8,
+      "Sectoral Classification-Mining": 101.7,
+      "Sectoral Classification-Manufacturing": 125.6,
+      "Sectoral Classification-Electricity": 158.1,
+      "Use-Based Classification-Primary Goods": 122,
+      "Use-Based Classification-Capital Goods": 99.7,
+      "Use-Based Classification-Intermediate Goods": 123.3,
+      "Use-Based Classification-Infrastructure/Construction Goods": 130.8,
+      "Use-Based Classification-Consumer Durables": 125.1,
+      "Use-Based Classification-Consumer Non-Durables": 140.9
+    }
+  ],
+  "2017-06-01": [
+    {
+      "General Index": 119.3,
+      "Sectoral Classification-Mining": 98.5,
+      "Sectoral Classification-Manufacturing": 120.3,
+      "Sectoral Classification-Electricity": 147.4,
+      "Use-Based Classification-Primary Goods": 116.4,
+      "Use-Based Classification-Capital Goods": 99.8,
+      "Use-Based Classification-Intermediate Goods": 120,
+      "Use-Based Classification-Infrastructure/Construction Goods": 130.2,
+      "Use-Based Classification-Consumer Durables": 117.6,
+      "Use-Based Classification-Consumer Non-Durables": 128.2
+    }
+  ],
+  "2017-07-01": [
+    {
+      "General Index": 118,
+      "Sectoral Classification-Mining": 92.4,
+      "Sectoral Classification-Manufacturing": 119.3,
+      "Sectoral Classification-Electricity": 151.9,
+      "Use-Based Classification-Primary Goods": 115.7,
+      "Use-Based Classification-Capital Goods": 96.5,
+      "Use-Based Classification-Intermediate Goods": 119.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 124.6,
+      "Use-Based Classification-Consumer Durables": 117,
+      "Use-Based Classification-Consumer Non-Durables": 128.3
+    }
+  ],
+  "2017-08-01": [
+    {
+      "General Index": 122.1,
+      "Sectoral Classification-Mining": 92.6,
+      "Sectoral Classification-Manufacturing": 124.1,
+      "Sectoral Classification-Electricity": 155.4,
+      "Use-Based Classification-Primary Goods": 117.8,
+      "Use-Based Classification-Capital Goods": 101.7,
+      "Use-Based Classification-Intermediate Goods": 123,
+      "Use-Based Classification-Infrastructure/Construction Goods": 128.3,
+      "Use-Based Classification-Consumer Durables": 128.1,
+      "Use-Based Classification-Consumer Non-Durables": 131.4
+    }
+  ],
+  "2017-09-01": [
+    {
+      "General Index": 123.1,
+      "Sectoral Classification-Mining": 94.4,
+      "Sectoral Classification-Manufacturing": 125.6,
+      "Sectoral Classification-Electricity": 150.5,
+      "Use-Based Classification-Primary Goods": 117,
+      "Use-Based Classification-Capital Goods": 107.6,
+      "Use-Based Classification-Intermediate Goods": 123.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 125.3,
+      "Use-Based Classification-Consumer Durables": 129.9,
+      "Use-Based Classification-Consumer Non-Durables": 136.9
+    }
+  ],
+  "2017-10-01": [
+    {
+      "General Index": 122.5,
+      "Sectoral Classification-Mining": 100.8,
+      "Sectoral Classification-Manufacturing": 123.7,
+      "Sectoral Classification-Electricity": 149.8,
+      "Use-Based Classification-Primary Goods": 122.1,
+      "Use-Based Classification-Capital Goods": 97.6,
+      "Use-Based Classification-Intermediate Goods": 122.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 132,
+      "Use-Based Classification-Consumer Durables": 119,
+      "Use-Based Classification-Consumer Non-Durables": 132.1
+    }
+  ],
+  "2017-11-01": [
+    {
+      "General Index": 125.8,
+      "Sectoral Classification-Mining": 107.7,
+      "Sectoral Classification-Manufacturing": 127.7,
+      "Sectoral Classification-Electricity": 140.1,
+      "Use-Based Classification-Primary Goods": 120.9,
+      "Use-Based Classification-Capital Goods": 104.3,
+      "Use-Based Classification-Intermediate Goods": 125.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 129.3,
+      "Use-Based Classification-Consumer Durables": 122,
+      "Use-Based Classification-Consumer Non-Durables": 149.1
+    }
+  ],
+  "2017-12-01": [
+    {
+      "General Index": 130.6,
+      "Sectoral Classification-Mining": 115.5,
+      "Sectoral Classification-Manufacturing": 132,
+      "Sectoral Classification-Electricity": 143.9,
+      "Use-Based Classification-Primary Goods": 128,
+      "Use-Based Classification-Capital Goods": 110.1,
+      "Use-Based Classification-Intermediate Goods": 131,
+      "Use-Based Classification-Infrastructure/Construction Goods": 134,
+      "Use-Based Classification-Consumer Durables": 119.3,
+      "Use-Based Classification-Consumer Non-Durables": 153.4
+    }
+  ],
+  "2018-01-01": [
+    {
+      "General Index": 132.3,
+      "Sectoral Classification-Mining": 114.7,
+      "Sectoral Classification-Manufacturing": 133.8,
+      "Sectoral Classification-Electricity": 149.5,
+      "Use-Based Classification-Primary Goods": 129.2,
+      "Use-Based Classification-Capital Goods": 111.1,
+      "Use-Based Classification-Intermediate Goods": 130.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 138.3,
+      "Use-Based Classification-Consumer Durables": 125.6,
+      "Use-Based Classification-Consumer Non-Durables": 153.3
+    }
+  ],
+  "2018-02-01": [
+    {
+      "General Index": 127.4,
+      "Sectoral Classification-Mining": 110.1,
+      "Sectoral Classification-Manufacturing": 129.7,
+      "Sectoral Classification-Electricity": 136.1,
+      "Use-Based Classification-Primary Goods": 119.5,
+      "Use-Based Classification-Capital Goods": 118.8,
+      "Use-Based Classification-Intermediate Goods": 124.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 138.5,
+      "Use-Based Classification-Consumer Durables": 124,
+      "Use-Based Classification-Consumer Non-Durables": 146.6
+    }
+  ],
+  "2018-03-01": [
+    {
+      "General Index": 140.3,
+      "Sectoral Classification-Mining": 131.6,
+      "Sectoral Classification-Manufacturing": 140.2,
+      "Sectoral Classification-Electricity": 156.7,
+      "Use-Based Classification-Primary Goods": 136.5,
+      "Use-Based Classification-Capital Goods": 130.5,
+      "Use-Based Classification-Intermediate Goods": 137.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 147.9,
+      "Use-Based Classification-Consumer Durables": 136.1,
+      "Use-Based Classification-Consumer Non-Durables": 154.5
+    }
+  ],
+  "2018-04-01": [
+    {
+      "General Index": 122.6,
+      "Sectoral Classification-Mining": 102.6,
+      "Sectoral Classification-Manufacturing": 123.1,
+      "Sectoral Classification-Electricity": 153.7,
+      "Use-Based Classification-Primary Goods": 119.7,
+      "Use-Based Classification-Capital Goods": 97.6,
+      "Use-Based Classification-Intermediate Goods": 120.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 135.9,
+      "Use-Based Classification-Consumer Durables": 124.4,
+      "Use-Based Classification-Consumer Non-Durables": 132.8
+    }
+  ],
+  "2018-05-01": [
+    {
+      "General Index": 129.6,
+      "Sectoral Classification-Mining": 107.6,
+      "Sectoral Classification-Manufacturing": 130.1,
+      "Sectoral Classification-Electricity": 164.7,
+      "Use-Based Classification-Primary Goods": 129,
+      "Use-Based Classification-Capital Goods": 106.1,
+      "Use-Based Classification-Intermediate Goods": 123.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 140.8,
+      "Use-Based Classification-Consumer Durables": 133.5,
+      "Use-Based Classification-Consumer Non-Durables": 138.6
+    }
+  ],
+  "2018-06-01": [
+    {
+      "General Index": 127.7,
+      "Sectoral Classification-Mining": 104.9,
+      "Sectoral Classification-Manufacturing": 128.6,
+      "Sectoral Classification-Electricity": 159.9,
+      "Use-Based Classification-Primary Goods": 127.1,
+      "Use-Based Classification-Capital Goods": 109.5,
+      "Use-Based Classification-Intermediate Goods": 121.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 142.4,
+      "Use-Based Classification-Consumer Durables": 133.6,
+      "Use-Based Classification-Consumer Non-Durables": 128.5
+    }
+  ],
+  "2018-07-01": [
+    {
+      "General Index": 125.7,
+      "Sectoral Classification-Mining": 95.5,
+      "Sectoral Classification-Manufacturing": 127.6,
+      "Sectoral Classification-Electricity": 162,
+      "Use-Based Classification-Primary Goods": 123.6,
+      "Use-Based Classification-Capital Goods": 98.7,
+      "Use-Based Classification-Intermediate Goods": 121.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 136.1,
+      "Use-Based Classification-Consumer Durables": 133.5,
+      "Use-Based Classification-Consumer Non-Durables": 135.1
+    }
+  ],
+  "2018-08-01": [
+    {
+      "General Index": 128,
+      "Sectoral Classification-Mining": 92,
+      "Sectoral Classification-Manufacturing": 130.6,
+      "Sectoral Classification-Electricity": 167.2,
+      "Use-Based Classification-Primary Goods": 120.7,
+      "Use-Based Classification-Capital Goods": 112.2,
+      "Use-Based Classification-Intermediate Goods": 126.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 138.6,
+      "Use-Based Classification-Consumer Durables": 135.1,
+      "Use-Based Classification-Consumer Non-Durables": 140
+    }
+  ],
+  "2018-09-01": [
+    {
+      "General Index": 128.8,
+      "Sectoral Classification-Mining": 94.5,
+      "Sectoral Classification-Manufacturing": 131.6,
+      "Sectoral Classification-Electricity": 162.9,
+      "Use-Based Classification-Primary Goods": 120,
+      "Use-Based Classification-Capital Goods": 115,
+      "Use-Based Classification-Intermediate Goods": 125.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 137.2,
+      "Use-Based Classification-Consumer Durables": 136.9,
+      "Use-Based Classification-Consumer Non-Durables": 145.6
+    }
+  ],
+  "2018-10-01": [
+    {
+      "General Index": 132.8,
+      "Sectoral Classification-Mining": 108.2,
+      "Sectoral Classification-Manufacturing": 133.9,
+      "Sectoral Classification-Electricity": 166,
+      "Use-Based Classification-Primary Goods": 129.5,
+      "Use-Based Classification-Capital Goods": 114.1,
+      "Use-Based Classification-Intermediate Goods": 125.5,
+      "Use-Based Classification-Infrastructure/Construction Goods": 143.9,
+      "Use-Based Classification-Consumer Durables": 139.7,
+      "Use-Based Classification-Consumer Non-Durables": 143.4
+    }
+  ],
+  "2018-11-01": [
+    {
+      "General Index": 126.1,
+      "Sectoral Classification-Mining": 110.6,
+      "Sectoral Classification-Manufacturing": 126.8,
+      "Sectoral Classification-Electricity": 147.3,
+      "Use-Based Classification-Primary Goods": 124.8,
+      "Use-Based Classification-Capital Goods": 100,
+      "Use-Based Classification-Intermediate Goods": 120.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 135.5,
+      "Use-Based Classification-Consumer Durables": 118.3,
+      "Use-Based Classification-Consumer Non-Durables": 148.6
+    }
+  ],
+  "2018-12-01": [
+    {
+      "General Index": 133.9,
+      "Sectoral Classification-Mining": 114.4,
+      "Sectoral Classification-Manufacturing": 135.8,
+      "Sectoral Classification-Electricity": 150.4,
+      "Use-Based Classification-Primary Goods": 126.6,
+      "Use-Based Classification-Capital Goods": 114.7,
+      "Use-Based Classification-Intermediate Goods": 129.9,
+      "Use-Based Classification-Infrastructure/Construction Goods": 146.1,
+      "Use-Based Classification-Consumer Durables": 124.2,
+      "Use-Based Classification-Consumer Non-Durables": 163.4
+    }
+  ],
+  "2019-01-01": [
+    {
+      "General Index": 134.4,
+      "Sectoral Classification-Mining": 119.1,
+      "Sectoral Classification-Manufacturing": 135.5,
+      "Sectoral Classification-Electricity": 150.9,
+      "Use-Based Classification-Primary Goods": 131,
+      "Use-Based Classification-Capital Goods": 107.1,
+      "Use-Based Classification-Intermediate Goods": 127,
+      "Use-Based Classification-Infrastructure/Construction Goods": 147.2,
+      "Use-Based Classification-Consumer Durables": 128.7,
+      "Use-Based Classification-Consumer Non-Durables": 159.2
+    }
+  ],
+  "2019-02-01": [
+    {
+      "General Index": 127.6,
+      "Sectoral Classification-Mining": 112.5,
+      "Sectoral Classification-Manufacturing": 129.3,
+      "Sectoral Classification-Electricity": 137.9,
+      "Use-Based Classification-Primary Goods": 121.1,
+      "Use-Based Classification-Capital Goods": 107.7,
+      "Use-Based Classification-Intermediate Goods": 118.5,
+      "Use-Based Classification-Infrastructure/Construction Goods": 141.1,
+      "Use-Based Classification-Consumer Durables": 125.1,
+      "Use-Based Classification-Consumer Non-Durables": 153.9
+    }
+  ],
+  "2019-03-01": [
+    {
+      "General Index": 144.1,
+      "Sectoral Classification-Mining": 132.7,
+      "Sectoral Classification-Manufacturing": 144.6,
+      "Sectoral Classification-Electricity": 160.1,
+      "Use-Based Classification-Primary Goods": 140,
+      "Use-Based Classification-Capital Goods": 118.6,
+      "Use-Based Classification-Intermediate Goods": 154.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 155.4,
+      "Use-Based Classification-Consumer Durables": 131.7,
+      "Use-Based Classification-Consumer Non-Durables": 156.6
+    }
+  ],
+  "2019-04-01": [
+    {
+      "General Index": 126.5,
+      "Sectoral Classification-Mining": 107.8,
+      "Sectoral Classification-Manufacturing": 126.2,
+      "Sectoral Classification-Electricity": 162.9,
+      "Use-Based Classification-Primary Goods": 125.8,
+      "Use-Based Classification-Capital Goods": 96.2,
+      "Use-Based Classification-Intermediate Goods": 123.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 135,
+      "Use-Based Classification-Consumer Durables": 127.1,
+      "Use-Based Classification-Consumer Non-Durables": 140
+    }
+  ],
+  "2019-05-01": [
+    {
+      "General Index": 135.4,
+      "Sectoral Classification-Mining": 110.1,
+      "Sectoral Classification-Manufacturing": 135.8,
+      "Sectoral Classification-Electricity": 176.9,
+      "Use-Based Classification-Primary Goods": 131.9,
+      "Use-Based Classification-Capital Goods": 103.9,
+      "Use-Based Classification-Intermediate Goods": 138.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 145,
+      "Use-Based Classification-Consumer Durables": 133.8,
+      "Use-Based Classification-Consumer Non-Durables": 149.8
+    }
+  ],
+  "2019-06-01": [
+    {
+      "General Index": 129.3,
+      "Sectoral Classification-Mining": 106.5,
+      "Sectoral Classification-Manufacturing": 129,
+      "Sectoral Classification-Electricity": 173.6,
+      "Use-Based Classification-Primary Goods": 127.8,
+      "Use-Based Classification-Capital Goods": 101.9,
+      "Use-Based Classification-Intermediate Goods": 136.5,
+      "Use-Based Classification-Infrastructure/Construction Goods": 140.6,
+      "Use-Based Classification-Consumer Durables": 120,
+      "Use-Based Classification-Consumer Non-Durables": 138
+    }
+  ],
+  "2019-07-01": [
+    {
+      "General Index": 131.8,
+      "Sectoral Classification-Mining": 100.2,
+      "Sectoral Classification-Manufacturing": 133.7,
+      "Sectoral Classification-Electricity": 170.5,
+      "Use-Based Classification-Primary Goods": 128.1,
+      "Use-Based Classification-Capital Goods": 91.8,
+      "Use-Based Classification-Intermediate Goods": 140.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 140.1,
+      "Use-Based Classification-Consumer Durables": 130.3,
+      "Use-Based Classification-Consumer Non-Durables": 146.6
+    }
+  ],
+  "2019-08-01": [
+    {
+      "General Index": 126.2,
+      "Sectoral Classification-Mining": 92,
+      "Sectoral Classification-Manufacturing": 128.4,
+      "Sectoral Classification-Electricity": 165.7,
+      "Use-Based Classification-Primary Goods": 121.9,
+      "Use-Based Classification-Capital Goods": 88.7,
+      "Use-Based Classification-Intermediate Goods": 135.9,
+      "Use-Based Classification-Infrastructure/Construction Goods": 130.7,
+      "Use-Based Classification-Consumer Durables": 122,
+      "Use-Based Classification-Consumer Non-Durables": 144.4
+    }
+  ],
+  "2019-09-01": [
+    {
+      "General Index": 122.9,
+      "Sectoral Classification-Mining": 86.4,
+      "Sectoral Classification-Manufacturing": 126,
+      "Sectoral Classification-Electricity": 158.7,
+      "Use-Based Classification-Primary Goods": 113.8,
+      "Use-Based Classification-Capital Goods": 91.4,
+      "Use-Based Classification-Intermediate Goods": 134.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 127.6,
+      "Use-Based Classification-Consumer Durables": 122.5,
+      "Use-Based Classification-Consumer Non-Durables": 144
+    }
+  ],
+  "2019-10-01": [
+    {
+      "General Index": 124,
+      "Sectoral Classification-Mining": 99.5,
+      "Sectoral Classification-Manufacturing": 126.3,
+      "Sectoral Classification-Electricity": 145.8,
+      "Use-Based Classification-Primary Goods": 121.7,
+      "Use-Based Classification-Capital Goods": 88.5,
+      "Use-Based Classification-Intermediate Goods": 136.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 129.9,
+      "Use-Based Classification-Consumer Durables": 113.3,
+      "Use-Based Classification-Consumer Non-Durables": 138.6
+    }
+  ],
+  "2019-11-01": [
+    {
+      "General Index": 128.8,
+      "Sectoral Classification-Mining": 112.7,
+      "Sectoral Classification-Manufacturing": 130.6,
+      "Sectoral Classification-Electricity": 139.9,
+      "Use-Based Classification-Primary Goods": 124.5,
+      "Use-Based Classification-Capital Goods": 91.1,
+      "Use-Based Classification-Intermediate Goods": 140.9,
+      "Use-Based Classification-Infrastructure/Construction Goods": 134.5,
+      "Use-Based Classification-Consumer Durables": 116.7,
+      "Use-Based Classification-Consumer Non-Durables": 150.2
+    }
+  ],
+  "2019-12-01": [
+    {
+      "General Index": 134.5,
+      "Sectoral Classification-Mining": 120.9,
+      "Sectoral Classification-Manufacturing": 135.4,
+      "Sectoral Classification-Electricity": 150.3,
+      "Use-Based Classification-Primary Goods": 129.6,
+      "Use-Based Classification-Capital Goods": 93.7,
+      "Use-Based Classification-Intermediate Goods": 146.9,
+      "Use-Based Classification-Infrastructure/Construction Goods": 146.4,
+      "Use-Based Classification-Consumer Durables": 117.3,
+      "Use-Based Classification-Consumer Non-Durables": 158.1
+    }
+  ],
+  "2020-01-01": [
+    {
+      "General Index": 137.4,
+      "Sectoral Classification-Mining": 124.3,
+      "Sectoral Classification-Manufacturing": 137.9,
+      "Sectoral Classification-Electricity": 155.6,
+      "Use-Based Classification-Primary Goods": 133.4,
+      "Use-Based Classification-Capital Goods": 102.4,
+      "Use-Based Classification-Intermediate Goods": 146.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 146.7,
+      "Use-Based Classification-Consumer Durables": 124,
+      "Use-Based Classification-Consumer Non-Durables": 158.3
+    }
+  ],
+  "2020-02-01": [
+    {
+      "General Index": 134.2,
+      "Sectoral Classification-Mining": 123.3,
+      "Sectoral Classification-Manufacturing": 134.2,
+      "Sectoral Classification-Electricity": 153.7,
+      "Use-Based Classification-Primary Goods": 131,
+      "Use-Based Classification-Capital Goods": 97.4,
+      "Use-Based Classification-Intermediate Goods": 145.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 145,
+      "Use-Based Classification-Consumer Durables": 117.3,
+      "Use-Based Classification-Consumer Non-Durables": 153.4
+    }
+  ],
+  "2020-03-01": [
+    {
+      "General Index": 117.2,
+      "Sectoral Classification-Mining": 131,
+      "Sectoral Classification-Manufacturing": 111.6,
+      "Sectoral Classification-Electricity": 146.9,
+      "Use-Based Classification-Primary Goods": 134.4,
+      "Use-Based Classification-Capital Goods": 72.6,
+      "Use-Based Classification-Intermediate Goods": 125.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 117.6,
+      "Use-Based Classification-Consumer Durables": 83.2,
+      "Use-Based Classification-Consumer Non-Durables": 121.7
+    }
+  ],
+  "2020-04-01": [
+    {
+      "General Index": 54,
+      "Sectoral Classification-Mining": 78.8,
+      "Sectoral Classification-Manufacturing": 42.1,
+      "Sectoral Classification-Electricity": 125.6,
+      "Use-Based Classification-Primary Goods": 92.4,
+      "Use-Based Classification-Capital Goods": 7,
+      "Use-Based Classification-Intermediate Goods": 44.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 20.3,
+      "Use-Based Classification-Consumer Durables": 5.5,
+      "Use-Based Classification-Consumer Non-Durables": 72.7
+    }
+  ],
+  "2020-05-01": [
+    {
+      "General Index": 90.2,
+      "Sectoral Classification-Mining": 87.6,
+      "Sectoral Classification-Manufacturing": 84.4,
+      "Sectoral Classification-Electricity": 150.6,
+      "Use-Based Classification-Primary Goods": 106,
+      "Use-Based Classification-Capital Goods": 35.4,
+      "Use-Based Classification-Intermediate Goods": 83.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 88.4,
+      "Use-Based Classification-Consumer Durables": 39.7,
+      "Use-Based Classification-Consumer Non-Durables": 135.3
+    }
+  ],
+  "2020-06-01": [
+    {
+      "General Index": 107.9,
+      "Sectoral Classification-Mining": 85.7,
+      "Sectoral Classification-Manufacturing": 107.1,
+      "Sectoral Classification-Electricity": 156.2,
+      "Use-Based Classification-Primary Goods": 109.3,
+      "Use-Based Classification-Capital Goods": 63.8,
+      "Use-Based Classification-Intermediate Goods": 108.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 114.9,
+      "Use-Based Classification-Consumer Durables": 78.2,
+      "Use-Based Classification-Consumer Non-Durables": 147.5
+    }
+  ],
+  "2020-07-01": [
+    {
+      "General Index": 117.9,
+      "Sectoral Classification-Mining": 87.5,
+      "Sectoral Classification-Manufacturing": 118.5,
+      "Sectoral Classification-Electricity": 166.3,
+      "Use-Based Classification-Primary Goods": 114.3,
+      "Use-Based Classification-Capital Goods": 70.9,
+      "Use-Based Classification-Intermediate Goods": 125.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 128.6,
+      "Use-Based Classification-Consumer Durables": 99.4,
+      "Use-Based Classification-Consumer Non-Durables": 149.3
+    }
+  ],
+  "2020-08-01": [
+    {
+      "General Index": 117.2,
+      "Sectoral Classification-Mining": 84,
+      "Sectoral Classification-Manufacturing": 118.7,
+      "Sectoral Classification-Electricity": 162.7,
+      "Use-Based Classification-Primary Goods": 108.8,
+      "Use-Based Classification-Capital Goods": 75.9,
+      "Use-Based Classification-Intermediate Goods": 129.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 130.7,
+      "Use-Based Classification-Consumer Durables": 109.5,
+      "Use-Based Classification-Consumer Non-Durables": 140
+    }
+  ],
+  "2020-09-01": [
+    {
+      "General Index": 124.1,
+      "Sectoral Classification-Mining": 87.6,
+      "Sectoral Classification-Manufacturing": 126.5,
+      "Sectoral Classification-Electricity": 166.4,
+      "Use-Based Classification-Primary Goods": 112.1,
+      "Use-Based Classification-Capital Goods": 90.3,
+      "Use-Based Classification-Intermediate Goods": 133.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 132.7,
+      "Use-Based Classification-Consumer Durables": 129,
+      "Use-Based Classification-Consumer Non-Durables": 147.4
+    }
+  ],
+  "2020-10-01": [
+    {
+      "General Index": 129.6,
+      "Sectoral Classification-Mining": 98.5,
+      "Sectoral Classification-Manufacturing": 132,
+      "Sectoral Classification-Electricity": 162.2,
+      "Use-Based Classification-Primary Goods": 117.9,
+      "Use-Based Classification-Capital Goods": 91.3,
+      "Use-Based Classification-Intermediate Goods": 140.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 144.1,
+      "Use-Based Classification-Consumer Durables": 133.8,
+      "Use-Based Classification-Consumer Non-Durables": 148.7
+    }
+  ],
+  "2020-11-01": [
+    {
+      "General Index": 126.7,
+      "Sectoral Classification-Mining": 106.6,
+      "Sectoral Classification-Manufacturing": 128.5,
+      "Sectoral Classification-Electricity": 144.8,
+      "Use-Based Classification-Primary Goods": 122.2,
+      "Use-Based Classification-Capital Goods": 84.3,
+      "Use-Based Classification-Intermediate Goods": 138.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 137.3,
+      "Use-Based Classification-Consumer Durables": 113,
+      "Use-Based Classification-Consumer Non-Durables": 149.1
+    }
+  ],
+  "2020-12-01": [
+    {
+      "General Index": 137.4,
+      "Sectoral Classification-Mining": 117.3,
+      "Sectoral Classification-Manufacturing": 139,
+      "Sectoral Classification-Electricity": 158,
+      "Use-Based Classification-Primary Goods": 130.1,
+      "Use-Based Classification-Capital Goods": 95.8,
+      "Use-Based Classification-Intermediate Goods": 150.3,
+      "Use-Based Classification-Infrastructure/Construction Goods": 151,
+      "Use-Based Classification-Consumer Durables": 124.9,
+      "Use-Based Classification-Consumer Non-Durables": 161.1
+    }
+  ],
+  "2021-01-01": [
+    {
+      "General Index": 136.6,
+      "Sectoral Classification-Mining": 121.3,
+      "Sectoral Classification-Manufacturing": 136.6,
+      "Sectoral Classification-Electricity": 164.2,
+      "Use-Based Classification-Primary Goods": 134.4,
+      "Use-Based Classification-Capital Goods": 93.2,
+      "Use-Based Classification-Intermediate Goods": 149.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 150.1,
+      "Use-Based Classification-Consumer Durables": 123.9,
+      "Use-Based Classification-Consumer Non-Durables": 149.8
+    }
+  ],
+  "2021-02-01": [
+    {
+      "General Index": 129.9,
+      "Sectoral Classification-Mining": 117.9,
+      "Sectoral Classification-Manufacturing": 129.7,
+      "Sectoral Classification-Electricity": 153.9,
+      "Use-Based Classification-Primary Goods": 125,
+      "Use-Based Classification-Capital Goods": 93.3,
+      "Use-Based Classification-Intermediate Goods": 138,
+      "Use-Based Classification-Infrastructure/Construction Goods": 139.9,
+      "Use-Based Classification-Consumer Durables": 125,
+      "Use-Based Classification-Consumer Non-Durables": 147.6
+    }
+  ],
+  "2021-03-01": [
+    {
+      "General Index": 145.6,
+      "Sectoral Classification-Mining": 139,
+      "Sectoral Classification-Manufacturing": 143.3,
+      "Sectoral Classification-Electricity": 180,
+      "Use-Based Classification-Primary Goods": 145,
+      "Use-Based Classification-Capital Goods": 109.2,
+      "Use-Based Classification-Intermediate Goods": 153.9,
+      "Use-Based Classification-Infrastructure/Construction Goods": 158.9,
+      "Use-Based Classification-Consumer Durables": 133,
+      "Use-Based Classification-Consumer Non-Durables": 157.2
+    }
+  ],
+  "2021-04-01": [
+    {
+      "General Index": 126.1,
+      "Sectoral Classification-Mining": 107.6,
+      "Sectoral Classification-Manufacturing": 124.6,
+      "Sectoral Classification-Electricity": 174,
+      "Use-Based Classification-Primary Goods": 126.5,
+      "Use-Based Classification-Capital Goods": 79,
+      "Use-Based Classification-Intermediate Goods": 139.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 144,
+      "Use-Based Classification-Consumer Durables": 103.3,
+      "Use-Based Classification-Consumer Non-Durables": 140
+    }
+  ],
+  "2021-05-01": [
+    {
+      "General Index": 115.1,
+      "Sectoral Classification-Mining": 108.3,
+      "Sectoral Classification-Manufacturing": 111.5,
+      "Sectoral Classification-Electricity": 161.9,
+      "Use-Based Classification-Primary Goods": 122.8,
+      "Use-Based Classification-Capital Goods": 61.9,
+      "Use-Based Classification-Intermediate Goods": 129.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 129.5,
+      "Use-Based Classification-Consumer Durables": 71.6,
+      "Use-Based Classification-Consumer Non-Durables": 135.6
+    }
+  ],
+  "2021-06-01": [
+    {
+      "General Index": 122.8,
+      "Sectoral Classification-Mining": 105.5,
+      "Sectoral Classification-Manufacturing": 121.2,
+      "Sectoral Classification-Electricity": 169.1,
+      "Use-Based Classification-Primary Goods": 122.4,
+      "Use-Based Classification-Capital Goods": 81.2,
+      "Use-Based Classification-Intermediate Goods": 132.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 137.9,
+      "Use-Based Classification-Consumer Durables": 100.1,
+      "Use-Based Classification-Consumer Non-Durables": 141.8
+    }
+  ],
+  "2021-07-01": [
+    {
+      "General Index": 131.5,
+      "Sectoral Classification-Mining": 104.6,
+      "Sectoral Classification-Manufacturing": 131,
+      "Sectoral Classification-Electricity": 184.7,
+      "Use-Based Classification-Primary Goods": 128.5,
+      "Use-Based Classification-Capital Goods": 92.4,
+      "Use-Based Classification-Intermediate Goods": 143.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 144.4,
+      "Use-Based Classification-Consumer Durables": 118.7,
+      "Use-Based Classification-Consumer Non-Durables": 145.9
+    }
+  ],
+  "2021-08-01": [
+    {
+      "General Index": 132.4,
+      "Sectoral Classification-Mining": 103.6,
+      "Sectoral Classification-Manufacturing": 131.9,
+      "Sectoral Classification-Electricity": 188.7,
+      "Use-Based Classification-Primary Goods": 127.2,
+      "Use-Based Classification-Capital Goods": 91.1,
+      "Use-Based Classification-Intermediate Goods": 144.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 148.3,
+      "Use-Based Classification-Consumer Durables": 121.6,
+      "Use-Based Classification-Consumer Non-Durables": 148.3
+    }
+  ],
+  "2021-09-01": [
+    {
+      "General Index": 129.5,
+      "Sectoral Classification-Mining": 95.1,
+      "Sectoral Classification-Manufacturing": 131.9,
+      "Sectoral Classification-Electricity": 167.9,
+      "Use-Based Classification-Primary Goods": 117.3,
+      "Use-Based Classification-Capital Goods": 93.3,
+      "Use-Based Classification-Intermediate Goods": 142.9,
+      "Use-Based Classification-Infrastructure/Construction Goods": 145,
+      "Use-Based Classification-Consumer Durables": 131,
+      "Use-Based Classification-Consumer Non-Durables": 147.3
+    }
+  ],
+  "2021-10-01": [
+    {
+      "General Index": 135,
+      "Sectoral Classification-Mining": 109.8,
+      "Sectoral Classification-Manufacturing": 136.4,
+      "Sectoral Classification-Electricity": 167.3,
+      "Use-Based Classification-Primary Goods": 128.5,
+      "Use-Based Classification-Capital Goods": 89.8,
+      "Use-Based Classification-Intermediate Goods": 147.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 153.6,
+      "Use-Based Classification-Consumer Durables": 129.5,
+      "Use-Based Classification-Consumer Non-Durables": 149.7
+    }
+  ],
+  "2021-11-01": [
+    {
+      "General Index": 128,
+      "Sectoral Classification-Mining": 111.8,
+      "Sectoral Classification-Manufacturing": 128.9,
+      "Sectoral Classification-Electricity": 147.9,
+      "Use-Based Classification-Primary Goods": 126.5,
+      "Use-Based Classification-Capital Goods": 82.1,
+      "Use-Based Classification-Intermediate Goods": 141.3,
+      "Use-Based Classification-Infrastructure/Construction Goods": 141.5,
+      "Use-Based Classification-Consumer Durables": 106.6,
+      "Use-Based Classification-Consumer Non-Durables": 147.9
+    }
+  ],
+  "2021-12-01": [
+    {
+      "General Index": 138.8,
+      "Sectoral Classification-Mining": 120.4,
+      "Sectoral Classification-Manufacturing": 139.8,
+      "Sectoral Classification-Electricity": 162.5,
+      "Use-Based Classification-Primary Goods": 133.7,
+      "Use-Based Classification-Capital Goods": 92.9,
+      "Use-Based Classification-Intermediate Goods": 151.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 154,
+      "Use-Based Classification-Consumer Durables": 122.5,
+      "Use-Based Classification-Consumer Non-Durables": 161.6
+    }
+  ],
+  "2022-01-01": [
+    {
+      "General Index": 139.3,
+      "Sectoral Classification-Mining": 124.9,
+      "Sectoral Classification-Manufacturing": 139.2,
+      "Sectoral Classification-Electricity": 165.6,
+      "Use-Based Classification-Primary Goods": 136.5,
+      "Use-Based Classification-Capital Goods": 94.9,
+      "Use-Based Classification-Intermediate Goods": 153.5,
+      "Use-Based Classification-Infrastructure/Construction Goods": 158.9,
+      "Use-Based Classification-Consumer Durables": 118.5,
+      "Use-Based Classification-Consumer Non-Durables": 154.4
+    }
+  ],
+  "2022-02-01": [
+    {
+      "General Index": 131.4,
+      "Sectoral Classification-Mining": 123.3,
+      "Sectoral Classification-Manufacturing": 129.9,
+      "Sectoral Classification-Electricity": 160.8,
+      "Use-Based Classification-Primary Goods": 130.8,
+      "Use-Based Classification-Capital Goods": 94.5,
+      "Use-Based Classification-Intermediate Goods": 143.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 152,
+      "Use-Based Classification-Consumer Durables": 112.9,
+      "Use-Based Classification-Consumer Non-Durables": 137.6
+    }
+  ],
+  "2022-03-01": [
+    {
+      "General Index": 148.8,
+      "Sectoral Classification-Mining": 144.4,
+      "Sectoral Classification-Manufacturing": 145.3,
+      "Sectoral Classification-Electricity": 191,
+      "Use-Based Classification-Primary Goods": 153.2,
+      "Use-Based Classification-Capital Goods": 111.8,
+      "Use-Based Classification-Intermediate Goods": 156.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 169.5,
+      "Use-Based Classification-Consumer Durables": 128.9,
+      "Use-Based Classification-Consumer Non-Durables": 150.3
+    }
+  ],
+  "2022-04-01": [
+    {
+      "General Index": 134.5,
+      "Sectoral Classification-Mining": 116.6,
+      "Sectoral Classification-Manufacturing": 131.6,
+      "Sectoral Classification-Electricity": 194.5,
+      "Use-Based Classification-Primary Goods": 139.5,
+      "Use-Based Classification-Capital Goods": 88.5,
+      "Use-Based Classification-Intermediate Goods": 149.5,
+      "Use-Based Classification-Infrastructure/Construction Goods": 149.7,
+      "Use-Based Classification-Consumer Durables": 110.7,
+      "Use-Based Classification-Consumer Non-Durables": 138.9
+    }
+  ],
+  "2022-05-01": [
+    {
+      "General Index": 137.8,
+      "Sectoral Classification-Mining": 120.4,
+      "Sectoral Classification-Manufacturing": 134.6,
+      "Sectoral Classification-Electricity": 199.9,
+      "Use-Based Classification-Primary Goods": 144.7,
+      "Use-Based Classification-Capital Goods": 94.9,
+      "Use-Based Classification-Intermediate Goods": 151.7,
+      "Use-Based Classification-Infrastructure/Construction Goods": 153.3,
+      "Use-Based Classification-Consumer Durables": 113.9,
+      "Use-Based Classification-Consumer Non-Durables": 137.5
+    }
+  ],
+  "2022-06-01": [
+    {
+      "General Index": 138.3,
+      "Sectoral Classification-Mining": 113.7,
+      "Sectoral Classification-Manufacturing": 136.8,
+      "Sectoral Classification-Electricity": 196.9,
+      "Use-Based Classification-Primary Goods": 139.3,
+      "Use-Based Classification-Capital Goods": 104.4,
+      "Use-Based Classification-Intermediate Goods": 146.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 150.8,
+      "Use-Based Classification-Consumer Durables": 125.3,
+      "Use-Based Classification-Consumer Non-Durables": 145.9
+    }
+  ],
+  "2022-07-01": [
+    {
+      "General Index": 134.4,
+      "Sectoral Classification-Mining": 101.1,
+      "Sectoral Classification-Manufacturing": 135,
+      "Sectoral Classification-Electricity": 188.9,
+      "Use-Based Classification-Primary Goods": 131.7,
+      "Use-Based Classification-Capital Goods": 97.1,
+      "Use-Based Classification-Intermediate Goods": 149,
+      "Use-Based Classification-Infrastructure/Construction Goods": 151.3,
+      "Use-Based Classification-Consumer Durables": 121.4,
+      "Use-Based Classification-Consumer Non-Durables": 141.7
+    }
+  ],
+  "2022-08-01": [
+    {
+      "General Index": 131.5,
+      "Sectoral Classification-Mining": 99.6,
+      "Sectoral Classification-Manufacturing": 131.3,
+      "Sectoral Classification-Electricity": 191.3,
+      "Use-Based Classification-Primary Goods": 129.4,
+      "Use-Based Classification-Capital Goods": 95,
+      "Use-Based Classification-Intermediate Goods": 146.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 152.8,
+      "Use-Based Classification-Consumer Durables": 116.2,
+      "Use-Based Classification-Consumer Non-Durables": 134.9
+    }
+  ],
+  "2022-09-01": [
+    {
+      "General Index": 133.8,
+      "Sectoral Classification-Mining": 100,
+      "Sectoral Classification-Manufacturing": 134.6,
+      "Sectoral Classification-Electricity": 187.4,
+      "Use-Based Classification-Primary Goods": 128.5,
+      "Use-Based Classification-Capital Goods": 103.9,
+      "Use-Based Classification-Intermediate Goods": 145.3,
+      "Use-Based Classification-Infrastructure/Construction Goods": 156.9,
+      "Use-Based Classification-Consumer Durables": 123.8,
+      "Use-Based Classification-Consumer Non-Durables": 138.9
+    }
+  ],
+  "2022-10-01": [
+    {
+      "General Index": 129.5,
+      "Sectoral Classification-Mining": 112.6,
+      "Sectoral Classification-Manufacturing": 128.5,
+      "Sectoral Classification-Electricity": 169.3,
+      "Use-Based Classification-Primary Goods": 131.2,
+      "Use-Based Classification-Capital Goods": 87.2,
+      "Use-Based Classification-Intermediate Goods": 143.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 156.2,
+      "Use-Based Classification-Consumer Durables": 106.1,
+      "Use-Based Classification-Consumer Non-Durables": 130.3
+    }
+  ],
+  "2022-11-01": [
+    {
+      "General Index": 137.7,
+      "Sectoral Classification-Mining": 122.7,
+      "Sectoral Classification-Manufacturing": 137.5,
+      "Sectoral Classification-Electricity": 166.7,
+      "Use-Based Classification-Primary Goods": 132.6,
+      "Use-Based Classification-Capital Goods": 99.1,
+      "Use-Based Classification-Intermediate Goods": 146.3,
+      "Use-Based Classification-Infrastructure/Construction Goods": 161.7,
+      "Use-Based Classification-Consumer Durables": 111.9,
+      "Use-Based Classification-Consumer Non-Durables": 162.7
+    }
+  ],
+  "2022-12-01": [
+    {
+      "General Index": 145.9,
+      "Sectoral Classification-Mining": 132.6,
+      "Sectoral Classification-Manufacturing": 144.9,
+      "Sectoral Classification-Electricity": 179.4,
+      "Use-Based Classification-Primary Goods": 145,
+      "Use-Based Classification-Capital Goods": 100.1,
+      "Use-Based Classification-Intermediate Goods": 154.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 170.9,
+      "Use-Based Classification-Consumer Durables": 108.8,
+      "Use-Based Classification-Consumer Non-Durables": 174.4
+    }
+  ],
+  "2023-01-01": [
+    {
+      "General Index": 147.4,
+      "Sectoral Classification-Mining": 136.1,
+      "Sectoral Classification-Manufacturing": 145.5,
+      "Sectoral Classification-Electricity": 186.6,
+      "Use-Based Classification-Primary Goods": 149.9,
+      "Use-Based Classification-Capital Goods": 104.9,
+      "Use-Based Classification-Intermediate Goods": 155.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 176.9,
+      "Use-Based Classification-Consumer Durables": 108.8,
+      "Use-Based Classification-Consumer Non-Durables": 164.4
+    }
+  ],
+  "2023-02-01": [
+    {
+      "General Index": 139.3,
+      "Sectoral Classification-Mining": 129.2,
+      "Sectoral Classification-Manufacturing": 137.6,
+      "Sectoral Classification-Electricity": 174,
+      "Use-Based Classification-Primary Goods": 139.9,
+      "Use-Based Classification-Capital Goods": 104.9,
+      "Use-Based Classification-Intermediate Goods": 145.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 165.7,
+      "Use-Based Classification-Consumer Durables": 108.3,
+      "Use-Based Classification-Consumer Non-Durables": 154.8
+    }
+  ],
+  "2023-03-01": [
+    {
+      "General Index": 151.7,
+      "Sectoral Classification-Mining": 154.2,
+      "Sectoral Classification-Manufacturing": 147.5,
+      "Sectoral Classification-Electricity": 188,
+      "Use-Based Classification-Primary Goods": 158.3,
+      "Use-Based Classification-Capital Goods": 123,
+      "Use-Based Classification-Intermediate Goods": 159.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 181.7,
+      "Use-Based Classification-Consumer Durables": 118.6,
+      "Use-Based Classification-Consumer Non-Durables": 147.5
+    }
+  ],
+  "2023-04-01": [
+    {
+      "General Index": 140.7,
+      "Sectoral Classification-Mining": 122.6,
+      "Sectoral Classification-Manufacturing": 138.8,
+      "Sectoral Classification-Electricity": 192.3,
+      "Use-Based Classification-Primary Goods": 142.2,
+      "Use-Based Classification-Capital Goods": 92.4,
+      "Use-Based Classification-Intermediate Goods": 152,
+      "Use-Based Classification-Infrastructure/Construction Goods": 169.8,
+      "Use-Based Classification-Consumer Durables": 108.1,
+      "Use-Based Classification-Consumer Non-Durables": 154.7
+    }
+  ],
+  "2023-05-01": [
+    {
+      "General Index": 145.6,
+      "Sectoral Classification-Mining": 128.1,
+      "Sectoral Classification-Manufacturing": 143.1,
+      "Sectoral Classification-Electricity": 201.6,
+      "Use-Based Classification-Primary Goods": 149.9,
+      "Use-Based Classification-Capital Goods": 102.6,
+      "Use-Based Classification-Intermediate Goods": 156.9,
+      "Use-Based Classification-Infrastructure/Construction Goods": 173.2,
+      "Use-Based Classification-Consumer Durables": 115.6,
+      "Use-Based Classification-Consumer Non-Durables": 149.8
+    }
+  ],
+  "2023-06-01": [
+    {
+      "General Index": 143.9,
+      "Sectoral Classification-Mining": 122.3,
+      "Sectoral Classification-Manufacturing": 141.6,
+      "Sectoral Classification-Electricity": 205.2,
+      "Use-Based Classification-Primary Goods": 146.7,
+      "Use-Based Classification-Capital Goods": 107.4,
+      "Use-Based Classification-Intermediate Goods": 154.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 170.9,
+      "Use-Based Classification-Consumer Durables": 116.8,
+      "Use-Based Classification-Consumer Non-Durables": 146.7
+    }
+  ],
+  "2023-07-01": [
+    {
+      "General Index": 142.7,
+      "Sectoral Classification-Mining": 111.9,
+      "Sectoral Classification-Manufacturing": 142.1,
+      "Sectoral Classification-Electricity": 204,
+      "Use-Based Classification-Primary Goods": 141.8,
+      "Use-Based Classification-Capital Goods": 102.1,
+      "Use-Based Classification-Intermediate Goods": 153.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 170.3,
+      "Use-Based Classification-Consumer Durables": 117,
+      "Use-Based Classification-Consumer Non-Durables": 153.5
+    }
+  ],
+  "2023-08-01": [
+    {
+      "General Index": 145.8,
+      "Sectoral Classification-Mining": 111.9,
+      "Sectoral Classification-Manufacturing": 144.4,
+      "Sectoral Classification-Electricity": 220.5,
+      "Use-Based Classification-Primary Goods": 145.4,
+      "Use-Based Classification-Capital Goods": 107.4,
+      "Use-Based Classification-Intermediate Goods": 157.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 176.8,
+      "Use-Based Classification-Consumer Durables": 123.2,
+      "Use-Based Classification-Consumer Non-Durables": 148.3
+    }
+  ],
+  "2023-09-01": [
+    {
+      "General Index": 142.3,
+      "Sectoral Classification-Mining": 111.5,
+      "Sectoral Classification-Manufacturing": 141.5,
+      "Sectoral Classification-Electricity": 205.9,
+      "Use-Based Classification-Primary Goods": 138.8,
+      "Use-Based Classification-Capital Goods": 112.6,
+      "Use-Based Classification-Intermediate Goods": 154.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 172.8,
+      "Use-Based Classification-Consumer Durables": 125,
+      "Use-Based Classification-Consumer Non-Durables": 142.6
+    }
+  ],
+  "2023-10-01": [
+    {
+      "General Index": 144.9,
+      "Sectoral Classification-Mining": 127.4,
+      "Sectoral Classification-Manufacturing": 142.1,
+      "Sectoral Classification-Electricity": 203.8,
+      "Use-Based Classification-Primary Goods": 146.1,
+      "Use-Based Classification-Capital Goods": 106.1,
+      "Use-Based Classification-Intermediate Goods": 157.5,
+      "Use-Based Classification-Infrastructure/Construction Goods": 175.9,
+      "Use-Based Classification-Consumer Durables": 123,
+      "Use-Based Classification-Consumer Non-Durables": 142.4
+    }
+  ],
+  "2023-11-01": [
+    {
+      "General Index": 141.1,
+      "Sectoral Classification-Mining": 131.3,
+      "Sectoral Classification-Manufacturing": 139.3,
+      "Sectoral Classification-Electricity": 176.3,
+      "Use-Based Classification-Primary Goods": 143.8,
+      "Use-Based Classification-Capital Goods": 98,
+      "Use-Based Classification-Intermediate Goods": 151.3,
+      "Use-Based Classification-Infrastructure/Construction Goods": 164.2,
+      "Use-Based Classification-Consumer Durables": 106.5,
+      "Use-Based Classification-Consumer Non-Durables": 157.2
+    }
+  ],
+  "2023-12-01": [
+    {
+      "General Index": 152.3,
+      "Sectoral Classification-Mining": 139.5,
+      "Sectoral Classification-Manufacturing": 151.6,
+      "Sectoral Classification-Electricity": 181.6,
+      "Use-Based Classification-Primary Goods": 151.9,
+      "Use-Based Classification-Capital Goods": 103.8,
+      "Use-Based Classification-Intermediate Goods": 159.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 180.3,
+      "Use-Based Classification-Consumer Durables": 114.5,
+      "Use-Based Classification-Consumer Non-Durables": 179.7
+    }
+  ],
+  "2024-01-01": [
+    {
+      "General Index": 153.6,
+      "Sectoral Classification-Mining": 144.3,
+      "Sectoral Classification-Manufacturing": 150.8,
+      "Sectoral Classification-Electricity": 197.1,
+      "Use-Based Classification-Primary Goods": 154.3,
+      "Use-Based Classification-Capital Goods": 108.3,
+      "Use-Based Classification-Intermediate Goods": 163.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 186.6,
+      "Use-Based Classification-Consumer Durables": 121.4,
+      "Use-Based Classification-Consumer Non-Durables": 164.9
+    }
+  ],
+  "2024-02-01": [
+    {
+      "General Index": 147.1,
+      "Sectoral Classification-Mining": 139.7,
+      "Sectoral Classification-Manufacturing": 144.4,
+      "Sectoral Classification-Electricity": 187.2,
+      "Use-Based Classification-Primary Goods": 148.2,
+      "Use-Based Classification-Capital Goods": 106.7,
+      "Use-Based Classification-Intermediate Goods": 157.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 179.5,
+      "Use-Based Classification-Consumer Durables": 121.9,
+      "Use-Based Classification-Consumer Non-Durables": 149.9
+    }
+  ],
+  "2024-03-01": [
+    {
+      "General Index": 160,
+      "Sectoral Classification-Mining": 156.2,
+      "Sectoral Classification-Manufacturing": 156.2,
+      "Sectoral Classification-Electricity": 204.2,
+      "Use-Based Classification-Primary Goods": 163.1,
+      "Use-Based Classification-Capital Goods": 131.6,
+      "Use-Based Classification-Intermediate Goods": 169.2,
+      "Use-Based Classification-Infrastructure/Construction Goods": 195.2,
+      "Use-Based Classification-Consumer Durables": 129.9,
+      "Use-Based Classification-Consumer Non-Durables": 155.2
+    }
+  ],
+  "2024-04-01": [
+    {
+      "General Index": 148,
+      "Sectoral Classification-Mining": 130.9,
+      "Sectoral Classification-Manufacturing": 144.6,
+      "Sectoral Classification-Electricity": 212,
+      "Use-Based Classification-Primary Goods": 152.2,
+      "Use-Based Classification-Capital Goods": 95,
+      "Use-Based Classification-Intermediate Goods": 157.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 184.2,
+      "Use-Based Classification-Consumer Durables": 119.5,
+      "Use-Based Classification-Consumer Non-Durables": 150.9
+    }
+  ],
+  "2024-05-01": [
+    {
+      "General Index": 154.7,
+      "Sectoral Classification-Mining": 136.5,
+      "Sectoral Classification-Manufacturing": 150.4,
+      "Sectoral Classification-Electricity": 229.3,
+      "Use-Based Classification-Primary Goods": 160.9,
+      "Use-Based Classification-Capital Goods": 105.3,
+      "Use-Based Classification-Intermediate Goods": 162.4,
+      "Use-Based Classification-Infrastructure/Construction Goods": 186.3,
+      "Use-Based Classification-Consumer Durables": 130.2,
+      "Use-Based Classification-Consumer Non-Durables": 154
+    }
+  ],
+  "2024-06-01": [
+    {
+      "General Index": 151,
+      "Sectoral Classification-Mining": 134.9,
+      "Sectoral Classification-Manufacturing": 146.6,
+      "Sectoral Classification-Electricity": 222.8,
+      "Use-Based Classification-Primary Goods": 156,
+      "Use-Based Classification-Capital Goods": 111.3,
+      "Use-Based Classification-Intermediate Goods": 159.1,
+      "Use-Based Classification-Infrastructure/Construction Goods": 184.9,
+      "Use-Based Classification-Consumer Durables": 127.1,
+      "Use-Based Classification-Consumer Non-Durables": 145.2
+    }
+  ],
+  "2024-07-01": [
+    {
+      "General Index": 149.8,
+      "Sectoral Classification-Mining": 116.1,
+      "Sectoral Classification-Manufacturing": 148.8,
+      "Sectoral Classification-Electricity": 220.2,
+      "Use-Based Classification-Primary Goods": 150.1,
+      "Use-Based Classification-Capital Goods": 114,
+      "Use-Based Classification-Intermediate Goods": 164.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 179.7,
+      "Use-Based Classification-Consumer Durables": 126.6,
+      "Use-Based Classification-Consumer Non-Durables": 147.1
+    }
+  ],
+  "2024-08-01": [
+    {
+      "General Index": 145.8,
+      "Sectoral Classification-Mining": 107.1,
+      "Sectoral Classification-Manufacturing": 146.1,
+      "Sectoral Classification-Electricity": 212.3,
+      "Use-Based Classification-Primary Goods": 141.6,
+      "Use-Based Classification-Capital Goods": 107.4,
+      "Use-Based Classification-Intermediate Goods": 162.3,
+      "Use-Based Classification-Infrastructure/Construction Goods": 181.5,
+      "Use-Based Classification-Consumer Durables": 129.8,
+      "Use-Based Classification-Consumer Non-Durables": 141.8
+    }
+  ],
+  "2024-09-01": [
+    {
+      "General Index": 146.9,
+      "Sectoral Classification-Mining": 111.7,
+      "Sectoral Classification-Manufacturing": 147.2,
+      "Sectoral Classification-Electricity": 206.9,
+      "Use-Based Classification-Primary Goods": 141.3,
+      "Use-Based Classification-Capital Goods": 116.5,
+      "Use-Based Classification-Intermediate Goods": 160.8,
+      "Use-Based Classification-Infrastructure/Construction Goods": 178.8,
+      "Use-Based Classification-Consumer Durables": 132.9,
+      "Use-Based Classification-Consumer Non-Durables": 145.7
+    }
+  ],
+  "2024-10-01": [
+    {
+      "General Index": 150.3,
+      "Sectoral Classification-Mining": 128.5,
+      "Sectoral Classification-Manufacturing": 148.4,
+      "Sectoral Classification-Electricity": 207.8,
+      "Use-Based Classification-Primary Goods": 149.8,
+      "Use-Based Classification-Capital Goods": 109.2,
+      "Use-Based Classification-Intermediate Goods": 165,
+      "Use-Based Classification-Infrastructure/Construction Goods": 184.2,
+      "Use-Based Classification-Consumer Durables": 129.8,
+      "Use-Based Classification-Consumer Non-Durables": 146.4
+    }
+  ],
+  "2024-11-01": [
+    {
+      "General Index": 148.1,
+      "Sectoral Classification-Mining": 133.8,
+      "Sectoral Classification-Manufacturing": 147,
+      "Sectoral Classification-Electricity": 184.1,
+      "Use-Based Classification-Primary Goods": 147.7,
+      "Use-Based Classification-Capital Goods": 106.6,
+      "Use-Based Classification-Intermediate Goods": 158.6,
+      "Use-Based Classification-Infrastructure/Construction Goods": 177.5,
+      "Use-Based Classification-Consumer Durables": 121.5,
+      "Use-Based Classification-Consumer Non-Durables": 157.9
+    }
+  ],
+  "2024-12-01": [
+    {
+      "General Index": 157.7,
+      "Sectoral Classification-Mining": 143.2,
+      "Sectoral Classification-Manufacturing": 156.8,
+      "Sectoral Classification-Electricity": 192.8,
+      "Use-Based Classification-Primary Goods": 157.7,
+      "Use-Based Classification-Capital Goods": 114.6,
+      "Use-Based Classification-Intermediate Goods": 170,
+      "Use-Based Classification-Infrastructure/Construction Goods": 193.6,
+      "Use-Based Classification-Consumer Durables": 124,
+      "Use-Based Classification-Consumer Non-Durables": 166.3
+    }
+  ],
+  "2025-01-01": [
+    {
+      "General Index": 161.3,
+      "Sectoral Classification-Mining": 150.7,
+      "Sectoral Classification-Manufacturing": 159.1,
+      "Sectoral Classification-Electricity": 201.9,
+      "Use-Based Classification-Primary Goods": 162.8,
+      "Use-Based Classification-Capital Goods": 116.8,
+      "Use-Based Classification-Intermediate Goods": 172.3,
+      "Use-Based Classification-Infrastructure/Construction Goods": 199.6,
+      "Use-Based Classification-Consumer Durables": 130.2,
+      "Use-Based Classification-Consumer Non-Durables": 164.5
+    }
+  ]
+}
