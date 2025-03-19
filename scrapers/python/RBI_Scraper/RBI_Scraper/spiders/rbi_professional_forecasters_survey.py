@@ -20,14 +20,14 @@ class RbiProfessionalForecastersSurveySpider(CrawlSpider):
                   callback="parse_professional_forecasters_survey", follow=True),)
 
     def parse_professional_forecasters_survey(self, response):
-        page_table_has_other_tables = response.xpath('//*[@id="elementIdCopy"]/table')
-        table_1 = page_table_has_other_tables.xpath(".//table[1]")
+        page_table_this_has_other_tables = response.xpath('//*[@id="elementIdCopy"]/table')
+        table_1 = page_table_this_has_other_tables.xpath(".//table[1]")
 
-        table_2 = page_table_has_other_tables.xpath(".//table[tbody[1]/tr[1]/td[contains(string(), 'Annual Forecasts')]]")
+        table_2 = page_table_this_has_other_tables.xpath(".//table[tbody[1]/tr[1]/td[contains(string(), 'Annual Forecasts')]]")
 
-        table_3 = page_table_has_other_tables.xpath(".//table[tbody[1]/tr[1]/td[contains(string(), 'Quarterly Forecasts')]]")
+        table_3 = page_table_this_has_other_tables.xpath(".//table[tbody[1]/tr[1]/td[contains(string(), 'Quarterly Forecasts')]]")
 
-        table_4 = page_table_has_other_tables.xpath(".//table[tbody[1]/tr[1]/td[contains(string(), 'Forecasts of CPI')]]")
+        table_4 = page_table_this_has_other_tables.xpath(".//table[tbody[1]/tr[1]/td[contains(string(), 'Forecasts of CPI')]]")
 
         categories_table_1 = ["Real GDP", "Agriculture and Allied Activities", "Industry", "Services"]
 
