@@ -10,6 +10,7 @@ from rich import print
 import pandas as pd
 import scrapy
 from scrapy.exceptions import CloseSpider
+from RBI_Scraper.helper_func import safe_float
 
 
 class RbiFortnightMoneySupplySpider(scrapy.Spider):
@@ -27,13 +28,13 @@ class RbiFortnightMoneySupplySpider(scrapy.Spider):
         extracted_date = datetime.strptime(raw_date, "%d %b %Y").date()
         print(extracted_date)
 
-        # if os.path.exists(self.CSV_FILE):
-        #     df = pd.read_csv(self.CSV_FILE)
-        #     last_saved_date = datetime.strptime(df.iloc[0, 0], "%Y-%m-%d").date()  # Read and convert to date
-        #
-        #     if extracted_date == last_saved_date:
-        #         self.log(extracted_date)
-        #         raise CloseSpider("The new Consumer Survey is yet to be uploaded by the RBI.")
+        if os.path.exists(self.CSV_FILE):
+            df = pd.read_csv(self.CSV_FILE)
+            last_saved_date = datetime.strptime(df.iloc[0, 0], "%Y-%m-%d").date()  # Read and convert to date
+
+            if extracted_date == last_saved_date:
+                self.log(extracted_date)
+                raise CloseSpider("The new Consumer Survey is yet to be uploaded by the RBI.")
 
         # If new date, update CSV and proceed with scraping
         df = pd.DataFrame([[extracted_date]], columns=["date"])
@@ -96,7 +97,8 @@ class RbiFortnightMoneySupplySpider(scrapy.Spider):
             ):
                 condition_met = True  # Mark condition as met
                 date_selector = tds[1]
-                extracted_date = self.convert_money_supp_date(date_selector.xpath('string()').get().strip())
+                extracted_date = self.convert_date_numeric_is_day(date_selector.xpath('string()').get().strip(),
+                                                                  year_of_data = self.year_of_data)
                 break
 
         # Extracting data
@@ -119,9 +121,9 @@ class RbiFortnightMoneySupplySpider(scrapy.Spider):
 
             # handling edge cases
 
-            # if re.search(r'^Salary', element, re.IGNORECASE):
-            #     table_name = "Salary/Wages (D-I)"
-            #
+            if re.search(r'Deposits with Reserve Bank', element, re.IGNORECASE):
+                table_name = "'Other' Deposits with Reserve Bank"
+
             # if table_name is None:
             #     table_name = "Part-time/Contractual/Outsourced Employees"
 
@@ -131,7 +133,9 @@ class RbiFortnightMoneySupplySpider(scrapy.Spider):
 
                 # Check if row has more than 6 <td> elements
                 if td_count > 12:
-                    results[table_name] = float(data[1])
+                    results[table_name] = safe_float(data[2])
+
+        results["M1"] = results["Currency with the public"] + results["Demand Deposits with Banks"] + results["'Other' Deposits with Reserve Bank"]
 
         for category in categories_not_in_fortnight_money_supply:
             if category in results:
@@ -148,18 +152,18 @@ class RbiFortnightMoneySupplySpider(scrapy.Spider):
         json_line = json.dumps(json_data)
         print(json_line)
 
-        with open(self.jsonl_file_path, "a", encoding="utf-8") as file:
-            file.write(json_line + "\n")
+        # with open(self.jsonl_file_path, "a", encoding="utf-8") as file:
+        #     file.write(json_line + "\n")
+        #
+        # print(f"Data appended to {self.jsonl_file_path}")
 
-        print(f"Data appended to {self.jsonl_file_path}")
-
-    def convert_money_supp_date(self, month_day_of_data):
+    def convert_date_numeric_is_day(self, month_day_of_data,year_of_data):
         try:
             # Remove any periods from the abbreviated month, e.g. "Dec. 27" -> "Dec 27"
             month_day_clean = month_day_of_data.replace('.', '')
 
             # Combine into a date string like "2025 Dec 27"
-            date_str = f"{self.year_of_data} {month_day_clean}"
+            date_str = f"{year_of_data} {month_day_clean}"
 
             # Parse the string into a datetime object. The format %Y for the year, %b for the abbreviated month, and %d for the day.
             constructed_date = datetime.strptime(date_str, "%Y %b %d")
