@@ -13,46 +13,46 @@ from itertools import islice
 from RBI_Scraper.helper_func import safe_float
 
 
-class RbiNeerReerSpider(scrapy.Spider):
-    name = "rbi_neer_reer"
+class RbiWpiSpider(scrapy.Spider):
+    name = "rbi_wpi"
     allowed_domains = ["website.rbi.org.in"]
     start_urls = ["https://website.rbi.org.in/web/rbi/publications/rbi-bulletin"]
-    CSV_FILE = "rbi_neer_reer_last_date.csv"
+    CSV_FILE = "rbi_wpi_last_date.csv"
     # Define file path
-    json_file_path = r"D:\Desktop\financial_data_pipeline\data\raw\RBI_data\Real_Effective_Exchange_Rate.json"
+    json_file_path = r"D:\Desktop\financial_data_pipeline\data\raw\RBI_data\WPI(2011-12=100).json"
     condition_met_trade_weighted = False
     counter = 0
 
     def parse(self, response):
         raw_date = response.xpath(
-            '(//span[@class="mtm_list_item_heading truncatedContent font-resized"])[1]/text()').get().strip()
+            '(//span[@class="mtm_list_item_heading truncatedContent font-resized"])[2]/text()').get().strip()
         date_part = raw_date.split(" - ")[-1]
         extracted_date = datetime.strptime(date_part, "%b %d, %Y").date()
 
-        if os.path.exists(self.CSV_FILE):
-            df = pd.read_csv(self.CSV_FILE)
-            last_saved_date = datetime.strptime(df.iloc[0, 0], "%Y-%m-%d").date()  # Read and convert to date
-
-            if extracted_date == last_saved_date:
-                self.log(extracted_date)
-                raise CloseSpider("The new Consumer Survey is yet to be uploaded by the RBI.")
+        # if os.path.exists(self.CSV_FILE):
+        #     df = pd.read_csv(self.CSV_FILE)
+        #     last_saved_date = datetime.strptime(df.iloc[0, 0], "%Y-%m-%d").date()  # Read and convert to date
+        #
+        #     if extracted_date == last_saved_date:
+        #         self.log(extracted_date)
+        #         raise CloseSpider("The new Consumer Survey is yet to be uploaded by the RBI.")
 
         # If new date, update CSV and proceed with scraping
         df = pd.DataFrame([[extracted_date]], columns=["date"])
         df.to_csv(self.CSV_FILE, index=False)
 
-        latest_url = response.xpath('(//a[@class="mtm_list_item_heading"])[1]/@href').get()
+        latest_url = response.xpath('(//a[@class="mtm_list_item_heading"])[2]/@href').get()
         absolute_url = f'https://website.rbi.org.in{latest_url}'
         self.log(absolute_url)
         yield scrapy.Request(url=absolute_url, callback=self.parse_bulletin, cb_kwargs=dict(date=extracted_date))
 
     def parse_bulletin(self, response, date):
 
-        relative_url = re.findall(r'href="([^"]+effective-exchange-rate[^"]*)"', response.text)[0]
+        relative_url = re.findall(r'href="([^"]+wholesale-price-index[^"]*)"', response.text)[0]
         absolute_url = f'https://website.rbi.org.in{relative_url}'
-        yield scrapy.Request(url=absolute_url, callback=self.parse_neer_reer, cb_kwargs=dict(date=date))
+        yield scrapy.Request(url=absolute_url, callback=self.parse_wpi, cb_kwargs=dict(date=date))
 
-    def parse_neer_reer(self, response, date):
+    def parse_wpi(self, response, date):
         year_extracted = date.year
         month_extracted = date.month
 
@@ -61,29 +61,32 @@ class RbiNeerReerSpider(scrapy.Spider):
 
         print("year_of_data:", self.year_of_data)
 
-        outer_table = response.xpath('//div[@class="tablebg"]/table')
-        table = outer_table.xpath(".//table")
+        # outer_table = response.xpath('//div[@class="tablebg"]/table')
+        table = response.xpath('//div[@class="tablebg"]/table[1]')
 
-        categories_neer_reer = [
-            "Trade-weighted-NEER",
-            "Trade-weighted-REER",
-            "Export-weighted-NEER",
-            "Export-weighted-REER"
+        categories_wpi = [
+            "Wholesale Price Index (2011-12=100)",
+            "Primary Articles",
+            "Fuel and Power",
+            "Manufactured Products",
+            "Primary Food",
+            "Primary Non-food"
         ]
 
         # Create a mapping: cleaned_category -> original_category
-        category_mapping = {}
-        for category in categories_neer_reer:
-            # Remove left-side numbering with a regex:
-            cleaned = category.split("-")[2]
-            # cleaned = re.sub(r'^[A-Z0-9.]+\)\s*', '', category)
-
-            category_mapping[category] = cleaned
+        category_mapping = {
+            "Wholesale Price Index (2011-12=100)": "ALL COMMODITIES",
+            "Primary Articles": "PRIMARY ARTICLES",
+            "Fuel and Power": "FUEL & POWER",
+            "Manufactured Products": "MANUFACTURED PRODUCTS",
+            "Primary Non-food": "NON-FOOD ARTICLES",
+            "Primary Food": "FOOD ARTICLES"
+        }
 
         print(category_mapping)
         results = {}
 
-        categories = categories_neer_reer
+        categories = categories_wpi
 
         # finding date for data
         rows = table.xpath('.//tbody/tr[td]')
@@ -119,48 +122,48 @@ class RbiNeerReerSpider(scrapy.Spider):
         for i, row in enumerate(rows):
 
             # results = {
-            #     categories_neer_reer[1]:,
-            # categories_neer_reer[2]:,
+            #     categories_wpi[1]:,
+            # categories_wpi[2]:,
             #
-            # categories_neer_reer[3]:
-            # categories_neer_reer[4]:
+            # categories_wpi[3]:
+            # categories_wpi[4]:
             # }
+            if not category_mapping:
+                print("All mappings matched, breaking loop.")
+                break
+
 
             data = [text.strip() for text in row.xpath('./td//text()').getall() if text.strip()]
-
             # Initialize table_name
             table_name = None
-            sliced_dict = dict(islice(reversed(category_mapping.items()), 2))
 
             element = data[0]
             print(element)
 
-            if self.counter < 4:
-                if self.condition_met_trade_weighted:
-                    # Check for partial matches using regex (case-insensitive)
-                    for original_category, cleaned_category in sliced_dict.items():
-                        if re.search(rf'{re.escape(cleaned_category)}', element, re.IGNORECASE):
-                            table_name = original_category
-                            print(f"Match found: {table_name}")
-                            self.counter += 1
-                            break
+            # # Check for partial matches using regex (case-insensitive)
+            # for original_category, cleaned_category in category_mapping.items():
+            #     pattern = rf'\b{re.escape(cleaned_category)}\b'
+            #     if re.search(pattern, element):
+            #         table_name = original_category
+            #         print(f"Match found: {table_name}")
+            #         break
 
-                else:
-                    # Check for partial matches using regex (case-insensitive)
-                    for original_category, cleaned_category in category_mapping.items():
-                        if re.search(rf'{re.escape(cleaned_category)}', element, re.IGNORECASE):
-                            table_name = original_category
-                            print(f"Match found: {table_name}")
-                            self.counter += 1
-                            if self.counter > 1:
-                                self.condition_met_trade_weighted = True
-                            break
+            # Iterate over a copy of the mapping items so we can remove items safely
+            for original_category, cleaned_category in list(category_mapping.items()):
+                pattern = rf'\b{re.escape(cleaned_category)}\b'
+                if re.search(pattern, element, re.IGNORECASE):
+                    table_name = original_category
+                    print(f"Matched: {original_category}")
+                    # Remove this entry so it's not matched again
+                    del category_mapping[original_category]
+            # print("Remaining mapping:", category_mapping)
+
 
             # handling edge cases
 
             # if re.search(r'Infrastructure', element, re.IGNORECASE):
             #     table_name = "Use-Based Classification-Infrastructure/Construction Goods"
-
+            #
             # if re.search(r'Prepared meals, snacks', element, re.IGNORECASE):
             #     table_name = "A.1.12) Prepared meals, snacks, sweets etc."
 
@@ -171,8 +174,9 @@ class RbiNeerReerSpider(scrapy.Spider):
                 td_count = len(data)
 
                 # Check if row has more than 6 <td> elements
-                if td_count > 5:
+                if td_count > 6:
                     results[table_name] = safe_float(data[-1])
+
 
         scraped_data = {
             extracted_date_final: results,
