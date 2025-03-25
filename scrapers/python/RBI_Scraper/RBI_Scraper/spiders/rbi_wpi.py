@@ -1,5 +1,6 @@
 # AUTOTHROTTLE_ENABLED = True by default see if you want to change it
 # Add more user agents in middleware if you want
+import calendar
 import json
 import os
 import re
@@ -29,13 +30,13 @@ class RbiWpiSpider(scrapy.Spider):
         date_part = raw_date.split(" - ")[-1]
         extracted_date = datetime.strptime(date_part, "%b %d, %Y").date()
 
-        # if os.path.exists(self.CSV_FILE):
-        #     df = pd.read_csv(self.CSV_FILE)
-        #     last_saved_date = datetime.strptime(df.iloc[0, 0], "%Y-%m-%d").date()  # Read and convert to date
-        #
-        #     if extracted_date == last_saved_date:
-        #         self.log(extracted_date)
-        #         raise CloseSpider("The new Consumer Survey is yet to be uploaded by the RBI.")
+        if os.path.exists(self.CSV_FILE):
+            df = pd.read_csv(self.CSV_FILE)
+            last_saved_date = datetime.strptime(df.iloc[0, 0], "%Y-%m-%d").date()  # Read and convert to date
+
+            if extracted_date == last_saved_date:
+                self.log(extracted_date)
+                raise CloseSpider("The new Consumer Survey is yet to be uploaded by the RBI.")
 
         # If new date, update CSV and proceed with scraping
         df = pd.DataFrame([[extracted_date]], columns=["date"])
@@ -187,30 +188,30 @@ class RbiWpiSpider(scrapy.Spider):
         ##### for JSON file path
 
 
-        # # Load the existing JSON data from file (if exists)
-        # if os.path.exists(self.json_file_path):
-        #     with open(self.json_file_path, "r") as f:
-        #         try:
-        #             existing_data = json.load(f)
-        #         except json.JSONDecodeError:
-        #             existing_data = {}
-        # else:
-        #     existing_data = {}
-        #
-        #
-        #     # Process each date in the scraped data
-        # for date, data_types in scraped_data.items():
-        #     # If the date doesn't exist in the JSON file, add it entirely.
-        #     if date not in existing_data:
-        #         existing_data[date] = data_types
-        #     else:
-        #         self.log("data already exists")
-        #
-        # # Write back to the JSON file
-        # with open(self.json_file_path, "w") as f:
-        #     json.dump(existing_data, f, indent=4)
-        #
-        # print(f"Data appended successfully to {self.json_file_path}")
+        # Load the existing JSON data from file (if exists)
+        if os.path.exists(self.json_file_path):
+            with open(self.json_file_path, "r") as f:
+                try:
+                    existing_data = json.load(f)
+                except json.JSONDecodeError:
+                    existing_data = {}
+        else:
+            existing_data = {}
+
+
+            # Process each date in the scraped data
+        for date, data_types in scraped_data.items():
+            # If the date doesn't exist in the JSON file, add it entirely.
+            if date not in existing_data:
+                existing_data[date] = data_types
+            else:
+                self.log("data already exists")
+
+        # Write back to the JSON file
+        with open(self.json_file_path, "w") as f:
+            json.dump(existing_data, f, indent=4)
+
+        print(f"Data appended successfully to {self.json_file_path}")
 
         ##### for JSONl file path
 
@@ -237,6 +238,12 @@ class RbiWpiSpider(scrapy.Spider):
 
             # Parse the string into a datetime object. The format %Y for the year, %b for the abbreviated month, and %d for the day.
             constructed_date = datetime.strptime(date_str, "%b %Y")
+            # Get the last day of the month
+            last_day = calendar.monthrange(constructed_date.year, constructed_date.month)[1]
+
+            # Create the new date with the last day of the month
+            constructed_date = constructed_date.replace(day=last_day)
+
             formatted_date = constructed_date.date().strftime("%Y-%m-%d")  # Format for JSON
             return formatted_date
 
