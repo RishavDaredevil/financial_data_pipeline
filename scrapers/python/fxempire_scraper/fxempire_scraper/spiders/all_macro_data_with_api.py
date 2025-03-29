@@ -64,6 +64,7 @@ class AllMacroDataWithApiSpider(scrapy.Spider):
 
             records.append({
                 "date": formatted_date_iso,
+                "python_date" : date_obj,
                 "value": close_value
             })
 
@@ -73,10 +74,10 @@ class AllMacroDataWithApiSpider(scrapy.Spider):
             return
 
         # Find the latest date in the scraped data
-        latest_date_obj = max(record["date"] for record in records)
+        latest_date_obj = max(record["python_date"] for record in records)
 
         # Format the date as a string (choose a format consistent with your CSV; here we use ISO format)
-        latest_date_str = latest_date_obj
+        latest_date_str = latest_date_obj.strftime("%Y-%m-%d")
 
         # Read the CSV file that holds the last_date values
         try:
@@ -114,62 +115,60 @@ class AllMacroDataWithApiSpider(scrapy.Spider):
         # Write the updated DataFrame back to the CSV file
         df.to_csv(self.CSV_FILE, index=False)
 
+        # Create a new dictionary of records containing only entries with dates greater than the stored date.
+        filtered_records = {}
+        for record in records:
+            # If no stored_date exists, then include all records.
+            if stored_date_obj is None or record["python_date"] > stored_date_obj:
+                # Use a consistent string format for the dictionary key.
+                filtered_records.append({
+                "date": record["date"],
+                "value": record["value"]
+            })
+
         # # Build the result dictionary with the expected schema
-        # # Format: { name: [ { "date": datetime_object, "value": close_value }, ... ] }
+        # # Format: { name: [ { "python_date": datetime_object, "value": close_value }, ... ] }
         # result = {name: records}
 
         if response.meta.get('latest_available') == 1:
             creating_path  = f'{self.json_file_path_for_Has_latest_data_available}/{name}.json'
 
-            # # Load the existing JSON data from file (if exists)
-            # if os.path.exists(creating_path):
-            #     with open(creating_path, "r") as f:
-            #         try:
-            #             existing_data = json.load(f)
-            #         except json.JSONDecodeError:
-            #             existing_data = {}
-            # else:
-            #     existing_data = {}
-            #
-            #
-            #     # Process each date in the scraped data
-            # for date, data_types in records.items():
-            #     # If the date doesn't exist in the JSON file, add it entirely.
-            #     if date not in existing_data:
-            #         existing_data[date] = data_types
-            #     else:
-            #         log("data already exists")
+            # Load the existing JSON data if it exists; otherwise, initialize an empty list.
+            if os.path.exists(creating_path):
+                with open(creating_path, "r") as f:
+                    try:
+                        existing_data = json.load(f)
+                    except json.JSONDecodeError:
+                        existing_data = []
+            else:
+                existing_data = []
+
+            existing_data.extend(filtered_records)
 
             # Write back to the JSON file
             with open(creating_path, "w") as f:
-                json.dump(records, f, indent=4)
+                json.dump(existing_data, f, indent=4)
 
             print(f"Data appended successfully to {creating_path}")
 
         else:
             creating_path  = f'{self.json_file_path_for_data_has_stopped_updating}/{name}.json'
 
-            # # Load the existing JSON data from file (if exists)
-            # if os.path.exists(creating_path):
-            #     with open(creating_path, "r") as f:
-            #         try:
-            #             existing_data = json.load(f)
-            #         except json.JSONDecodeError:
-            #             existing_data = {}
-            # else:
-            #     existing_data = {}
-            #
-            #     # Process each date in the scraped data
-            # for date, data_types in records.items():
-            #     # If the date doesn't exist in the JSON file, add it entirely.
-            #     if date not in existing_data:
-            #         existing_data[date] = data_types
-            #     else:
-            #         log("data already exists")
+            # Load the existing JSON data if it exists; otherwise, initialize an empty list.
+            if os.path.exists(creating_path):
+                with open(creating_path, "r") as f:
+                    try:
+                        existing_data = json.load(f)
+                    except json.JSONDecodeError:
+                        existing_data = []
+            else:
+                existing_data = []
+
+            existing_data.extend(filtered_records)
 
             # Write back to the JSON file
             with open(creating_path, "w") as f:
-                json.dump(records, f, indent=4)
+                json.dump(existing_data, f, indent=4)
 
             print(f"Data appended successfully to {creating_path}")
 
