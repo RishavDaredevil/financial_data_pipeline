@@ -12,4 +12,5 @@ __pycache__/
 *.pyc
 .Rproj.user
 
-/scrapers/python/RBI_Scraper/.scrapy/
+# Ignore .scrapy directories within scrapers
+scrapers/**/.scrapy/

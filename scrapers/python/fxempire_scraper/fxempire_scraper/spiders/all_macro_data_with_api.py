@@ -116,7 +116,7 @@ class AllMacroDataWithApiSpider(scrapy.Spider):
         df.to_csv(self.CSV_FILE, index=False)
 
         # Create a new dictionary of records containing only entries with dates greater than the stored date.
-        filtered_records = {}
+        filtered_records = []
         for record in records:
             # If no stored_date exists, then include all records.
             if stored_date_obj is None or record["python_date"] > stored_date_obj:
