@@ -167,7 +167,7 @@ class AllForexDataWithApiSpider(scrapy.Spider):
         # # Format: { name: [ { "python_date": datetime_object, "value": close_value }, ... ] }
         # result = {name: records}
 
-        creating_path = f'{self.json_file_path_for_Six_basket_currency}\{name}.json'
+        creating_path = rf'{self.json_file_path_for_Six_basket_currency}\{name}.json'
 
         # Load the existing JSON data if it exists; otherwise, initialize an empty list.
         if os.path.exists(creating_path):
@@ -286,7 +286,7 @@ class AllForexDataWithApiSpider(scrapy.Spider):
         # # Format: { name: [ { "python_date": datetime_object, "value": close_value }, ... ] }
         # result = {name: records}
 
-        creating_path = f'{self.json_file_path_for_Forty_basket_currency}\{name}.json'
+        creating_path = rf'{self.json_file_path_for_Forty_basket_currency}\{name}.json'
 
         # Load the existing JSON data if it exists; otherwise, initialize an empty list.
         if os.path.exists(creating_path):
