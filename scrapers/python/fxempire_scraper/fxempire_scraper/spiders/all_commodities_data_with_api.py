@@ -4,47 +4,53 @@ import json
 import os
 import re
 import traceback
-from datetime import datetime
+from datetime import datetime, timedelta
 from rich import print
 import pandas as pd
 import scrapy
 from scrapy.exceptions import CloseSpider
 
 
-class AllMacroDataWithApiSpider(scrapy.Spider):
-    name = "all_macro_data_with_api"
+class AllCommoditiesDataWithApiSpider(scrapy.Spider):
+    name = "all_commodities_data_with_api"
     allowed_domains = ["www.fxempire.com"]
-    data_to_get_xlsx = "fxempire_data_to_Get.xlsx"
-    CSV_FILE = "rbi_fxempire_last_date.csv"
-    json_file_path_for_data_has_stopped_updating = r"D:\Desktop\financial_data_pipeline\data\raw\fxempire_data\data_has_stopped_updating"
-    json_file_path_for_Has_latest_data_available = r"D:\Desktop\financial_data_pipeline\data\raw\fxempire_data\Has_latest_data_available"
+    data_to_get_xlsx = "fxempire_commodities_data_to_Get.xlsx"
+    CSV_FILE_commodities = "fxempire_commodities_data_last_date.csv"
+    json_file_path_for_commodities = r"D:\Desktop\financial_data_pipeline\data\raw\fxempire_data\commodities"
 
 
     def start_requests(self):
+        # Generate dynamic start and end times
+        today = datetime.today()
+        start_time = (today - timedelta(days=364))
+
+        # Convert the start_time to an epoch timestamp
+        epoch_time = int(start_time.timestamp())
+
         # Read the data from the Excel file
-        query_data = pd.read_excel(self.data_to_get_xlsx, sheet_name=0)
+        query_data_commodities = pd.read_excel(self.data_to_get_xlsx)
 
         # Iterate over each row in the DataFrame
-        for index, row in query_data.iterrows():
+        for index, row in query_data_commodities.iterrows():
             # Extract the 'names' value
-            name = row['names']
-            latest_available = row['Updating']
+            name = row['Commodity Name']
+            Symbols = row['Symbol']
 
             # Construct the URL
-            url = f"https://www.fxempire.com/api/v1/en/macro-indicators/india/{name}/history?latest=12&frequency=Daily"
+            url = f"https://www.fxempire.com/api/v1/en/commodities/chart/candles?instrument={Symbols}&granularity=D&from={epoch_time}&price=M&count=5000&weeklyAlignment=Monday&alignmentTimezone=UTC&dailyAlignment=0"
 
             # Yield a request for each name
             yield scrapy.Request(
                 url=url,
-                callback=self.parse,
-                meta={'name': name,
-                      'latest_available' : latest_available}  # You can pass additional metadata if needed
+                callback=self.parse_commodities,
+                meta={'Commodity Name': name,
+                      'Symbols' : Symbols}  # You can pass additional metadata if needed
             )
 
-    def parse(self, response):
+    def parse_commodities(self, response):
 
         # Retrieve 'name' from response meta
-        name = response.meta.get('name')
+        name = response.meta.get('Commodity Name')
 
         # Load JSON data
         data = json.loads(response.body)
@@ -52,20 +58,28 @@ class AllMacroDataWithApiSpider(scrapy.Spider):
         # Extract dates and close values from the data, storing them in a list
         records = []
         for item in data:
-            formatted_date_str = item["formattedDate"]
-            close_value = item["close"]
+            formatted_date_str = item["Date"]
+            Open_value = item["Open"]
+            High_value = item["High"]
+            Low_value = item["Low"]
+            Close_value = item["Close"]
+            Volume = item["Volume"]
 
             # Convert the formatted date string to a datetime object
             # %b: Month name (e.g. "Apr")
             # %d: Day of the month (e.g. "05")
             # %y: 2-digit year (e.g. "24" -> 2024)
-            date_obj = datetime.strptime(formatted_date_str, "%b %d, %y")
+            date_obj = datetime.strptime(formatted_date_str, "%Y/%m/%d %H:%M:%S")
             formatted_date_iso = date_obj.strftime("%Y-%m-%d")
 
             records.append({
                 "date": formatted_date_iso,
                 "python_date" : date_obj,
-                "value": close_value
+                "Open" : Open_value,
+                "High" : High_value,
+                "Low" : Low_value,
+                "Close" : Close_value,
+                "Volume" : Volume
             })
 
         # Ensure we have at least one record
@@ -81,7 +95,7 @@ class AllMacroDataWithApiSpider(scrapy.Spider):
 
         # Read the CSV file that holds the last_date values
         try:
-            df = pd.read_csv(self.CSV_FILE)
+            df = pd.read_csv(self.CSV_FILE_commodities)
         except FileNotFoundError:
             # If the file doesn't exist, create an empty DataFrame with proper columns
             df = pd.DataFrame(columns=["names", "last_date"])
@@ -108,12 +122,13 @@ class AllMacroDataWithApiSpider(scrapy.Spider):
 
         else:
             # Append a new row if the name is not present in the CSV
+            stored_date_obj = None
             new_row = pd.DataFrame({"names": [name], "last_date": [latest_date_str]})
             df = pd.concat([df, new_row], ignore_index=True)
             self.logger.info(f"Added new entry for {name} with last_date {latest_date_str}")
 
         # Write the updated DataFrame back to the CSV file
-        df.to_csv(self.CSV_FILE, index=False)
+        df.to_csv(self.CSV_FILE_commodities, index=False)
 
         # Create a new dictionary of records containing only entries with dates greater than the stored date.
         filtered_records = []
@@ -122,54 +137,34 @@ class AllMacroDataWithApiSpider(scrapy.Spider):
             if stored_date_obj is None or record["python_date"] > stored_date_obj:
                 # Use a consistent string format for the dictionary key.
                 filtered_records.append({
-                "date": record["date"],
-                "value": record["value"]
-            })
+                    "date": record["date"],
+                    "Open": record["Open"],
+                    "High": record["High"],
+                    "Low": record["Low"],
+                    "Close": record["Close"],
+                    "Volume": record["Volume"]
+                })
 
         # # Build the result dictionary with the expected schema
         # # Format: { name: [ { "python_date": datetime_object, "value": close_value }, ... ] }
         # result = {name: records}
 
-        if response.meta.get('latest_available') == 1:
-            creating_path  = f'{self.json_file_path_for_Has_latest_data_available}/{name}.json'
+        creating_path = rf'{self.json_file_path_for_commodities}\{name}.json'
 
-            # Load the existing JSON data if it exists; otherwise, initialize an empty list.
-            if os.path.exists(creating_path):
-                with open(creating_path, "r") as f:
-                    try:
-                        existing_data = json.load(f)
-                    except json.JSONDecodeError:
-                        existing_data = []
-            else:
-                existing_data = []
-
-            existing_data.extend(filtered_records)
-
-            # Write back to the JSON file
-            with open(creating_path, "w") as f:
-                json.dump(existing_data, f, indent=4)
-
-            print(f"Data appended successfully to {creating_path}")
-
+        # Load the existing JSON data if it exists; otherwise, initialize an empty list.
+        if os.path.exists(creating_path):
+            with open(creating_path, "r") as f:
+                try:
+                    existing_data = json.load(f)
+                except json.JSONDecodeError:
+                    existing_data = []
         else:
-            creating_path  = f'{self.json_file_path_for_data_has_stopped_updating}/{name}.json'
+            existing_data = []
 
-            # Load the existing JSON data if it exists; otherwise, initialize an empty list.
-            if os.path.exists(creating_path):
-                with open(creating_path, "r") as f:
-                    try:
-                        existing_data = json.load(f)
-                    except json.JSONDecodeError:
-                        existing_data = []
-            else:
-                existing_data = []
+        existing_data.extend(filtered_records)
 
-            existing_data.extend(filtered_records)
+        # Write back to the JSON file
+        with open(creating_path, "w") as f:
+            json.dump(existing_data, f, indent=4)
 
-            # Write back to the JSON file
-            with open(creating_path, "w") as f:
-                json.dump(existing_data, f, indent=4)
-
-            print(f"Data appended successfully to {creating_path}")
-
-
+        print(f"Data appended successfully to {creating_path}")

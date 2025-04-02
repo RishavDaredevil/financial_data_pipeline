@@ -6,7 +6,7 @@ library(jsonlite)
 library(lubridate)
 
 # Define the directory containing your JSON files
-directory <- "D:/Desktop/financial_data_pipeline/data/raw/investing_com/investing_com_india_bonds_data"
+directory <- "D:/Desktop/financial_data_pipeline/data/raw/fxempire_data/commodities"
 
 # List all JSON files in the directory
 json_files <- list.files(path = directory, pattern = "\\.json$", full.names = TRUE)

@@ -179,11 +179,11 @@ class AllForexDataWithApiSpider(scrapy.Spider):
         else:
             existing_data = []
 
-        filtered_records.extend(existing_data)
+        existing_data.extend(filtered_records)
 
         # Write back to the JSON file
         with open(creating_path, "w") as f:
-            json.dump(filtered_records, f, indent=4)
+            json.dump(existing_data, f, indent=4)
 
         print(f"Data appended successfully to {creating_path}")
 
@@ -298,11 +298,11 @@ class AllForexDataWithApiSpider(scrapy.Spider):
         else:
             existing_data = []
 
-        filtered_records.extend(existing_data)
+        existing_data.extend(filtered_records)
 
         # Write back to the JSON file
         with open(creating_path, "w") as f:
-            json.dump(filtered_records, f, indent=4)
+            json.dump(existing_data, f, indent=4)
 
         print(f"Data appended successfully to {creating_path}")
 
