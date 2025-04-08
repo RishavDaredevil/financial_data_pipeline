@@ -1,0 +1,2968 @@
+{
+    "2001-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "KERALA",
+            "I": "2",
+            "II": "0",
+            "III": "0",
+            "IV": "0",
+            "Total": "2"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "UTTAR PRADESH",
+            "I": "2",
+            "II": "0",
+            "III": "2",
+            "IV": "0",
+            "Total": "4"
+        }
+    ],
+    "2002-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "KERALA",
+            "I": "4",
+            "II": "0",
+            "III": "0",
+            "IV": "0",
+            "Total": "4"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "UTTAR PRADESH",
+            "I": "0",
+            "II": "0",
+            "III": "1",
+            "IV": "0",
+            "Total": "1"
+        }
+    ],
+    "2003-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "KERALA",
+            "I": "4",
+            "II": "0",
+            "III": "0",
+            "IV": "0",
+            "Total": "4"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "UTTAR PRADESH",
+            "I": "0",
+            "II": "0",
+            "III": "1",
+            "IV": "0",
+            "Total": "1"
+        }
+    ],
+    "2004-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "KERALA",
+            "I": "4",
+            "II": "0",
+            "III": "0",
+            "IV": "0",
+            "Total": "4"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "UTTAR PRADESH",
+            "I": "0",
+            "II": "0",
+            "III": "1",
+            "IV": "0",
+            "Total": "1"
+        }
+    ],
+    "2005-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "KERALA",
+            "I": "4",
+            "II": "0",
+            "III": "0",
+            "IV": "0",
+            "Total": "4"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "UTTAR PRADESH",
+            "I": "0",
+            "II": "0",
+            "III": "1",
+            "IV": "0",
+            "Total": "1"
+        }
+    ],
+    "2006-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "MAHARASHTRA",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "1"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "UTTAR PRADESH",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "1"
+        }
+    ],
+    "2007-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "MAHARASHTRA",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "1"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "UTTAR PRADESH",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "1"
+        }
+    ],
+    "2008-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "KARNATAKA",
+            "I": "0",
+            "II": "0",
+            "III": "1",
+            "IV": "0",
+            "Total": "1"
+        }
+    ],
+    "2009-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "HARYANA",
+            "I": "0",
+            "II": "0",
+            "III": "1",
+            "IV": "0",
+            "Total": "1"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "KARNATAKA",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "1"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "PUNJAB",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "1"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "UTTAR PRADESH",
+            "I": "0",
+            "II": "0",
+            "III": "1",
+            "IV": "0",
+            "Total": "1"
+        }
+    ],
+    "2010-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "562",
+            "Total": "562"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "HARYANA",
+            "I": "3",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "4"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "KARNATAKA",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "1"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "MAHARASHTRA",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "1"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "PUNJAB",
+            "I": "0",
+            "II": "32",
+            "III": "56",
+            "IV": "213",
+            "Total": "301"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "SIKKIM",
+            "I": "0",
+            "II": "0",
+            "III": "1",
+            "IV": "1",
+            "Total": "2"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "UTTAR PRADESH",
+            "I": "0",
+            "II": "0",
+            "III": "1",
+            "IV": "1",
+            "Total": "2"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "WEST BENGAL",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "1053",
+            "Total": "1053"
+        }
+    ],
+    "2011-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "165",
+            "II": "2",
+            "III": "0",
+            "IV": "257",
+            "Total": "424"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "1"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "GUJARAT",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "43",
+            "Total": "43"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "HARYANA",
+            "I": "2",
+            "II": "7",
+            "III": "13",
+            "IV": "18",
+            "Total": "40"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "KARNATAKA",
+            "I": "4",
+            "II": "0",
+            "III": "1",
+            "IV": "221",
+            "Total": "226"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "KERALA",
+            "I": "3",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "4"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "MAHARASHTRA",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "262",
+            "Total": "262"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "PUNJAB",
+            "I": "246",
+            "II": "247",
+            "III": "233",
+            "IV": "261",
+            "Total": "987"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "SIKKIM",
+            "I": "0",
+            "II": "1",
+            "III": "2",
+            "IV": "4",
+            "Total": "7"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "TAMIL NADU",
+            "I": "473",
+            "II": "480",
+            "III": "375",
+            "IV": "461",
+            "Total": "1789"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "UTTAR PRADESH",
+            "I": "162",
+            "II": "202",
+            "III": "125",
+            "IV": "196",
+            "Total": "685"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "WEST BENGAL",
+            "I": "824",
+            "II": "164",
+            "III": "149",
+            "IV": "19",
+            "Total": "1156"
+        }
+    ],
+    "2012-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "289",
+            "II": "88",
+            "III": "68",
+            "IV": "193",
+            "Total": "638"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "5",
+            "II": "13",
+            "III": "9",
+            "IV": "12",
+            "Total": "39"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "DELHI",
+            "I": "187",
+            "II": "174",
+            "III": "208",
+            "IV": "78",
+            "Total": "647"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "GUJARAT",
+            "I": "813",
+            "II": "685",
+            "III": "537",
+            "IV": "31",
+            "Total": "2066"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "HARYANA",
+            "I": "10",
+            "II": "15",
+            "III": "30",
+            "IV": "22",
+            "Total": "77"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "KARNATAKA",
+            "I": "5194",
+            "II": "2942",
+            "III": "4757",
+            "IV": "5188",
+            "Total": "18081"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "MAHARASHTRA",
+            "I": "698",
+            "II": "564",
+            "III": "758",
+            "IV": "736",
+            "Total": "2756"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "MANIPUR",
+            "I": "1",
+            "II": "1",
+            "III": "7",
+            "IV": "4",
+            "Total": "13"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "PUNJAB",
+            "I": "295",
+            "II": "208",
+            "III": "177",
+            "IV": "227",
+            "Total": "907"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "SIKKIM",
+            "I": "97",
+            "II": "27",
+            "III": "38",
+            "IV": "114",
+            "Total": "276"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "TAMIL NADU",
+            "I": "506",
+            "II": "490",
+            "III": "305",
+            "IV": "709",
+            "Total": "2010"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "UTTAR PRADESH",
+            "I": "181",
+            "II": "163",
+            "III": "150",
+            "IV": "173",
+            "Total": "667"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "UTTARAKHAND",
+            "I": "18",
+            "II": "1",
+            "III": "0",
+            "IV": "0",
+            "Total": "19"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "WEST BENGAL",
+            "I": "994",
+            "II": "896",
+            "III": "193",
+            "IV": "16",
+            "Total": "2099"
+        }
+    ],
+    "2013-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "32",
+            "II": "31",
+            "III": "74",
+            "IV": "60",
+            "Total": "197"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "10",
+            "II": "25",
+            "III": "25",
+            "IV": "7",
+            "Total": "67"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "CHHATTISGARH",
+            "I": "150",
+            "II": "191",
+            "III": "88",
+            "IV": "269",
+            "Total": "698"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "DELHI",
+            "I": "423",
+            "II": "432",
+            "III": "486",
+            "IV": "468",
+            "Total": "1809"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "GUJARAT",
+            "I": "510",
+            "II": "245",
+            "III": "333",
+            "IV": "58",
+            "Total": "1146"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "HARYANA",
+            "I": "13",
+            "II": "21",
+            "III": "29",
+            "IV": "45",
+            "Total": "108"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "212",
+            "II": "141",
+            "III": "95",
+            "IV": "119",
+            "Total": "567"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "KARNATAKA",
+            "I": "5021",
+            "II": "5177",
+            "III": "5199",
+            "IV": "6446",
+            "Total": "21843"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "KERALA",
+            "I": "1752",
+            "II": "1644",
+            "III": "1774",
+            "IV": "2061",
+            "Total": "7231"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "MAHARASHTRA",
+            "I": "824",
+            "II": "706",
+            "III": "562",
+            "IV": "959",
+            "Total": "3051"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "MANIPUR",
+            "I": "1",
+            "II": "1",
+            "III": "4",
+            "IV": "2",
+            "Total": "8"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "MEGHALAYA",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "1"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "MIZORAM",
+            "I": "55",
+            "II": "221",
+            "III": "262",
+            "IV": "119",
+            "Total": "657"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "PUNJAB",
+            "I": "323",
+            "II": "283",
+            "III": "166",
+            "IV": "413",
+            "Total": "1185"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "SIKKIM",
+            "I": "101",
+            "II": "12",
+            "III": "114",
+            "IV": "121",
+            "Total": "348"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "TAMIL NADU",
+            "I": "930",
+            "II": "930",
+            "III": "1295",
+            "IV": "273",
+            "Total": "3428"
+        },
+        {
+            "Sno.": "17",
+            "State Name": "UTTAR PRADESH",
+            "I": "231",
+            "II": "158",
+            "III": "114",
+            "IV": "227",
+            "Total": "730"
+        },
+        {
+            "Sno.": "18",
+            "State Name": "UTTARAKHAND",
+            "I": "1293",
+            "II": "950",
+            "III": "902",
+            "IV": "1114",
+            "Total": "4259"
+        },
+        {
+            "Sno.": "19",
+            "State Name": "WEST BENGAL",
+            "I": "0",
+            "II": "17",
+            "III": "24",
+            "IV": "17",
+            "Total": "58"
+        }
+    ],
+    "2014-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "482",
+            "II": "269",
+            "III": "424",
+            "IV": "194",
+            "Total": "1369"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "6",
+            "II": "31",
+            "III": "0",
+            "IV": "1",
+            "Total": "38"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "ASSAM",
+            "I": "0",
+            "II": "0",
+            "III": "1",
+            "IV": "0",
+            "Total": "1"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "CHHATTISGARH",
+            "I": "285",
+            "II": "384",
+            "III": "166",
+            "IV": "271",
+            "Total": "1106"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "DELHI",
+            "I": "481",
+            "II": "396",
+            "III": "430",
+            "IV": "396",
+            "Total": "1703"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "GUJARAT",
+            "I": "742",
+            "II": "384",
+            "III": "392",
+            "IV": "407",
+            "Total": "1925"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "HARYANA",
+            "I": "37",
+            "II": "33",
+            "III": "26",
+            "IV": "60",
+            "Total": "156"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "99",
+            "II": "122",
+            "III": "96",
+            "IV": "173",
+            "Total": "490"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "KARNATAKA",
+            "I": "4987",
+            "II": "6383",
+            "III": "6066",
+            "IV": "6445",
+            "Total": "23881"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "KERALA",
+            "I": "7178",
+            "II": "5379",
+            "III": "7351",
+            "IV": "7064",
+            "Total": "26972"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "MAHARASHTRA",
+            "I": "807",
+            "II": "774",
+            "III": "736",
+            "IV": "878",
+            "Total": "3195"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "MANIPUR",
+            "I": "4",
+            "II": "4",
+            "III": "0",
+            "IV": "10",
+            "Total": "18"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "MEGHALAYA",
+            "I": "157",
+            "II": "97",
+            "III": "85",
+            "IV": "132",
+            "Total": "471"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "MIZORAM",
+            "I": "351",
+            "II": "328",
+            "III": "299",
+            "IV": "341",
+            "Total": "1319"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "PUNJAB",
+            "I": "1073",
+            "II": "1091",
+            "III": "1421",
+            "IV": "1276",
+            "Total": "4861"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "SIKKIM",
+            "I": "35",
+            "II": "1",
+            "III": "118",
+            "IV": "74",
+            "Total": "228"
+        },
+        {
+            "Sno.": "17",
+            "State Name": "TAMIL NADU",
+            "I": "991",
+            "II": "770",
+            "III": "763",
+            "IV": "826",
+            "Total": "3350"
+        },
+        {
+            "Sno.": "18",
+            "State Name": "UTTAR PRADESH",
+            "I": "1290",
+            "II": "1543",
+            "III": "1275",
+            "IV": "1055",
+            "Total": "5163"
+        },
+        {
+            "Sno.": "19",
+            "State Name": "UTTARAKHAND",
+            "I": "1349",
+            "II": "885",
+            "III": "870",
+            "IV": "1012",
+            "Total": "4116"
+        },
+        {
+            "Sno.": "20",
+            "State Name": "WEST BENGAL",
+            "I": "160",
+            "II": "165",
+            "III": "108",
+            "IV": "204",
+            "Total": "637"
+        }
+    ],
+    "2015-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "1599",
+            "II": "2259",
+            "III": "1484",
+            "IV": "1812",
+            "Total": "7154"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "0",
+            "II": "27",
+            "III": "30",
+            "IV": "20",
+            "Total": "77"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "CHHATTISGARH",
+            "I": "1269",
+            "II": "1161",
+            "III": "1277",
+            "IV": "1326",
+            "Total": "5033"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "DELHI",
+            "I": "385",
+            "II": "332",
+            "III": "401",
+            "IV": "401",
+            "Total": "1519"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "GUJARAT",
+            "I": "1042",
+            "II": "1227",
+            "III": "2103",
+            "IV": "1115",
+            "Total": "5487"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "HARYANA",
+            "I": "2491",
+            "II": "1877",
+            "III": "1807",
+            "IV": "1901",
+            "Total": "8076"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "205",
+            "II": "241",
+            "III": "95",
+            "IV": "164",
+            "Total": "705"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "JHARKHAND",
+            "I": "0",
+            "II": "0",
+            "III": "3",
+            "IV": "5",
+            "Total": "8"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "KARNATAKA",
+            "I": "7280",
+            "II": "8101",
+            "III": "7000",
+            "IV": "6978",
+            "Total": "29359"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "KERALA",
+            "I": "5868",
+            "II": "5787",
+            "III": "6323",
+            "IV": "7437",
+            "Total": "25415"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "MADHYA PRADESH",
+            "I": "168",
+            "II": "139",
+            "III": "171",
+            "IV": "88",
+            "Total": "566"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "MAHARASHTRA",
+            "I": "6442",
+            "II": "5938",
+            "III": "6510",
+            "IV": "6537",
+            "Total": "25427"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "MEGHALAYA",
+            "I": "76",
+            "II": "94",
+            "III": "54",
+            "IV": "61",
+            "Total": "285"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "MIZORAM",
+            "I": "298",
+            "II": "271",
+            "III": "281",
+            "IV": "533",
+            "Total": "1383"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "NAGALAND",
+            "I": "30",
+            "II": "30",
+            "III": "27",
+            "IV": "26",
+            "Total": "113"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "PUNJAB",
+            "I": "1921",
+            "II": "1588",
+            "III": "1696",
+            "IV": "2273",
+            "Total": "7478"
+        },
+        {
+            "Sno.": "17",
+            "State Name": "SIKKIM",
+            "I": "85",
+            "II": "1",
+            "III": "22",
+            "IV": "88",
+            "Total": "196"
+        },
+        {
+            "Sno.": "18",
+            "State Name": "TAMIL NADU",
+            "I": "5085",
+            "II": "5898",
+            "III": "5538",
+            "IV": "5392",
+            "Total": "21913"
+        },
+        {
+            "Sno.": "19",
+            "State Name": "UTTAR PRADESH",
+            "I": "1998",
+            "II": "2180",
+            "III": "2118",
+            "IV": "2746",
+            "Total": "9042"
+        },
+        {
+            "Sno.": "20",
+            "State Name": "UTTARAKHAND",
+            "I": "958",
+            "II": "1041",
+            "III": "1113",
+            "IV": "1136",
+            "Total": "4248"
+        },
+        {
+            "Sno.": "21",
+            "State Name": "WEST BENGAL",
+            "I": "3853",
+            "II": "3762",
+            "III": "2541",
+            "IV": "3169",
+            "Total": "13325"
+        }
+    ],
+    "2016-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "2060",
+            "II": "2093",
+            "III": "1910",
+            "IV": "2474",
+            "Total": "8537"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "35",
+            "II": "21",
+            "III": "20",
+            "IV": "13",
+            "Total": "89"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "CHHATTISGARH",
+            "I": "1531",
+            "II": "1241",
+            "III": "1095",
+            "IV": "1735",
+            "Total": "5602"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "DELHI",
+            "I": "326",
+            "II": "473",
+            "III": "464",
+            "IV": "273",
+            "Total": "1536"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "GUJARAT",
+            "I": "3554",
+            "II": "2585",
+            "III": "2823",
+            "IV": "1761",
+            "Total": "10723"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "HARYANA",
+            "I": "1662",
+            "II": "1514",
+            "III": "1590",
+            "IV": "1383",
+            "Total": "6149"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "88",
+            "II": "130",
+            "III": "69",
+            "IV": "144",
+            "Total": "431"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "JHARKHAND",
+            "I": "20",
+            "II": "7",
+            "III": "19",
+            "IV": "12",
+            "Total": "58"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "KARNATAKA",
+            "I": "6487",
+            "II": "5632",
+            "III": "6654",
+            "IV": "6717",
+            "Total": "25490"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "KERALA",
+            "I": "5627",
+            "II": "5435",
+            "III": "4803",
+            "IV": "5599",
+            "Total": "21464"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "MADHYA PRADESH",
+            "I": "428",
+            "II": "852",
+            "III": "1530",
+            "IV": "1420",
+            "Total": "4230"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "MAHARASHTRA",
+            "I": "6728",
+            "II": "7080",
+            "III": "7407",
+            "IV": "7236",
+            "Total": "28451"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "MEGHALAYA",
+            "I": "68",
+            "II": "105",
+            "III": "67",
+            "IV": "83",
+            "Total": "323"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "MIZORAM",
+            "I": "434",
+            "II": "343",
+            "III": "291",
+            "IV": "117",
+            "Total": "1185"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "NAGALAND",
+            "I": "24",
+            "II": "22",
+            "III": "18",
+            "IV": "20",
+            "Total": "84"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "ODISHA",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "2",
+            "Total": "2"
+        },
+        {
+            "Sno.": "17",
+            "State Name": "PUNJAB",
+            "I": "2545",
+            "II": "2224",
+            "III": "2057",
+            "IV": "2162",
+            "Total": "8988"
+        },
+        {
+            "Sno.": "18",
+            "State Name": "SIKKIM",
+            "I": "39",
+            "II": "0",
+            "III": "82",
+            "IV": "58",
+            "Total": "179"
+        },
+        {
+            "Sno.": "19",
+            "State Name": "TAMIL NADU",
+            "I": "5688",
+            "II": "5488",
+            "III": "4906",
+            "IV": "5371",
+            "Total": "21453"
+        },
+        {
+            "Sno.": "20",
+            "State Name": "UTTAR PRADESH",
+            "I": "3004",
+            "II": "2976",
+            "III": "2274",
+            "IV": "3183",
+            "Total": "11437"
+        },
+        {
+            "Sno.": "21",
+            "State Name": "UTTARAKHAND",
+            "I": "1345",
+            "II": "895",
+            "III": "775",
+            "IV": "1414",
+            "Total": "4429"
+        },
+        {
+            "Sno.": "22",
+            "State Name": "WEST BENGAL",
+            "I": "738",
+            "II": "265",
+            "III": "784",
+            "IV": "2378",
+            "Total": "4165"
+        }
+    ],
+    "2017-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "1545",
+            "II": "1822",
+            "III": "1937",
+            "IV": "2022",
+            "Total": "7326"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "17",
+            "II": "10",
+            "III": "13",
+            "IV": "8",
+            "Total": "48"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "BIHAR",
+            "I": "0",
+            "II": "0",
+            "III": "0",
+            "IV": "1",
+            "Total": "1"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "CHHATTISGARH",
+            "I": "1642",
+            "II": "1532",
+            "III": "1339",
+            "IV": "1289",
+            "Total": "5802"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "DELHI",
+            "I": "65",
+            "II": "21",
+            "III": "0",
+            "IV": "0",
+            "Total": "86"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "GUJARAT",
+            "I": "2438",
+            "II": "3404",
+            "III": "2698",
+            "IV": "1148",
+            "Total": "9688"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "HARYANA",
+            "I": "1396",
+            "II": "1006",
+            "III": "1367",
+            "IV": "1528",
+            "Total": "5297"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "134",
+            "II": "106",
+            "III": "153",
+            "IV": "149",
+            "Total": "542"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "JHARKHAND",
+            "I": "19",
+            "II": "5",
+            "III": "8",
+            "IV": "4",
+            "Total": "36"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "KARNATAKA",
+            "I": "6358",
+            "II": "5440",
+            "III": "5813",
+            "IV": "6648",
+            "Total": "24259"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "KERALA",
+            "I": "4794",
+            "II": "4478",
+            "III": "4631",
+            "IV": "4887",
+            "Total": "18790"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "MADHYA PRADESH",
+            "I": "1699",
+            "II": "1555",
+            "III": "1776",
+            "IV": "1417",
+            "Total": "6447"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "MAHARASHTRA",
+            "I": "5496",
+            "II": "5828",
+            "III": "6312",
+            "IV": "5578",
+            "Total": "23214"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "MEGHALAYA",
+            "I": "107",
+            "II": "83",
+            "III": "116",
+            "IV": "113",
+            "Total": "419"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "MIZORAM",
+            "I": "292",
+            "II": "383",
+            "III": "394",
+            "IV": "669",
+            "Total": "1738"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "NAGALAND",
+            "I": "19",
+            "II": "9",
+            "III": "0",
+            "IV": "18",
+            "Total": "46"
+        },
+        {
+            "Sno.": "17",
+            "State Name": "ODISHA",
+            "I": "46",
+            "II": "135",
+            "III": "382",
+            "IV": "496",
+            "Total": "1059"
+        },
+        {
+            "Sno.": "18",
+            "State Name": "PUNJAB",
+            "I": "1570",
+            "II": "1625",
+            "III": "1237",
+            "IV": "1580",
+            "Total": "6012"
+        },
+        {
+            "Sno.": "19",
+            "State Name": "RAJASTHAN",
+            "I": "1570",
+            "II": "1555",
+            "III": "1912",
+            "IV": "1800",
+            "Total": "6837"
+        },
+        {
+            "Sno.": "20",
+            "State Name": "SIKKIM",
+            "I": "30",
+            "II": "1",
+            "III": "28",
+            "IV": "65",
+            "Total": "124"
+        },
+        {
+            "Sno.": "21",
+            "State Name": "TAMIL NADU",
+            "I": "4572",
+            "II": "5186",
+            "III": "5522",
+            "IV": "5438",
+            "Total": "20718"
+        },
+        {
+            "Sno.": "22",
+            "State Name": "UTTAR PRADESH",
+            "I": "2980",
+            "II": "2780",
+            "III": "2107",
+            "IV": "2414",
+            "Total": "10281"
+        },
+        {
+            "Sno.": "23",
+            "State Name": "UTTARAKHAND",
+            "I": "1190",
+            "II": "1372",
+            "III": "888",
+            "IV": "676",
+            "Total": "4126"
+        },
+        {
+            "Sno.": "24",
+            "State Name": "WEST BENGAL",
+            "I": "0",
+            "II": "265",
+            "III": "0",
+            "IV": "216",
+            "Total": "481"
+        }
+    ],
+    "2018-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "2176",
+            "II": "2345",
+            "III": "2355",
+            "IV": "2639",
+            "Total": "9515"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "15",
+            "II": "17",
+            "III": "16",
+            "IV": "14",
+            "Total": "62"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "CHHATTISGARH",
+            "I": "888",
+            "II": "1214",
+            "III": "1637",
+            "IV": "1926",
+            "Total": "5665"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "GUJARAT",
+            "I": "1431",
+            "II": "1107",
+            "III": "736",
+            "IV": "1137",
+            "Total": "4411"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "HARYANA",
+            "I": "2258",
+            "II": "2072",
+            "III": "1958",
+            "IV": "1628",
+            "Total": "7916"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "138",
+            "II": "156",
+            "III": "29",
+            "IV": "44",
+            "Total": "367"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "KARNATAKA",
+            "I": "6220",
+            "II": "5995",
+            "III": "6398",
+            "IV": "7298",
+            "Total": "25911"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "KERALA",
+            "I": "5802",
+            "II": "4849",
+            "III": "6493",
+            "IV": "6131",
+            "Total": "23275"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "MADHYA PRADESH",
+            "I": "1749",
+            "II": "1891",
+            "III": "1872",
+            "IV": "1740",
+            "Total": "7252"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "MAHARASHTRA",
+            "I": "6219",
+            "II": "6064",
+            "III": "5660",
+            "IV": "7360",
+            "Total": "25303"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "MANIPUR",
+            "I": "15",
+            "II": "76",
+            "III": "94",
+            "IV": "17",
+            "Total": "202"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "MEGHALAYA",
+            "I": "168",
+            "II": "103",
+            "III": "103",
+            "IV": "73",
+            "Total": "447"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "MIZORAM",
+            "I": "372",
+            "II": "537",
+            "III": "596",
+            "IV": "743",
+            "Total": "2248"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "NAGALAND",
+            "I": "50",
+            "II": "32",
+            "III": "36",
+            "IV": "42",
+            "Total": "160"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "ODISHA",
+            "I": "381",
+            "II": "291",
+            "III": "469",
+            "IV": "774",
+            "Total": "1915"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "PUNJAB",
+            "I": "2131",
+            "II": "1809",
+            "III": "1784",
+            "IV": "1367",
+            "Total": "7091"
+        },
+        {
+            "Sno.": "17",
+            "State Name": "RAJASTHAN",
+            "I": "2062",
+            "II": "1753",
+            "III": "1954",
+            "IV": "1740",
+            "Total": "7509"
+        },
+        {
+            "Sno.": "18",
+            "State Name": "TAMIL NADU",
+            "I": "5668",
+            "II": "4300",
+            "III": "4181",
+            "IV": "5222",
+            "Total": "19371"
+        },
+        {
+            "Sno.": "19",
+            "State Name": "UTTAR PRADESH",
+            "I": "2602",
+            "II": "2588",
+            "III": "2387",
+            "IV": "2321",
+            "Total": "9898"
+        },
+        {
+            "Sno.": "20",
+            "State Name": "UTTARAKHAND",
+            "I": "546",
+            "II": "855",
+            "III": "888",
+            "IV": "1014",
+            "Total": "3303"
+        },
+        {
+            "Sno.": "21",
+            "State Name": "WEST BENGAL",
+            "I": "104",
+            "II": "210",
+            "III": "27",
+            "IV": "0",
+            "Total": "341"
+        }
+    ],
+    "2019-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "2209",
+            "II": "2756",
+            "III": "2476",
+            "IV": "2109",
+            "Total": "9550"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "12",
+            "II": "48",
+            "III": "31",
+            "IV": "20",
+            "Total": "111"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "CHHATTISGARH",
+            "I": "1663",
+            "II": "1588",
+            "III": "1423",
+            "IV": "1775",
+            "Total": "6449"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "GUJARAT",
+            "I": "769",
+            "II": "484",
+            "III": "701",
+            "IV": "792",
+            "Total": "2746"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "HARYANA",
+            "I": "1592",
+            "II": "1591",
+            "III": "1564",
+            "IV": "646",
+            "Total": "5393"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "53",
+            "II": "22",
+            "III": "42",
+            "IV": "83",
+            "Total": "200"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "KARNATAKA",
+            "I": "4446",
+            "II": "5852",
+            "III": "6905",
+            "IV": "7497",
+            "Total": "24700"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "KERALA",
+            "I": "6897",
+            "II": "6627",
+            "III": "6079",
+            "IV": "5197",
+            "Total": "24800"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "MADHYA PRADESH",
+            "I": "1579",
+            "II": "1734",
+            "III": "1832",
+            "IV": "1833",
+            "Total": "6978"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "MAHARASHTRA",
+            "I": "6755",
+            "II": "6486",
+            "III": "6012",
+            "IV": "7133",
+            "Total": "26386"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "MANIPUR",
+            "I": "20",
+            "II": "11",
+            "III": "5",
+            "IV": "17",
+            "Total": "53"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "MEGHALAYA",
+            "I": "101",
+            "II": "85",
+            "III": "111",
+            "IV": "85",
+            "Total": "382"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "MIZORAM",
+            "I": "824",
+            "II": "323",
+            "III": "990",
+            "IV": "741",
+            "Total": "2878"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "NAGALAND",
+            "I": "38",
+            "II": "44",
+            "III": "12",
+            "IV": "13",
+            "Total": "107"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "ODISHA",
+            "I": "640",
+            "II": "511",
+            "III": "550",
+            "IV": "609",
+            "Total": "2310"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "PUNJAB",
+            "I": "1463",
+            "II": "1578",
+            "III": "2105",
+            "IV": "1156",
+            "Total": "6302"
+        },
+        {
+            "Sno.": "17",
+            "State Name": "RAJASTHAN",
+            "I": "2679",
+            "II": "1760",
+            "III": "1615",
+            "IV": "2097",
+            "Total": "8151"
+        },
+        {
+            "Sno.": "18",
+            "State Name": "TAMIL NADU",
+            "I": "5400",
+            "II": "5556",
+            "III": "4690",
+            "IV": "5423",
+            "Total": "21069"
+        },
+        {
+            "Sno.": "19",
+            "State Name": "UTTAR PRADESH",
+            "I": "2873",
+            "II": "2339",
+            "III": "2019",
+            "IV": "2379",
+            "Total": "9610"
+        },
+        {
+            "Sno.": "20",
+            "State Name": "UTTARAKHAND",
+            "I": "437",
+            "II": "1083",
+            "III": "904",
+            "IV": "939",
+            "Total": "3363"
+        }
+    ],
+    "2020-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "1955",
+            "II": "2111",
+            "III": "2187",
+            "IV": "2303",
+            "Total": "8556"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "16",
+            "II": "19",
+            "III": "61",
+            "IV": "13",
+            "Total": "109"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "BIHAR",
+            "I": "1",
+            "II": "0",
+            "III": "0",
+            "IV": "0",
+            "Total": "1"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "CHHATTISGARH",
+            "I": "1689",
+            "II": "1501",
+            "III": "1786",
+            "IV": "1914",
+            "Total": "6890"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "GUJARAT",
+            "I": "709",
+            "II": "524",
+            "III": "388",
+            "IV": "303",
+            "Total": "1924"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "HARYANA",
+            "I": "546",
+            "II": "809",
+            "III": "907",
+            "IV": "539",
+            "Total": "2801"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "66",
+            "II": "133",
+            "III": "88",
+            "IV": "105",
+            "Total": "392"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "KARNATAKA",
+            "I": "3607",
+            "II": "4568",
+            "III": "5002",
+            "IV": "4745",
+            "Total": "17922"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "KERALA",
+            "I": "3978",
+            "II": "3449",
+            "III": "3715",
+            "IV": "1827",
+            "Total": "12969"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "MADHYA PRADESH",
+            "I": "1267",
+            "II": "1234",
+            "III": "1255",
+            "IV": "1099",
+            "Total": "4855"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "MAHARASHTRA",
+            "I": "6011",
+            "II": "5704",
+            "III": "5548",
+            "IV": "5061",
+            "Total": "22324"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "MANIPUR",
+            "I": "13",
+            "II": "6",
+            "III": "9",
+            "IV": "14",
+            "Total": "42"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "MEGHALAYA",
+            "I": "74",
+            "II": "109",
+            "III": "88",
+            "IV": "85",
+            "Total": "356"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "MIZORAM",
+            "I": "802",
+            "II": "707",
+            "III": "469",
+            "IV": "750",
+            "Total": "2728"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "NAGALAND",
+            "I": "17",
+            "II": "18",
+            "III": "16",
+            "IV": "15",
+            "Total": "66"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "ODISHA",
+            "I": "606",
+            "II": "605",
+            "III": "511",
+            "IV": "336",
+            "Total": "2058"
+        },
+        {
+            "Sno.": "17",
+            "State Name": "PUNJAB",
+            "I": "934",
+            "II": "1045",
+            "III": "1145",
+            "IV": "724",
+            "Total": "3848"
+        },
+        {
+            "Sno.": "18",
+            "State Name": "RAJASTHAN",
+            "I": "1055",
+            "II": "1565",
+            "III": "1629",
+            "IV": "1147",
+            "Total": "5396"
+        },
+        {
+            "Sno.": "19",
+            "State Name": "SIKKIM",
+            "I": "7",
+            "II": "1",
+            "III": "20",
+            "IV": "11",
+            "Total": "39"
+        },
+        {
+            "Sno.": "20",
+            "State Name": "TAMIL NADU",
+            "I": "4947",
+            "II": "6249",
+            "III": "5478",
+            "IV": "5756",
+            "Total": "22430"
+        },
+        {
+            "Sno.": "21",
+            "State Name": "UTTAR PRADESH",
+            "I": "2376",
+            "II": "1734",
+            "III": "1572",
+            "IV": "1574",
+            "Total": "7256"
+        },
+        {
+            "Sno.": "22",
+            "State Name": "UTTARAKHAND",
+            "I": "1241",
+            "II": "1489",
+            "III": "1389",
+            "IV": "1114",
+            "Total": "5233"
+        }
+    ],
+    "2021-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "1244",
+            "II": "2150",
+            "III": "2759",
+            "IV": "3016",
+            "Total": "9169"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "22",
+            "II": "0",
+            "III": "30",
+            "IV": "95",
+            "Total": "147"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "CHHATTISGARH",
+            "I": "1149",
+            "II": "1228",
+            "III": "2129",
+            "IV": "2647",
+            "Total": "7153"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "GUJARAT",
+            "I": "29",
+            "II": "72",
+            "III": "35",
+            "IV": "74",
+            "Total": "210"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "HARYANA",
+            "I": "496",
+            "II": "651",
+            "III": "738",
+            "IV": "772",
+            "Total": "2657"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "48",
+            "II": "127",
+            "III": "146",
+            "IV": "178",
+            "Total": "499"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "JAMMU AND KASHMIR",
+            "I": "3",
+            "II": "0",
+            "III": "0",
+            "IV": "0",
+            "Total": "3"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "KARNATAKA",
+            "I": "1958",
+            "II": "3916",
+            "III": "4035",
+            "IV": "5984",
+            "Total": "15893"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "KERALA",
+            "I": "814",
+            "II": "1533",
+            "III": "1793",
+            "IV": "2306",
+            "Total": "6446"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "MADHYA PRADESH",
+            "I": "1943",
+            "II": "3011",
+            "III": "3871",
+            "IV": "4559",
+            "Total": "13384"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "MAHARASHTRA",
+            "I": "1271",
+            "II": "3391",
+            "III": "5615",
+            "IV": "5237",
+            "Total": "15514"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "MANIPUR",
+            "I": "1",
+            "II": "4",
+            "III": "9",
+            "IV": "9",
+            "Total": "23"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "MEGHALAYA",
+            "I": "47",
+            "II": "50",
+            "III": "96",
+            "IV": "88",
+            "Total": "281"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "MIZORAM",
+            "I": "345",
+            "II": "544",
+            "III": "569",
+            "IV": "830",
+            "Total": "2288"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "NAGALAND",
+            "I": "2",
+            "II": "9",
+            "III": "18",
+            "IV": "27",
+            "Total": "56"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "ODISHA",
+            "I": "195",
+            "II": "273",
+            "III": "324",
+            "IV": "486",
+            "Total": "1278"
+        },
+        {
+            "Sno.": "17",
+            "State Name": "PUNJAB",
+            "I": "560",
+            "II": "860",
+            "III": "914",
+            "IV": "719",
+            "Total": "3053"
+        },
+        {
+            "Sno.": "18",
+            "State Name": "RAJASTHAN",
+            "I": "302",
+            "II": "1857",
+            "III": "1681",
+            "IV": "1522",
+            "Total": "5362"
+        },
+        {
+            "Sno.": "19",
+            "State Name": "SIKKIM",
+            "I": "1",
+            "II": "0",
+            "III": "13",
+            "IV": "10",
+            "Total": "24"
+        },
+        {
+            "Sno.": "20",
+            "State Name": "TAMIL NADU",
+            "I": "2773",
+            "II": "5436",
+            "III": "6188",
+            "IV": "6815",
+            "Total": "21212"
+        },
+        {
+            "Sno.": "21",
+            "State Name": "UTTAR PRADESH",
+            "I": "756",
+            "II": "1401",
+            "III": "2538",
+            "IV": "2395",
+            "Total": "7090"
+        },
+        {
+            "Sno.": "22",
+            "State Name": "UTTARAKHAND",
+            "I": "519",
+            "II": "977",
+            "III": "1110",
+            "IV": "1291",
+            "Total": "3897"
+        }
+    ],
+    "2022-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "2688",
+            "II": "3108",
+            "III": "3158",
+            "IV": "3514",
+            "Total": "12468"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "21",
+            "II": "83",
+            "III": "32",
+            "IV": "78",
+            "Total": "214"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "BIHAR",
+            "I": "22",
+            "II": "24",
+            "III": "25",
+            "IV": "0",
+            "Total": "71"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "CHHATTISGARH",
+            "I": "984",
+            "II": "1718",
+            "III": "2528",
+            "IV": "3261",
+            "Total": "8491"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "GUJARAT",
+            "I": "67",
+            "II": "64",
+            "III": "4",
+            "IV": "0",
+            "Total": "135"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "HARYANA",
+            "I": "543",
+            "II": "699",
+            "III": "632",
+            "IV": "414",
+            "Total": "2288"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "121",
+            "II": "168",
+            "III": "138",
+            "IV": "119",
+            "Total": "546"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "KARNATAKA",
+            "I": "3010",
+            "II": "5161",
+            "III": "5147",
+            "IV": "6886",
+            "Total": "20204"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "KERALA",
+            "I": "799",
+            "II": "1534",
+            "III": "1771",
+            "IV": "1819",
+            "Total": "5923"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "MADHYA PRADESH",
+            "I": "3566",
+            "II": "4130",
+            "III": "3778",
+            "IV": "4566",
+            "Total": "16040"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "MAHARASHTRA",
+            "I": "5208",
+            "II": "6444",
+            "III": "6187",
+            "IV": "6559",
+            "Total": "24398"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "MANIPUR",
+            "I": "4",
+            "II": "5",
+            "III": "13",
+            "IV": "10",
+            "Total": "32"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "MEGHALAYA",
+            "I": "36",
+            "II": "59",
+            "III": "86",
+            "IV": "93",
+            "Total": "274"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "MIZORAM",
+            "I": "350",
+            "II": "243",
+            "III": "702",
+            "IV": "386",
+            "Total": "1681"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "NAGALAND",
+            "I": "1",
+            "II": "22",
+            "III": "20",
+            "IV": "39",
+            "Total": "82"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "ODISHA",
+            "I": "618",
+            "II": "445",
+            "III": "561",
+            "IV": "619",
+            "Total": "2243"
+        },
+        {
+            "Sno.": "17",
+            "State Name": "PUNJAB",
+            "I": "392",
+            "II": "223",
+            "III": "97",
+            "IV": "109",
+            "Total": "821"
+        },
+        {
+            "Sno.": "18",
+            "State Name": "RAJASTHAN",
+            "I": "704",
+            "II": "1636",
+            "III": "890",
+            "IV": "1093",
+            "Total": "4323"
+        },
+        {
+            "Sno.": "19",
+            "State Name": "SIKKIM",
+            "I": "4",
+            "II": "2",
+            "III": "15",
+            "IV": "10",
+            "Total": "31"
+        },
+        {
+            "Sno.": "20",
+            "State Name": "TAMIL NADU",
+            "I": "4765",
+            "II": "6205",
+            "III": "4777",
+            "IV": "5374",
+            "Total": "21121"
+        },
+        {
+            "Sno.": "21",
+            "State Name": "UTTAR PRADESH",
+            "I": "2029",
+            "II": "2659",
+            "III": "2587",
+            "IV": "2839",
+            "Total": "10114"
+        },
+        {
+            "Sno.": "22",
+            "State Name": "UTTARAKHAND",
+            "I": "424",
+            "II": "1553",
+            "III": "1622",
+            "IV": "1733",
+            "Total": "5332"
+        }
+    ],
+    "2023-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "3955",
+            "II": "3748",
+            "III": "3560",
+            "IV": "3466",
+            "Total": "14729"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "51",
+            "II": "1",
+            "III": "23",
+            "IV": "29",
+            "Total": "104"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "BIHAR",
+            "I": "28",
+            "II": "24",
+            "III": "17",
+            "IV": "4",
+            "Total": "73"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "CHHATTISGARH",
+            "I": "2608",
+            "II": "2175",
+            "III": "2230",
+            "IV": "2358",
+            "Total": "9371"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "HARYANA",
+            "I": "210",
+            "II": "221",
+            "III": "193",
+            "IV": "153",
+            "Total": "777"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "170",
+            "II": "98",
+            "III": "125",
+            "IV": "96",
+            "Total": "489"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "KARNATAKA",
+            "I": "4558",
+            "II": "4926",
+            "III": "5303",
+            "IV": "5553",
+            "Total": "20340"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "KERALA",
+            "I": "983",
+            "II": "1127",
+            "III": "2106",
+            "IV": "2239",
+            "Total": "6455"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "MADHYA PRADESH",
+            "I": "3764",
+            "II": "3303",
+            "III": "2850",
+            "IV": "1521",
+            "Total": "11438"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "MAHARASHTRA",
+            "I": "5092",
+            "II": "4442",
+            "III": "4117",
+            "IV": "5482",
+            "Total": "19133"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "MANIPUR",
+            "I": "7",
+            "II": "6",
+            "III": "10",
+            "IV": "7",
+            "Total": "30"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "MEGHALAYA",
+            "I": "93",
+            "II": "84",
+            "III": "98",
+            "IV": "96",
+            "Total": "371"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "MIZORAM",
+            "I": "511",
+            "II": "535",
+            "III": "601",
+            "IV": "620",
+            "Total": "2267"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "NAGALAND",
+            "I": "22",
+            "II": "32",
+            "III": "33",
+            "IV": "29",
+            "Total": "116"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "ODISHA",
+            "I": "526",
+            "II": "443",
+            "III": "385",
+            "IV": "306",
+            "Total": "1660"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "PUNJAB",
+            "I": "707",
+            "II": "548",
+            "III": "648",
+            "IV": "324",
+            "Total": "2227"
+        },
+        {
+            "Sno.": "17",
+            "State Name": "RAJASTHAN",
+            "I": "889",
+            "II": "1796",
+            "III": "1398",
+            "IV": "782",
+            "Total": "4865"
+        },
+        {
+            "Sno.": "18",
+            "State Name": "SIKKIM",
+            "I": "7",
+            "II": "9",
+            "III": "38",
+            "IV": "77",
+            "Total": "131"
+        },
+        {
+            "Sno.": "19",
+            "State Name": "TAMIL NADU",
+            "I": "5643",
+            "II": "6190",
+            "III": "5674",
+            "IV": "6764",
+            "Total": "24271"
+        },
+        {
+            "Sno.": "20",
+            "State Name": "UTTAR PRADESH",
+            "I": "3079",
+            "II": "2737",
+            "III": "2528",
+            "IV": "2729",
+            "Total": "11073"
+        },
+        {
+            "Sno.": "21",
+            "State Name": "UTTARAKHAND",
+            "I": "2065",
+            "II": "2209",
+            "III": "1972",
+            "IV": "1927",
+            "Total": "8173"
+        }
+    ],
+    "2024-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ANDHRA PRADESH",
+            "I": "2567",
+            "II": "2377",
+            "III": "2126",
+            "IV": "1754",
+            "Total": "8824"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "12",
+            "II": "14",
+            "III": "28",
+            "IV": "28",
+            "Total": "82"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "BIHAR",
+            "I": "27",
+            "II": "54",
+            "III": "36",
+            "IV": "101",
+            "Total": "218"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "CHHATTISGARH",
+            "I": "1916",
+            "II": "1569",
+            "III": "1710",
+            "IV": "2194",
+            "Total": "7389"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "HARYANA",
+            "I": "193",
+            "II": "317",
+            "III": "292",
+            "IV": "273",
+            "Total": "1075"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "159",
+            "II": "127",
+            "III": "120",
+            "IV": "164",
+            "Total": "570"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "KARNATAKA",
+            "I": "4619",
+            "II": "6201",
+            "III": "6239",
+            "IV": "6482",
+            "Total": "23541"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "KERALA",
+            "I": "281",
+            "II": "244",
+            "III": "1099",
+            "IV": "268",
+            "Total": "1892"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "MADHYA PRADESH",
+            "I": "1035",
+            "II": "470",
+            "III": "80",
+            "IV": "0",
+            "Total": "1585"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "MAHARASHTRA",
+            "I": "4032",
+            "II": "3579",
+            "III": "3653",
+            "IV": "4092",
+            "Total": "15356"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "MANIPUR",
+            "I": "7",
+            "II": "4",
+            "III": "12",
+            "IV": "2",
+            "Total": "25"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "MEGHALAYA",
+            "I": "76",
+            "II": "82",
+            "III": "85",
+            "IV": "62",
+            "Total": "305"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "MIZORAM",
+            "I": "375",
+            "II": "502",
+            "III": "523",
+            "IV": "558",
+            "Total": "1958"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "NAGALAND",
+            "I": "9",
+            "II": "0",
+            "III": "0",
+            "IV": "38",
+            "Total": "47"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "ODISHA",
+            "I": "134",
+            "II": "104",
+            "III": "104",
+            "IV": "56",
+            "Total": "398"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "PUNJAB",
+            "I": "491",
+            "II": "225",
+            "III": "272",
+            "IV": "131",
+            "Total": "1119"
+        },
+        {
+            "Sno.": "17",
+            "State Name": "RAJASTHAN",
+            "I": "718",
+            "II": "915",
+            "III": "823",
+            "IV": "1078",
+            "Total": "3534"
+        },
+        {
+            "Sno.": "18",
+            "State Name": "SIKKIM",
+            "I": "40",
+            "II": "38",
+            "III": "43",
+            "IV": "66",
+            "Total": "187"
+        },
+        {
+            "Sno.": "19",
+            "State Name": "TAMIL NADU",
+            "I": "5457",
+            "II": "5751",
+            "III": "5055",
+            "IV": "6235",
+            "Total": "22498"
+        },
+        {
+            "Sno.": "20",
+            "State Name": "UTTAR PRADESH",
+            "I": "2651",
+            "II": "2268",
+            "III": "2354",
+            "IV": "2786",
+            "Total": "10059"
+        },
+        {
+            "Sno.": "21",
+            "State Name": "UTTARAKHAND",
+            "I": "2133",
+            "II": "1768",
+            "III": "1819",
+            "IV": "2022",
+            "Total": "7742"
+        }
+    ],
+    "2025-01-01": [
+        {
+            "Sno.": "1",
+            "State Name": "ARUNACHAL PRADESH",
+            "I": "7",
+            "II": "15",
+            "III": "0",
+            "IV": "0",
+            "Total": "22"
+        },
+        {
+            "Sno.": "2",
+            "State Name": "BIHAR",
+            "I": "380",
+            "II": "284",
+            "III": "272",
+            "IV": "90",
+            "Total": "1026"
+        },
+        {
+            "Sno.": "3",
+            "State Name": "CHHATTISGARH",
+            "I": "2211",
+            "II": "1785",
+            "III": "1615",
+            "IV": "0",
+            "Total": "5611"
+        },
+        {
+            "Sno.": "4",
+            "State Name": "HARYANA",
+            "I": "305",
+            "II": "169",
+            "III": "115",
+            "IV": "0",
+            "Total": "589"
+        },
+        {
+            "Sno.": "5",
+            "State Name": "HIMACHAL PRADESH",
+            "I": "101",
+            "II": "148",
+            "III": "143",
+            "IV": "0",
+            "Total": "392"
+        },
+        {
+            "Sno.": "6",
+            "State Name": "KARNATAKA",
+            "I": "4868",
+            "II": "1434",
+            "III": "363",
+            "IV": "0",
+            "Total": "6665"
+        },
+        {
+            "Sno.": "7",
+            "State Name": "MAHARASHTRA",
+            "I": "2854",
+            "II": "2913",
+            "III": "2326",
+            "IV": "794",
+            "Total": "8887"
+        },
+        {
+            "Sno.": "8",
+            "State Name": "MEGHALAYA",
+            "I": "87",
+            "II": "65",
+            "III": "79",
+            "IV": "0",
+            "Total": "231"
+        },
+        {
+            "Sno.": "9",
+            "State Name": "MIZORAM",
+            "I": "348",
+            "II": "0",
+            "III": "0",
+            "IV": "0",
+            "Total": "348"
+        },
+        {
+            "Sno.": "10",
+            "State Name": "ODISHA",
+            "I": "447",
+            "II": "161",
+            "III": "37",
+            "IV": "2",
+            "Total": "647"
+        },
+        {
+            "Sno.": "11",
+            "State Name": "PUNJAB",
+            "I": "64",
+            "II": "35",
+            "III": "22",
+            "IV": "20",
+            "Total": "141"
+        },
+        {
+            "Sno.": "12",
+            "State Name": "RAJASTHAN",
+            "I": "631",
+            "II": "769",
+            "III": "754",
+            "IV": "8",
+            "Total": "2162"
+        },
+        {
+            "Sno.": "13",
+            "State Name": "SIKKIM",
+            "I": "26",
+            "II": "27",
+            "III": "41",
+            "IV": "4",
+            "Total": "98"
+        },
+        {
+            "Sno.": "14",
+            "State Name": "TAMIL NADU",
+            "I": "5771",
+            "II": "5215",
+            "III": "2445",
+            "IV": "734",
+            "Total": "14165"
+        },
+        {
+            "Sno.": "15",
+            "State Name": "UTTAR PRADESH",
+            "I": "2721",
+            "II": "2925",
+            "III": "2859",
+            "IV": "778",
+            "Total": "9283"
+        },
+        {
+            "Sno.": "16",
+            "State Name": "UTTARAKHAND",
+            "I": "2069",
+            "II": "1079",
+            "III": "798",
+            "IV": "0",
+            "Total": "3946"
+        }
+    ]
+}

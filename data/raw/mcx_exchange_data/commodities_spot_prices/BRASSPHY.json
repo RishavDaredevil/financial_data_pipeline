@@ -1,0 +1,5938 @@
+[
+    {
+        "date": "2019-12-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 319.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 318.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 322.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 320.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 320.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 320.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 321.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 322.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 318.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 321.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 315.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 312.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 312.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 312.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 314.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 317.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 318.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 312.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 314.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 312.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 315.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 315.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 315.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 315.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 315.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 314.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 314.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 313.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 316.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 308.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 306.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 303.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 303.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 303.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 303.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 312.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 302.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-12-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 298.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 297.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 297.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 298.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 298.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 298.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 298.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 298.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 299.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 298.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 295.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 295.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 295.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 298.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 297.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 298.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 308.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 291.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-11-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 291.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 291.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 297.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 290.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 297.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 297.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 297.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 297.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 297.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 297.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 302.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 305.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 296.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 296.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 303.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 301.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 301.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 301.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 298.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 298.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 298.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 302.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 300.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 301.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 302.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 303.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 309.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 309.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 309.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 307.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 307.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-10-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 315.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 310.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 310.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 313.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 313.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 313.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 315.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 316.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 317.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 317.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 318.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 316.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 316.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 320.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 320.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 320.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 320.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 321.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 321.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 321.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 320.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 321.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 320.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 320.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 321.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 322.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 322.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 322.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 322.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 322.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-09-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 322.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 328.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 320.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 322.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 322.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-08-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 328.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 328.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-07-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 320.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 322.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 323.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 322.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 321.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 326.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 328.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 328.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 328.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 328.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 325.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 324.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-06-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 329.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 329.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 329.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 329.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 328.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 330.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 328.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 327.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 328.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 330.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 330.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 330.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 331.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 331.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 329.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 331.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 333.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 332.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 334.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 331.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 331.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 331.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 330.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 333.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 333.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 335.55,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 333.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 334.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 338.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 337.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 335.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 333.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 333.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 333.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-05-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 337.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 345.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-04-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 345.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 346.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 347.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 347.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 347.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 347.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 347.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 347.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 346.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 347.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 347.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 353.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 350.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 349.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 351.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 349.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 353.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-03-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 353.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 353.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 353.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 352.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 350.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 352.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 351.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 350.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 353.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 353.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 353.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 349.95,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 353.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 346.55,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 351.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 350.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 351.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 347.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 347.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 347.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 347.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 350.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 349.95,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 351.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 350.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 350.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 352.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 352.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 352.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 352.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 349.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 349.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 345.95,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-02-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 346.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 346.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.95,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 337.95,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 337.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 338.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 338.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2019-01-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 338.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 343.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 340.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 341.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 339.55,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 342.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 345.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 346.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 345.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 345.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 346.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 345.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 345.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 345.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 344.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 345.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 345.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 345.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 346.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-12-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 348.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 352.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 352.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 350.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 352.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 351.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 352.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 351.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 352.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 353.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 356.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 357.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-11-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 363.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 363.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.95,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 367.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 367.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 367.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 367.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 367.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.55,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-10-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.95,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.55,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 363.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 363.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-09-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 357.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-08-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 363.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 363.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 363.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 357.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 357.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 357.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 357.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 357.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 357.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.95,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-07-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 365.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 367.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 367.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 366.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 369.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 369.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 371.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 368.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 370.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 368.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 368.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 368.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 370.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 364.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 363.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-06-01",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-31",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-29",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-22",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.95,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.55,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-21",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 362.1,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-15",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.5,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-14",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-08",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-07",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 358.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-05-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-30",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 361.0,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-25",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 359.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-24",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.65,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-23",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-20",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.35,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-19",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 360.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 357.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-18",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 357.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 356.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-17",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 356.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 356.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-16",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 356.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-13",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-12",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 356.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-11",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.8,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-10",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.85,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.2,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-09",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 353.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-06",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.25,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-05",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.4,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-04",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 356.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-03",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 357.6,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 356.9,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-04-02",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.3,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-03-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.15,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-03-28",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.7,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-03-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.05,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-03-27",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 354.75,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-03-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 355.95,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    },
+    {
+        "date": "2018-03-26",
+        "Symbol": "BRASSPHY",
+        "TodaysSpotPrice": 356.45,
+        "Unit": "1 KGS",
+        "Location": "JAMNAGAR"
+    }
+]

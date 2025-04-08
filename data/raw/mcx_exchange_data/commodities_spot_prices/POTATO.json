@@ -1,0 +1,16 @@
+[
+    {
+        "date": "2019-08-13",
+        "Symbol": "POTATO",
+        "TodaysSpotPrice": 879.5,
+        "Unit": "100 KGS",
+        "Location": "AGRA"
+    },
+    {
+        "date": "2019-07-15",
+        "Symbol": "POTATO",
+        "TodaysSpotPrice": 995.9,
+        "Unit": "100 KGS",
+        "Location": "AGRA"
+    }
+]

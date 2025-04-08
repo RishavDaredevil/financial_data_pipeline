@@ -1,0 +1,905 @@
+[
+    {
+        "date": "2017-06-30",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3057.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-29",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3053.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-28",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3007.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-27",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 2958.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-26",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 2939.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-23",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 2916.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-22",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 2895.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-21",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 2967.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-20",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3020.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-19",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3060.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-16",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3016.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-15",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3023.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-14",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3140.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-13",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3107.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-12",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3094.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-09",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3080.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-08",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3098.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-07",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3225.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-06",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3183.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-05",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3218.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-02",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3264.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-01",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3276.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-31",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3351.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-30",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3376.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-29",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3369.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-26",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3320.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-25",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3500.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-24",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3508.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-23",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3478.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-22",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3484.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-19",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3379.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-18",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3343.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-17",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3310.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-16",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3323.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-15",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3269.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-12",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3272.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-11",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3240.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-10",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3143.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-09",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3168.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-08",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3158.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-05",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3107.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-04",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3258.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-03",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3240.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-02",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3308.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-01",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3342.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-28",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3298.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-27",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3317.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-26",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3349.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-25",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3327.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-24",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3355.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-21",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3425.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-20",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3416.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-19",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3544.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-18",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3565.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-17",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3595.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-13",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3614.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-12",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3629.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-11",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3607.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-10",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3557.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-07",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3567.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-06",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3536.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-05",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3516.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-04",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3448.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-03",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3471.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-31",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3439.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-30",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3405.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-29",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3341.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-28",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3303.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-27",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3325.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-24",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3308.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-23",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3316.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-22",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3328.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-21",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3375.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-20",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3392.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-17",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3383.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-16",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3394.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-15",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3370.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-14",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3424.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-13",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3426.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-10",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3485.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-09",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3539.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-08",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3726.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-07",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3739.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-06",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3736.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-03",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3676.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-02",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3768.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-01",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3771.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-28",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3732.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-27",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3742.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-24",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3782.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-23",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3739.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-22",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3795.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-21",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3763.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-20",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3742.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-17",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3726.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-16",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3731.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-15",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3747.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-14",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3723.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-13",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3795.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-10",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3728.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-09",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3710.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-09",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3710.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-08",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3709.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-07",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3744.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-06",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3828.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-03",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3815.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-02",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3842.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-01",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3769.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-31",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3758.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-30",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3787.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-27",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3754.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-25",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3779.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-24",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3760.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-23",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3778.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-20",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3692.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-19",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3663.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-18",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3775.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-17",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3807.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-16",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3783.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-13",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3813.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-12",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3759.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-11",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3651.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-10",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3746.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-09",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3880.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-06",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3856.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-05",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3849.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-04",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3777.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-03",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3865.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-02",
+        "Symbol": "BRCRUDEOIL",
+        "TodaysSpotPrice": 3861.0,
+        "Unit": "1 BBL",
+        "Location": "MUMBAI"
+    }
+]

@@ -1,0 +1,4482 @@
+[
+    {
+        "date": "2019-06-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 413.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 414.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 414.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 415.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 415.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 411.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 415.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 407.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 403.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 406.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 406.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 408.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 407.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 401.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 405.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 400.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 407.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 405.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-06-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 406.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 408.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 410.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 413.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 414.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 414.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 411.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 411.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 417.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 417.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 423.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 425.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 424.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 423.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 421.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 427.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 426.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 425.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 425.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 432.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 430.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 426.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 431.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-05-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 446.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 446.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 444.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 446.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 446.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 455.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 439.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 446.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 445.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 442.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 446.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-04-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 437.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 434.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 433.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 434.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 430.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 443.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 440.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 443.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 444.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 455.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 458.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-03-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 463.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 464.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 461.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 461.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 463.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 458.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 452.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 439.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 439.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 433.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 431.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 433.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 437.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 445.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 445.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 434.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-02-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 436.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 434.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 427.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 420.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 427.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 415.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 416.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 426.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 426.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 421.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 419.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 412.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 411.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 413.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 410.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 412.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 410.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 403.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 407.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 398.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 402.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 404.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2019-01-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 404.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 413.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 413.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 416.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 411.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 412.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 417.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 419.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 435.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 436.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 436.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 439.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 438.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 438.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 427.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 429.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 429.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 431.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 427.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 433.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-12-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 426.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 428.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 435.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 423.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 429.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 434.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 439.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 435.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 443.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 443.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 436.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 430.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 430.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 430.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 430.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 440.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 444.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 451.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 442.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-11-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 433.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 432.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 443.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 443.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 444.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 445.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 444.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 452.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 455.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 459.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 458.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 451.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 456.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-10-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 445.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 453.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 453.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 452.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 439.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 437.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 435.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 424.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 430.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 429.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 420.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 412.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 415.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 410.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 405.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 414.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-09-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 414.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 419.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 421.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 423.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 417.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 410.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 410.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 414.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 410.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 407.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 405.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 412.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 416.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 416.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 417.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 413.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 419.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 412.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 415.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-08-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 428.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 423.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 424.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 426.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 427.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 427.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 416.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 409.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 417.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 413.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 420.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 416.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 430.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 431.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 428.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 428.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 445.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-07-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 446.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 452.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 456.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 465.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 471.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 480.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 485.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 483.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 483.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 491.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 483.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 482.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 473.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 463.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 458.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-06-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 455.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 463.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 463.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 466.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 461.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 469.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 465.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 459.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 461.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 459.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 459.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 461.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 461.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 452.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 455.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 452.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-05-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 458.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 460.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 459.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 456.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 445.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 446.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 440.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 438.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 431.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 439.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 437.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-04-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 433.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 430.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 428.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 425.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 429.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 433.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 439.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 436.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 444.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 452.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 440.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 452.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-03-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 446.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 451.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 455.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 459.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 464.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 459.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 453.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 437.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 430.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 435.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 436.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 451.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-02-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 453.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 437.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 452.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 455.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 451.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 456.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 455.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 460.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 465.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2018-01-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 465.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 468.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 464.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 463.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 451.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 445.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 444.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 442.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 435.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 433.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 429.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 427.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 423.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 421.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 420.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 438.59,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 439.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-12-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 431.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 431.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 436.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 443.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 438.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 438.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 440.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 442.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 449.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 440.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 444.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 441.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 450.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 443.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-11-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 442.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 445.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 445.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 453.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 454.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 455.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 455.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 455.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 457.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 462.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 448.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 447.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 445.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 440.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 436.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 435.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 437.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 425.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 428.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-10-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 425.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 432.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 424.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 420.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 419.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 421.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 417.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 421.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 420.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 419.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 416.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 417.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 420.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 428.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 431.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 428.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 443.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 446.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 442.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 439.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 439.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-09-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 434.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 432.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 434.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 431.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 428.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 428.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 421.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 422.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 420.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 415.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 416.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 418.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 410.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 411.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 409.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 411.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 413.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 408.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 405.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 403.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 407.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 406.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-08-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 408.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 406.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 406.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 407.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 403.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 388.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 386.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 385.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 384.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 387.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 386.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 382.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 377.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 380.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 378.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 375.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 376.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 378.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 377.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 382.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 382.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-07-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 385.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 381.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 378.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 376.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 373.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 373.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 369.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 370.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 363.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 367.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 365.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 363.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 364.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 368.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 371.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 375.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 370.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 362.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 361.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 362.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 365.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 367.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-06-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 367.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 365.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 365.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 365.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 369.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 369.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 370.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 369.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 369.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 359.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 359.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 360.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 358.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 357.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 356.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 3082.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 354.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 355.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 353.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 358.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 355.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 359.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 373.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 376.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-05-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 367.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 364.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 365.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-26",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 365.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 362.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 361.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 362.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 360.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 360.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 368.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 364.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 362.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 371.1,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 369.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 375.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 380.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 384.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 373.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 372.55,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-04-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 379.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 382.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 383.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-29",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 384.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 377.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 379.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 381.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 379.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 377.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 384.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 388.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 385.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 383.7,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 384.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 386.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 381.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 379.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 382.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 384.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 388.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 397.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 395.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 403.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-03-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 397.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-28",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 395.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 394.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 389.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 403.5,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-22",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 405.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-21",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 400.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 400.15,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 401.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 404.3,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-15",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 403.95,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-14",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 410.85,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 408.45,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 392.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 395.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 395.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-08",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 390.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-07",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 392.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 388.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 399.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 404.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-02-01",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 407.75,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-31",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 398.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-30",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 404.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-27",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 407.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-25",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 407.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-24",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 397.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-23",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 394.05,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-20",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 392.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-19",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 391.9,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-18",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 393.8,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-17",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 404.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-16",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 404.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-13",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 401.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-12",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 392.65,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-11",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 392.0,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-10",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 381.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-09",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 381.4,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-06",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 379.2,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-05",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 384.25,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-04",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 373.6,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-03",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 375.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    },
+    {
+        "date": "2017-01-02",
+        "Symbol": "COPPERM",
+        "TodaysSpotPrice": 375.35,
+        "Unit": "1 KGS",
+        "Location": "MUMBAI"
+    }
+]

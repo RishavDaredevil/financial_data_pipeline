@@ -1,0 +1,23 @@
+[
+    {
+        "date": "2025-04-01",
+        "Symbol": "GOLDTEN",
+        "TodaysSpotPrice": 91162.0,
+        "Unit": "10 GRMS",
+        "Location": "AHMEDABAD"
+    },
+    {
+        "date": "2025-04-01",
+        "Symbol": "GOLDTEN",
+        "TodaysSpotPrice": 90996.0,
+        "Unit": "10 GRMS",
+        "Location": "AHMEDABAD"
+    },
+    {
+        "date": "2025-03-31",
+        "Symbol": "GOLDTEN",
+        "TodaysSpotPrice": 89048.0,
+        "Unit": "10 GRMS",
+        "Location": "AHMEDABAD"
+    }
+]

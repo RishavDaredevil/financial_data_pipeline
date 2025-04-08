@@ -1,0 +1,3705 @@
+[
+    {
+        "date": "2025-04-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 352.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-31",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 347.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 336.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 331.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 329.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 335.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 343.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 343.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 367.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 351.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 348.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 357.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 358.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 356.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 388.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 391.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 383.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 374.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 387.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 380.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 360.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-03-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 335.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 343.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 344.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 363.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 346.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 366.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 360.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 372.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 348.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 323.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 323.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 315.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 309.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 305.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 301.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 289.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 298.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 293.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 283.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 292.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-02-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 263.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-31",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 263.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 274.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 300.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 319.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 347.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 341.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 342.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 324.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 341.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 341.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 368.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 353.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 343.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 340.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 342.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 317.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 313.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 295.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 315.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 287.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 314.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 311.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2025-01-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 311.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-31",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 336.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 289.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 316.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 336.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 311.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 318.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 304.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 286.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 280.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 272.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 278.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 293.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 286.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 268.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 269.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 260.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 260.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 257.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 257.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 272.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-12-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 284.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 270.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 270.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 292.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 283.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 264.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 282.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 269.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 253.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 250.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 238.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 235.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 251.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 245.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 246.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 225.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 227.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 231.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 224.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 233.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 227.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-11-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 227.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-31",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 239.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 240.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 194.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 215.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 212.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 196.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 194.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 194.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 189.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 189.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 197.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 199.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 210.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 209.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 221.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 224.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 223.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 229.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 230.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 239.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 249.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 242.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-10-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 244.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 242.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 230.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 220.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 213.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 218.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 203.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 196.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 191.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 194.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 199.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 193.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 198.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 190.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 187.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 182.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 190.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 189.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 180.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 184.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 178.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-09-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 178.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 179.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 176.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 159.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 164.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 169.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 172.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 182.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 184.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 187.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 178.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 186.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 180.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 183.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 179.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 178.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 177.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 168.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 162.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 164.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 164.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-08-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 170.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-31",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 178.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 170.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 168.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 170.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 177.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 183.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 188.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 178.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 177.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 170.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 182.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 180.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 194.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 189.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 194.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 195.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 197.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 193.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 202.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 202.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 203.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 206.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-07-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 217.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 224.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 229.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 229.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 234.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 226.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 228.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 242.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 242.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 232.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 240.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 247.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 254.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 261.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 242.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 243.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 235.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 229.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 215.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 228.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-06-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 215.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-31",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 214.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 222.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 215.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 209.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 209.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 221.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 236.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 222.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 229.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 219.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 208.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 201.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 195.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 198.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 188.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 192.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 182.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 184.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 183.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 178.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 169.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 161.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 166.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-05-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 166.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 169.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 160.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 136.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 137.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 151.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 149.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 146.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 146.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 142.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 144.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 141.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 147.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 146.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 156.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 156.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 153.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 148.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 148.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 153.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 155.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 153.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-04-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 147.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 143.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 149.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 134.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 138.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 139.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 141.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 144.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 141.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 137.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 144.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 137.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 141.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 145.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 149.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 150.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 159.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 162.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 158.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 152.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-03-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 154.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 156.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 149.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 137.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 132.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 143.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 147.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 130.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 133.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 133.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 131.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 133.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 140.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 146.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 153.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 159.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 163.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 166.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 172.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 172.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 170.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-02-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 174.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-31",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 172.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 170.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 213.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 219.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 203.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 201.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 209.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 224.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 238.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 240.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 274.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 274.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 256.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 252.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 265.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 247.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 240.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 235.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 222.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 214.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 209.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2024-01-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 209.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 212.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 203.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 212.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 217.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 214.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 203.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 207.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 207.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 207.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 207.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 199.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 194.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 192.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 202.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 215.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 215.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 214.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 226.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 224.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 234.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-12-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 233.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 233.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 236.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 232.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 238.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 241.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 241.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 237.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 240.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 246.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 254.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 265.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 258.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 266.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 252.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 252.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 253.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 258.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 261.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 271.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 292.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 289.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 291.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-11-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 297.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-31",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 279.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 290.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 267.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 250.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 247.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 243.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 241.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 246.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 254.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 256.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 258.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 269.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 278.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 281.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 281.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 281.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 277.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 263.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 246.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 245.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-10-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 243.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 244.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 241.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 221.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 219.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 218.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 217.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 227.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 237.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 227.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 219.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 224.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 222.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 227.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 216.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 216.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 214.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 208.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 214.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 228.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 228.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-09-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 228.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-31",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 231.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 220.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 213.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 209.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 207.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 207.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 212.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 218.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 212.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 217.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 215.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 231.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 229.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 228.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 245.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 225.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 213.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 212.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 204.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 210.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-08-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 216.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-31",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 217.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 212.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 218.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 223.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 220.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 222.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 226.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 213.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 215.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 206.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 208.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 209.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 216.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 224.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 220.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 213.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 215.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 218.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 221.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 221.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-07-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 229.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 221.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 218.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 226.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 228.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 223.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 213.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 204.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 215.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 215.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 208.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 192.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 192.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 186.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 185.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 194.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 192.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-07",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 186.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 185.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 178.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 177.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-06-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 187.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-31",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 192.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 199.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 199.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 190.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 198.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 192.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 198.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 213.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 213.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 194.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 195.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 195.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 186.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 179.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 179.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 185.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-09",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 183.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-08",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 174.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 171.7,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 177.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 181.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-02",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 189.6,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-05-01",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 197.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 192.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 188.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-26",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 188.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-25",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 186.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 183.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 184.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 182.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-19",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 194.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-18",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 186.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 173.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 164.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-13",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 171.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-12",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 179.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-11",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 177.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-10",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 164.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-06",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 177.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-05",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 173.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-04",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 172.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-04-03",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 182.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-31",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 173.3,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-30",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 179.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-29",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 166.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-28",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 172.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-27",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 182.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-24",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 177.0,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-23",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 179.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-22",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 194.1,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-21",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 183.4,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-20",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 192.8,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-17",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 207.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-16",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 201.2,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-15",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 211.9,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    },
+    {
+        "date": "2023-03-14",
+        "Symbol": "NATGASMINI",
+        "TodaysSpotPrice": 213.5,
+        "Unit": "1 mmBtu",
+        "Location": "NA"
+    }
+]

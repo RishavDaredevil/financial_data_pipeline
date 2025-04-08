@@ -1,0 +1,2473 @@
+[
+    {
+        "date": "2017-10-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1400.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-10-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1390.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-29",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1402.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-28",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1402.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-27",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1402.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-27",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1385.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-26",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1375.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-26",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1391.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-25",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1362.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-25",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1391.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-22",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1435.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-22",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1473.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-19",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1473.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-19",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-18",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-18",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1475.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-15",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1443.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-15",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1465.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-14",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1498.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-14",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1472.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-13",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1475.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-13",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1481.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-12",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1487.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-12",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1487.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-11",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-11",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1562.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-08",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1535.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-08",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1535.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1540.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1557.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1525.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1525.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-05",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1525.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-05",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1530.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-04",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1575.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-04",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1585.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-01",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1575.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-09-01",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1625.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-31",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1625.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-31",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1625.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-30",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1587.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-30",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1635.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-29",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1635.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-29",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1602.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-28",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1610.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-28",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1635.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-24",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1630.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-24",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1600.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-23",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1600.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-23",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1620.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-22",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1627.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-22",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1625.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1625.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-18",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1625.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-18",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1627.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-16",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-16",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1660.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-14",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1655.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-11",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1655.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-11",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1655.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1655.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-09",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1655.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-09",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-08",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1655.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-08",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1655.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-04",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-04",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1655.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1655.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-02",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-02",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1652.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-01",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1647.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-08-01",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1645.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-31",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1645.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-31",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1647.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-28",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1645.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-28",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-27",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-27",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1645.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-26",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-26",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1645.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-25",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-25",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1645.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-24",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-24",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1640.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1640.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1645.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1640.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1637.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-19",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1622.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-19",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1637.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-18",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1652.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-18",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1637.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1610.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-14",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1610.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-14",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1655.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-13",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-13",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1595.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-12",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1620.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-12",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1625.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-11",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-11",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1650.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1625.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1615.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1587.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1587.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1602.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1580.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-05",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1605.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-05",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1622.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-04",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1602.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-04",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1625.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1577.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-07-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1605.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-30",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1580.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-30",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1580.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-29",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1575.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-29",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1535.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-28",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1535.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-27",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1535.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-23",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1535.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-23",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1530.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-22",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1533.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-22",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1530.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1533.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1530.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1530.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1530.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-19",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1526.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-19",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1520.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-16",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1520.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-16",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1517.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-15",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1530.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-15",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1512.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-14",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1520.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-14",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1517.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-13",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1520.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-13",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1517.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-12",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1517.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-12",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1525.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-09",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1515.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-09",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1527.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-08",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1517.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-08",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1517.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-05",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1525.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-05",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-02",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1522.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-02",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1512.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-01",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1512.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-06-01",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-31",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1512.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-31",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1522.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-30",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1522.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-30",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-29",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1522.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-29",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1490.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-26",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-26",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-25",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-24",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-24",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-23",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-23",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-22",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-22",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-19",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1507.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-19",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1497.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-18",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-18",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1515.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1505.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1505.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-16",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1515.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-16",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1515.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-15",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1520.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-15",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1505.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-12",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1520.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-12",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-11",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-11",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1495.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-09",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-09",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1505.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-08",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1515.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-08",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1522.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-05",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1503.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-05",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1505.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-04",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-04",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-02",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-05-02",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-28",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1505.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-28",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1485.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-27",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-26",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-25",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-25",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1472.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-24",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1495.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-24",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1485.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1505.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1492.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1505.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-19",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1500.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-19",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1482.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-18",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-18",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1467.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1470.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-13",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-13",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-12",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1455.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-12",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-11",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1465.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1455.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-05",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1453.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1453.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-04-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-31",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-30",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-29",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-28",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-27",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-24",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-24",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1430.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-23",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-23",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1425.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-22",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1435.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-22",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1422.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1432.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1425.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1420.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-16",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1445.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-16",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-15",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-15",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-14",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1445.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1445.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-09",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1445.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-09",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1425.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-08",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-08",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1430.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1470.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1430.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1465.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1475.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-02",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1455.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-02",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1475.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-01",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-03-01",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1470.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-28",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1470.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-28",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1470.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-27",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1465.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-27",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1470.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-23",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1465.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-23",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1465.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-22",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1465.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-22",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1478.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1477.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-21",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1465.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1465.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1467.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1470.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-16",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-16",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1470.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-15",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1480.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-15",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1475.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-14",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1470.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-14",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1480.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-13",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1466.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-13",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1480.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1475.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1480.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-09",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1485.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-09",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1485.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-08",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1490.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-08",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1490.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1485.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-07",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 745.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1475.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1510.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1485.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1485.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-02",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1485.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-02",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1485.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-01",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1507.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-02-01",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1475.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-31",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1485.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-31",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1475.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-30",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-30",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1492.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-27",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1497.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-27",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1497.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-25",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1497.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-25",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1480.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-24",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1490.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-24",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1465.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-23",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1476.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-23",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1465.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-20",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-19",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1455.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-19",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-18",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1460.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-18",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1445.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-17",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-16",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-16",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-13",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1435.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-13",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1435.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-12",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-12",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1440.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-11",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-11",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1442.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1450.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-10",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1432.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-09",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1437.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-09",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1435.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1435.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-06",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1415.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-05",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1417.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-05",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1435.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-04",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1435.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-04",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1417.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1417.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-03",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1432.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-02",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1432.5,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    },
+    {
+        "date": "2017-01-02",
+        "Symbol": "MAIZE",
+        "TodaysSpotPrice": 1419.0,
+        "Unit": "100 KGS",
+        "Location": "NIZAMABAD"
+    }
+]
