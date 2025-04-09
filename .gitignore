@@ -14,3 +14,5 @@ __pycache__/
 
 # Ignore .scrapy directories within scrapers
 scrapers/**/.scrapy/
+test.py
+test2playright.py
