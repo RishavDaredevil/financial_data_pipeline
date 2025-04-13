@@ -1,4 +1,4 @@
-# Scrapy settings for investing_com_Scraper project
+# Scrapy settings for tradingeconomics_data project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,13 +7,13 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "investing_com_Scraper"
+BOT_NAME = "tradingeconomics_data"
 
-SPIDER_MODULES = ["investing_com_Scraper.spiders"]
-NEWSPIDER_MODULE = "investing_com_Scraper.spiders"
+SPIDER_MODULES = ["tradingeconomics_data.spiders"]
+NEWSPIDER_MODULE = "tradingeconomics_data.spiders"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = "investing_com_Scraper (+http://www.yourdomain.com)"
+#USER_AGENT = "tradingeconomics_data (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -45,14 +45,14 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    "investing_com_Scraper.middlewares.InvestingComScraperSpiderMiddleware": 543,
+#    "tradingeconomics_data.middlewares.TradingeconomicsDataSpiderMiddleware": 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
     'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
-    'investing_com_Scraper.middlewares.RandomUserAgentMiddleware': 400,
+    'tradingeconomics_data.middlewares.RandomUserAgentMiddleware': 400,
 }
 
 # Enable or disable extensions
@@ -64,7 +64,7 @@ DOWNLOADER_MIDDLEWARES = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    "investing_com_Scraper.pipelines.InvestingComScraperPipeline": 300,
+#    "tradingeconomics_data.pipelines.TradingeconomicsDataPipeline": 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -82,7 +82,7 @@ AUTOTHROTTLE_ENABLED = True
 
 # Enable and configure HTTP caching (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings
-HTTPCACHE_ENABLED = True
+#HTTPCACHE_ENABLED = True
 #HTTPCACHE_EXPIRATION_SECS = 0
 #HTTPCACHE_DIR = "httpcache"
 #HTTPCACHE_IGNORE_HTTP_CODES = []
@@ -91,4 +91,3 @@ HTTPCACHE_ENABLED = True
 # Set settings whose default value is deprecated to a future-proof value
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
-# DUPEFILTER_CLASS = 'scrapy.dupefilters.BaseDupeFilter'

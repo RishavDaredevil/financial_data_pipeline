@@ -16,3 +16,4 @@ __pycache__/
 scrapers/**/.scrapy/
 test.py
 test2playright.py
+scrapers/python/tradingeconomics_data/test(not used anywhere).csv
