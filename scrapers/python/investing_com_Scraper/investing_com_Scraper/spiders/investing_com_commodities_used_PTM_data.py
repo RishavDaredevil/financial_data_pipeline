@@ -53,10 +53,8 @@ class InvestingComCommoditiesUsedPtmDataSpider(scrapy.Spider):
         }
 
         params = {
-            # 'start-date': start_time,
-            'start-date': "2013-01-01",
-            # 'end-date': end_time,
-            'end-date': "2025-04-13",
+            'start-date': start_time,
+            'end-date': end_time,
             'time-frame': 'Daily',
             'add-missing-rows': 'false',
         }
