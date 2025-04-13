@@ -32,13 +32,12 @@ class InvestingComApiTestSpider(scrapy.Spider):
             'pragma': 'no-cache',
             'priority': 'u=1, i',
             'referer': 'https://in.investing.com/',
-            'sec-ch-ua': '"Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"',
             'sec-ch-ua-mobile': '?0',
             'sec-ch-ua-platform': '"Windows"',
             'sec-fetch-dest': 'empty',
             'sec-fetch-mode': 'cors',
             'sec-fetch-site': 'same-site',
-            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
         }
 
         params = {
@@ -54,7 +53,7 @@ class InvestingComApiTestSpider(scrapy.Spider):
 
         for browser in ["chrome116"]:
             yield scrapy.Request(
-                url,
+                "https://httpbin.org/headers",
                 headers=headers,
                 callback=self.parse,
                 dont_filter=True,
@@ -62,4 +61,4 @@ class InvestingComApiTestSpider(scrapy.Spider):
             )
     def parse(self, response):
         data = json.loads(response.body)
-        yield data
+        print(data)
