@@ -5480,5 +5480,91 @@
             "CSI": 93.736,
             "FEI": 120.744
         }
+    },
+    "2025-03-01 00:00:00": {
+        "T1 Economic Situation": {
+            "Current Perception - Improved": 34.7,
+            "Current Perception - Remained Same": 24.7,
+            "Current Perception - Worsened": 40.6,
+            "Current Perception - Net Response": -5.9,
+            "One Year Ahead Expectation - Will Improve": 56.6,
+            "One Year Ahead Expectation - Will Remain Same": 14.9,
+            "One Year Ahead Expectation - Will Worsen": 28.5,
+            "One Year Ahead Expectation - Net Response": 28.0
+        },
+        "T2 Employment": {
+            "Current Perception - Improved": 35.5,
+            "Current Perception - Remained Same": 23.0,
+            "Current Perception - Worsened": 41.5,
+            "Current Perception - Net Response": -6.1,
+            "One Year Ahead Expectation - Will Improve": 56.4,
+            "One Year Ahead Expectation - Will Remain Same": 16.5,
+            "One Year Ahead Expectation - Will Worsen": 27.1,
+            "One Year Ahead Expectation - Net Response": 29.3
+        },
+        "T3 Prices": {
+            "Current Perception - Improved": 91.0,
+            "Current Perception - Remained Same": 7.8,
+            "Current Perception - Worsened": 1.3,
+            "Current Perception - Net Response": -89.7,
+            "One Year Ahead Expectation - Will Improve": 82.2,
+            "One Year Ahead Expectation - Will Remain Same": 9.4,
+            "One Year Ahead Expectation - Will Worsen": 8.4,
+            "One Year Ahead Expectation - Net Response": -73.8
+        },
+        "T4 Inflation": {
+            "Current Perception - Improved": 79.4,
+            "Current Perception - Remained Same": 14.0,
+            "Current Perception - Worsened": 6.7,
+            "Current Perception - Net Response": -72.7,
+            "One Year Ahead Expectation - Will Improve": 78.5,
+            "One Year Ahead Expectation - Will Remain Same": 15.0,
+            "One Year Ahead Expectation - Will Worsen": 6.5,
+            "One Year Ahead Expectation - Net Response": -72.0
+        },
+        "T5 Income": {
+            "Current Perception - Improved": 23.8,
+            "Current Perception - Remained Same": 53.0,
+            "Current Perception - Worsened": 23.3,
+            "Current Perception - Net Response": 0.5,
+            "One Year Ahead Expectation - Will Improve": 57.5,
+            "One Year Ahead Expectation - Will Remain Same": 36.0,
+            "One Year Ahead Expectation - Will Worsen": 6.5,
+            "One Year Ahead Expectation - Net Response": 51.0
+        },
+        "T6 Spending": {
+            "Current Perception - Improved": 80.1,
+            "Current Perception - Remained Same": 18.8,
+            "Current Perception - Worsened": 1.2,
+            "Current Perception - Net Response": 78.9,
+            "One Year Ahead Expectation - Will Improve": 79.6,
+            "One Year Ahead Expectation - Will Remain Same": 18.0,
+            "One Year Ahead Expectation - Will Worsen": 2.4,
+            "One Year Ahead Expectation - Net Response": 77.2
+        },
+        "T7 Essential spending": {
+            "Current Perception - Improved": 87.4,
+            "Current Perception - Remained Same": 12.0,
+            "Current Perception - Worsened": 0.6,
+            "Current Perception - Net Response": 86.9,
+            "One Year Ahead Expectation - Will Improve": 86.2,
+            "One Year Ahead Expectation - Will Remain Same": 12.1,
+            "One Year Ahead Expectation - Will Worsen": 1.8,
+            "One Year Ahead Expectation - Net Response": 84.4
+        },
+        "T8 Non-essential spending": {
+            "Current Perception - Improved": 28.5,
+            "Current Perception - Remained Same": 40.9,
+            "Current Perception - Worsened": 30.7,
+            "Current Perception - Net Response": -2.2,
+            "One Year Ahead Expectation - Will Improve": 37.7,
+            "One Year Ahead Expectation - Will Remain Same": 37.7,
+            "One Year Ahead Expectation - Will Worsen": 24.6,
+            "One Year Ahead Expectation - Net Response": 13.1
+        },
+        "T9 Indices": {
+            "CSI": 98.71,
+            "FEI": 117.15
+        }
     }
 }

@@ -1755,7 +1755,12 @@
             "Primary Non-food": 167.4
         }
     ],
-    "2025-02-28": [
-        {}
-    ]
+    "2025-02-28": {
+        "Wholesale Price Index (2011-12=100)": 154.8,
+        "Primary Articles": 186.6,
+        "Primary Food": 195.8,
+        "Primary Non-food": 166.8,
+        "Fuel and Power": 153.8,
+        "Manufactured Products": 143.8
+    }
 }

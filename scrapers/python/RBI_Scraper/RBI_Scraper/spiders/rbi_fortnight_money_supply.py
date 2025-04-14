@@ -20,7 +20,7 @@ class RbiFortnightMoneySupplySpider(scrapy.Spider):
     year_of_data = 0
     CSV_FILE = "rbi_fortnight_money_supply_last_date.csv"
     # Define file path
-    jsonl_file_path = r"D:\Desktop\financial_data_pipeline\data\raw\RBI_data\fortnight_money_supply.jsonl"
+    jsonl_file_path = r"D:\Desktop\financial_data_pipeline\data\raw\RBI_data\money_supply.jsonl"
 
     def parse(self, response):
         # print(response.text)
@@ -152,10 +152,10 @@ class RbiFortnightMoneySupplySpider(scrapy.Spider):
         json_line = json.dumps(json_data)
         print(json_line)
 
-        # with open(self.jsonl_file_path, "a", encoding="utf-8") as file:
-        #     file.write(json_line + "\n")
-        #
-        # print(f"Data appended to {self.jsonl_file_path}")
+        with open(self.jsonl_file_path, "a", encoding="utf-8") as file:
+            file.write(json_line + "\n")
+
+        print(f"Data appended to {self.jsonl_file_path}")
 
     def convert_date_numeric_is_day(self, month_day_of_data,year_of_data):
         try:

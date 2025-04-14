@@ -1998,5 +1998,13 @@
             "Export-weighted-NEER": 93.2553,
             "Export-weighted-REER": 101.7678
         }
+    ],
+    "2025-02-28": [
+        {
+            "Trade-weighted-NEER": 89.36,
+            "Trade-weighted-REER": 102.37,
+            "Export-weighted-NEER": 91.98,
+            "Export-weighted-REER": 99.6
+        }
     ]
 }

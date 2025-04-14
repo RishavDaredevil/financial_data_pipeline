@@ -5,6 +5,7 @@ import os
 import json
 import logging
 import scrapy
+from datetime import datetime
 from rich import print
 from RBI_Scraper.items import RBI_root_page, RBIItemLoader
 
@@ -26,6 +27,7 @@ class RootPageDataSpider(scrapy.Spider):
             "Lending_Deposit_Rates",
             "Market_Trends"
         ]
+        today = datetime.today().strftime("%Y-%m-%d")
         item = RBI_root_page()
         for table,section in zip(tables,section_values):
             table_rows = table.xpath('.//tr')
